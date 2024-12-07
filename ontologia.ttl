@@ -1,0 +1,113 @@
+@prefix ont: <https://upm.es/bactery/ontology#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+<https://upm.es/bactery/ontology> a owl:Ontology ;
+    dc:title "Ontology of Bacteria and Antibiotic Resistance Genes (ARGs)" .
+    
+
+###################################################################
+# Main Classes
+###################################################################
+
+# Class: Bacteria
+ont:Bacteria a owl:Class ;
+    rdfs:subClassOf owl:Thing .
+
+# Class: ARG (Antibiotic Resistance Gene)
+ont:ARG a owl:Class ;
+    rdfs:comment "A gene that confers resistance to one or more antibiotics" ;
+    rdfs:subClassOf owl:Thing .
+
+# Class: Antibiotic
+ont:Antibiotic a owl:Class ;
+    rdfs:comment "A substance used to inhibit bacterial growth or destroy bacteria" ;
+    rdfs:subClassOf owl:Thing .
+
+# Class: ResistanceMechanism
+ont:ResistanceMechanism a owl:Class ;
+    rdfs:comment "The mechanism by which a bacterium resists an antibiotic" ;
+    rdfs:subClassOf owl:Thing .
+
+# Class: DrugClass
+ont:DrugClass a owl:Class ;
+    rdfs:comment "A class of antibiotics based on their chemical structure and mechanism of action" ;
+    rdfs:subClassOf owl:Thing .
+
+# Class: Pathogen
+ont:Pathogen a owl:Class ;
+    rdfs:label "Pathogen"@en ;
+    rdfs:comment "A microorganism that can cause disease" ;
+    rdfs:subClassOf ont:Bacteria .
+
+
+
+###################################################################
+# Object Properties 
+###################################################################
+
+# Property: resistantTo (Resistance to Antibiotic)
+ont:resistantTo a owl:ObjectProperty ;
+    rdfs:domain ont:Bacteria ;
+    rdfs:range ont:Antibiotic .
+
+# Property: containsARG (Has ARG)
+ont:containsARG a owl:ObjectProperty ;
+    rdfs:domain ont:Bacteria ;
+    rdfs:range ont:ARG .
+
+# Property: hasFrequency (Has Frequency)
+ont:hasFrequency a owl:ObjectProperty ;
+    rdfs:domain ont:Bacteria ;
+    rdfs:range ont:Frequency .
+
+# Property: associatedDrugClass (Associated Drug Class)
+ont:associatedDrugClass a owl:ObjectProperty ;
+    rdfs:domain ont:Antibiotic ;
+    rdfs:range ont:DrugClass .
+
+# Property: resistanceMechanism (Resistance Mechanism)
+ont:resistanceMechanism a owl:ObjectProperty ;
+    rdfs:domain ont:ARG ;
+    rdfs:range ont:ResistanceMechanism .
+
+# Property: foundInPathogen (Found in Pathogen)
+ont:foundInPathogen a owl:ObjectProperty ;
+    rdfs:domain ont:ARG ;
+    rdfs:range ont:Pathogen .
+
+
+###################################################################
+# Data Properties (Attributes of classes)
+###################################################################
+
+ont:pathogenName a owl:DatatypeProperty ;
+    rdfs:domain ont:Pathogen ;
+    rdfs:range xsd:string .
+
+
+ont:argName a owl:DatatypeProperty ;
+    rdfs:domain ont:ARG ;
+    rdfs:range xsd:string .
+
+
+ont:aroID a owl:DatatypeProperty ;
+    rdfs:comment "The identifier for the Antibiotic Resistance Ontology (ARO) entry of the resistance gene" ;
+    rdfs:domain ont:ARG ;
+    rdfs:range xsd:int .
+
+
+ont:frequency a owl:DatatypeProperty ;
+    rdfs:comment "The frequency of occurrence of a resistance gene in a bacterial population" ;
+    rdfs:domain ont:Frequency ;
+    rdfs:range xsd:float .
+
+
+ont:aroID a owl:DatatypeProperty ;
+    rdfs:domain ont:Pathogen ;
+    rdfs:range xsd:^^int .
+
