@@ -27,7 +27,7 @@ You can import the ontology into tools such as [Protégé](https://protege.stanf
 The following query retrieves bacteria and the antibiotics they are resistant to:
 
 ```sparql
-PREFIX ont: <https://upm.es/bactery/ontology#>
+PREFIX  ont: <https://Junjingw.github.io/bacteria-ontologia#> 
 SELECT ?bacteria ?antibiotic
 WHERE {
     ?bacteria ont:resistantTo ?antibiotic .
@@ -77,4 +77,5 @@ If you use this ontology, please cite:
 ```
 Ontology of Bacteria and Antibiotic Resistance Genes (ARGs).
 Universidad Politécnica de Madrid, 2024.
-Available at: 
+Available at: https://Junjingw.github.io/bacteria-ontologia#
+
