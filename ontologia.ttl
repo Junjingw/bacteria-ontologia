@@ -30,7 +30,7 @@ ont:Antibiotic a owl:Class ;
 ont:ResistanceMechanism a owl:Class ;
     rdfs:comment "The mechanism by which a bacterium resists an antibiotic" ;
     rdfs:subClassOf owl:Thing .
-    
+
 # Class: DrugClass
 ont:DrugClass a owl:Class ;
     rdfs:comment "A class of antibiotics based on their chemical structure and mechanism of action" ;
@@ -66,7 +66,7 @@ ont:resistanceMechanism a owl:ObjectProperty ;
     rdfs:range ont:ResistanceMechanism .
 
 # Property: foundIn
-ont:foundInPathogen a owl:ObjectProperty ;
+ont:foundIn a owl:ObjectProperty ;
     rdfs:domain ont:ARG ;
     rdfs:range ont:Bacteria .
 
