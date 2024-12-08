@@ -5,10 +5,8 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-
 <https://Junjingw.github.io/bacteria-ontologia#> a owl:Ontology ;
     dc:title "Ontology of Bacteria and Antibiotic Resistance Genes (ARGs)" .
-    
 
 ###################################################################
 # Main Classes
@@ -32,19 +30,15 @@ ont:Antibiotic a owl:Class ;
 ont:ResistanceMechanism a owl:Class ;
     rdfs:comment "The mechanism by which a bacterium resists an antibiotic" ;
     rdfs:subClassOf owl:Thing .
-
+    
 # Class: DrugClass
 ont:DrugClass a owl:Class ;
     rdfs:comment "A class of antibiotics based on their chemical structure and mechanism of action" ;
     rdfs:subClassOf owl:Thing .
 
-# Class: Pathogen
-ont:Pathogen a owl:Class ;
-    rdfs:label "Pathogen"@en ;
-    rdfs:comment "A microorganism that can cause disease" ;
-    rdfs:subClassOf ont:Bacteria .
-
-
+ont:SymptomsAndSigns a owl:Class ;
+    rdfs:subClassOf owl:Thing ;
+    rdfs:seeAlso <http://www.wikidata.org/entity/Property:P780> .
 
 ###################################################################
 # Object Properties 
@@ -52,18 +46,14 @@ ont:Pathogen a owl:Class ;
 
 # Property: resistantTo (Resistance to Antibiotic)
 ont:resistantTo a owl:ObjectProperty ;
-    rdfs:domain ont:Bacteria ;
+    rdfs:domain ont:ARG ;
     rdfs:range ont:Antibiotic .
 
 # Property: containsARG (Has ARG)
 ont:containsARG a owl:ObjectProperty ;
     rdfs:domain ont:Bacteria ;
-    rdfs:range ont:ARG .
-
-# Property: hasFrequency (Has Frequency)
-ont:hasFrequency a owl:ObjectProperty ;
-    rdfs:domain ont:Bacteria ;
-    rdfs:range ont:Frequency .
+    rdfs:range ont:ARG ;
+    owl:inverseOf ont:correspondsToBacteria .
 
 # Property: associatedDrugClass (Associated Drug Class)
 ont:associatedDrugClass a owl:ObjectProperty ;
@@ -75,11 +65,10 @@ ont:resistanceMechanism a owl:ObjectProperty ;
     rdfs:domain ont:ARG ;
     rdfs:range ont:ResistanceMechanism .
 
-# Property: foundInPathogen (Found in Pathogen)
+# Property: foundIn
 ont:foundInPathogen a owl:ObjectProperty ;
     rdfs:domain ont:ARG ;
-    rdfs:range ont:Pathogen .
-
+    rdfs:range ont:Bacteria .
 
 ###################################################################
 # Data Properties (Attributes of classes)
@@ -89,13 +78,12 @@ ont:pathogenName a owl:DatatypeProperty ;
     rdfs:domain ont:Pathogen ;
     rdfs:range xsd:string .
 
-
 ont:argName a owl:DatatypeProperty ;
     rdfs:domain ont:ARG ;
     rdfs:range xsd:string .
 
-
 ont:frequency a owl:DatatypeProperty ;
     rdfs:comment "The frequency of occurrence of a resistance gene in a bacterial population" ;
-    rdfs:domain ont:Frequency ;
+    rdfs:domain ont:ARG ;
     rdfs:range xsd:float .
+
