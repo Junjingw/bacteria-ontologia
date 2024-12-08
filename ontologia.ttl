@@ -6,7 +6,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 
-<https://upm.es/bactery/ontology> a owl:Ontology ;
+<https://Junjingw.github.io/bacteria-ontologia#> a owl:Ontology ;
     dc:title "Ontology of Bacteria and Antibiotic Resistance Genes (ARGs)" .
     
 
@@ -95,19 +95,7 @@ ont:argName a owl:DatatypeProperty ;
     rdfs:range xsd:string .
 
 
-ont:aroID a owl:DatatypeProperty ;
-    rdfs:comment "The identifier for the Antibiotic Resistance Ontology (ARO) entry of the resistance gene" ;
-    rdfs:domain ont:ARG ;
-    rdfs:range xsd:int .
-
-
 ont:frequency a owl:DatatypeProperty ;
     rdfs:comment "The frequency of occurrence of a resistance gene in a bacterial population" ;
     rdfs:domain ont:Frequency ;
     rdfs:range xsd:float .
-
-
-ont:aroID a owl:DatatypeProperty ;
-    rdfs:domain ont:Pathogen ;
-    rdfs:range xsd:^^int .
-
