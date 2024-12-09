@@ -1,0 +1,762 @@
+pathogen_name	taxonid	ARG_name	aro_id	frequency	antibiotic_name	drugclass	associated_MGE_type	associated_MGE_element
+Salmonella enterica	28901	Tetracycline-resistant ribosomal protection protein	0000002	0.005229		Tetracycline antibiotic		
+Salmonella enterica	28901	ATP-binding cassette (ABC) antibiotic efflux pump	0010001	0.999909				
+Salmonella enterica	28901	Major facilitator superfamily (MFS) antibiotic efflux pump	0010002	0.999909				
+Salmonella enterica	28901	Resistance-nodulation-cell division (RND) antibiotic efflux pump	0010004	0.99855				
+Salmonella enterica	28901	Determinant of antibiotic resistance	3000000	0.999924				
+Salmonella enterica	28901	Beta-lactamase	3000001	0.999876				
+Salmonella enterica	28901	VanW	3000002	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	Class B (metallo-) beta-lactamase	3000004	0.999839				
+Salmonella enterica	28901	VanH	3000006	0.000011		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanA	3000010	0.000004		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanX	3000011	0.000007		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanB	3000013	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	TEM beta-lactamase	3000014	0.085537	Ampicillin	Penam		
+Salmonella enterica	28901	CTX-M beta-lactamase	3000016	0.020134		Cephalosporin		
+Salmonella enterica	28901	OXA beta-lactamase	3000017	0.004931	Cefalotin,ClOxacillin,Oxacillin	Cephalosporin,Penam		
+Salmonella enterica	28901	VIM beta-lactamase	3000021	0.000039		CarbaPenem,Cephalosporin,Cephamycin,Penam,Penem		
+Salmonella enterica	28901	EmrA	3000027	0.019387		Fluoroquinolone antibiotic		
+Salmonella enterica	28901	VEB beta-lactamase	3000043	0.000015		Cephalosporin,Monobactam		
+Salmonella enterica	28901	PER beta-lactamase	3000056	0.000015		CarbaPenem,Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	NDM beta-lactamase	3000057	0.000085		CarbaPenem,Cephalosporin,Cephamycin,Penam		
+Salmonella enterica	28901	MIR beta-lactamase	3000058	0.025311		Cephalosporin,Monobactam		
+Salmonella enterica	28901	KPC beta-lactamase	3000059	0.000015		CarbaPenem,Cephalosporin,Monobactam,Penam		
+Salmonella enterica	28901	FOX beta-lactamase	3000067	0.025311		Cephalosporin,Cephamycin		
+Salmonella enterica	28901	DHA beta-lactamase	3000068	0.000564		Cephalosporin,Cephamycin		
+Salmonella enterica	28901	CMY beta-lactamase	3000069	0.025311		Cephamycin		
+Salmonella enterica	28901	VanS	3000071	0.000009		glycoPeptide antibiotic		
+Salmonella enterica	28901	ACT beta-lactamase	3000072	0.025311		CarbaPenem,Cephalosporin,Cephamycin,Penam		
+Salmonella enterica	28901	EmrB	3000074	0.999558		Fluoroquinolone antibiotic	plasmid,IS	IncHI1A,AP001918(IncFIB),IS110,R27(IncHI1B),HI1(IncFIA)
+Salmonella enterica	28901	Class D beta-lactamase	3000075	0.004931				
+Salmonella enterica	28901	Class C beta-lactamase	3000076	0.025794				
+Salmonella enterica	28901	VanY	3000077	0.000007		glycoPeptide antibiotic		
+Salmonella enterica	28901	Class A beta-lactamase	3000078	0.11714				
+Salmonella enterica	28901	MOX beta-lactamase	3000083	0.025311		Cephalosporin,Cephamycin,Penam		
+Salmonella enterica	28901	Bla1	3000090	0.000007		Penam		
+Salmonella enterica	28901	CARB beta-lactamase	3000091	0.014911		Penam		
+Salmonella enterica	28901	SHV-LEN beta-lactamase	3000096	0.001293				
+Salmonella enterica	28901	Multidrug and toxic compound extrusion (MATE) transporter	3000112	0.999658				
+Salmonella enterica	28901	VanZ	3000116	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	Aminoglycoside acetyltransferase (AAC)	3000121	0.036965				
+Salmonella enterica	28901	Chloramphenicol acetyltransferase (CAT)	3000122	0.015978		Phenicol antibiotic		
+Salmonella enterica	28901	APH(3')	3000126	0.133255		Aminoglycoside antibiotic		
+Salmonella enterica	28901	APH(6)	3000151	0.112381		Aminoglycoside antibiotic		
+Salmonella enterica	28901	Tet(A)	3000165	0.19205	Tetracycline	Tetracycline antibiotic	plasmid,transposon,integron,IS	pCRENT-193_1,pSI96-1,p33676_IncA/C,pCVM22513,S(IncFIB),pLKSZ04,p14EC020b,pAR-0406-1,pSE104-1,In2-10,Col440I,pSNE2-1926,pAR-0401-1,HI1(IncFIA),pST95-32-1,pSal009,p13C1065T-3,3,In282,pCVM44454,pB171_90,IncHI2,pG3X16-2-3,IncN,pFSIS1502169,IncX1,p16-6773.1,pSTY1-1896,In1021,p2974-D,pSNE1-1924,2,pN45955_1,A,tig00000053_pilon,pEA-1,IS91,pCFSAN086833,pYU39_IncA/C,pSNE1-1925,psg_ww281,In1368,pRM12581,pM-3471_DHA,pUMNK88,pCVMN1543,IncFII,pCoo(IncFII),pSC138,p1919D3-1,pSal-3973_DHA_CMY,unitig_2_pilon,pM-3851_DHA,pCVM21550,pLD22-1-135kb,pSH11G0791,pLAP2_020030,p14EC047b,In880,pSI67-1,pCFSAN003890,pSNE2-1923,pMTY14343_IncN,pSE124-1,In879,pSI102-1,pSN254,p34981_1,IncHI2A,pL73-2,pCFSAN074384_1,IncA/C2,pAUSMDU00008979_01,p846,pSGB23,p6234-198.371kb,pEGY1-MCR-1,pMRGN1031,pCFSAN000934_02,pTC_N40607,pE2865-3,IncQ1,pTB202,pHS13-1-IncF,pSTY1-2010K-1587,pSE95-0621-1,pN53043_1,In208,In504,pSARB26_02,pCVM22425,pAMSH1,IncB/O/K/Z,pSI115-1,SARC14(IncFII),In277,In1004,pHS30-1,pSH-04-1,pYPE12-101k-tetX4,IncR,pGMI17-001_1,R27(IncHI1B),In556,In467,pSal-4737_DHA,pCVM19633_110,pAR-0408,pPC9,pMH16-367M_1,pESI,pSA20082869.1,pSL26_IncA/C2,p13C1065T-2,pSA20025921.2,pEF05,p14EC007b,pSARA13,pD90-1,In555,p1CFSAN000318,unitig_2,pCFSAN086835,In498,tig00001160,pNDM-CIT(IncHI1B),p2EC1-2,pCVM21538,pHS13-1-IncHI2,pSDU1-USMARC-69807,pCFSA664-1,p12367A,pSI85-1,pS7966-1,pCFSA1096,pNDM-CIT(IncHI1A),FII(IncFIC),pMRSN346595_67.9,pHR2-1,pUTI89(IncFII),pEC974-2,pR18.0877_278k,IncHI1A,pUO-STmRV1,pTB222,pYU07-18_IncA/C2,pCFSAN000405_01,p280_9355,pSE74-1357,plas4.1.1,IncAC2,pEQAS2016S1-1,p12-6919.2,K(IncFIB),IncP6,pO83_CORR,pS7697-1,p600657_8,pFT130-2,pSNE2-2012K-0663,pGSU10-3-2,pSNE1-1929,pET8.1-IncAC2,p3,pSO21_IncA/C2,pNV-Y394,pAsa5-3432,pHN7A8(IncFII),p1916D18-1,pSC-31-2,p22429,pMTY18780-1_lncHI2,pM-5360_DHA,pCFSAN086834,p0111,pAR-0429-1,pCTXM9_020038,IncA/C,p94EC-1,pSI170-1,pCFSAN086837,IncX2,p13520,pTB601,IS5,pEco118UIb,pKP27-MCR1,pSA20143792.1,pR16.0676_90k,IS6,AP001918(IncFIB),pGMI17-004_1,pN55391,pAR-0427-1,p12519B,pCV839-06-p1,p10-3881.1,pTH164-1,pEF04,p2EC1-1,IncFIA,pSA20070548.1,Yp(IncFII),pSCU-118-1,p276M-CTX-M-55,pZF31-tetX-119kb,pLKSZ02,pSDU2-USMARC-69840,PDM04,p22453_1,pSA20025921.1,pECAZ147_1,pST-1,pSEEH1578_01,pSE08-00436-1,pColV-PU1,In784,p1493-3,pM160133_p2,S(IncFII),pSNE3-1928,IS4,p280_12888,pEIB202,p13C1065T-1,pYPE10-78k,pMCR8_095845,pFSIS1502916,p12-4374_96,pMR0617aac,pS7627-1,In119,pPNCS014854_S1,pK91,pRS571-MCR-1.1,pTB-nb4,pCHL5009T-94k,In1114,p14EC033f,pMR0716_tem1,1205p1,pCTXM199_025970,pSAN1-1736,p11k,pST101-1,pFORC19,In1000,pMCR1-PA,pQnrS1_035148,pSI108-1,tig00007555j7554,ColRNAI,pFORC82_1,Tn1721,Alpha(IncI1),p77k,pL53-2,pFORC74_3,p0.1229_2,p08-5333.1,pS40-2,pCP131-IncFIB,pTH114-1,pAMSC1,pMU407(IncL/M),pSal-5091_DHA,pMRSN346595_120.3,pLAP2_020079,pMR0617tem,IncY,pSA186_3,p13P484A-2,pSal-5364,pK18EC051
+Salmonella enterica	28901	Tet(B)	3000166	0.066348	Tetracycline	Tetracycline antibiotic	plasmid,integron,transposon,IS	IncFIA,IncA/C2,S(IncFIB),pUTI89(IncFII),IncHI1A,pSA20064858.1,In2-10,pPNCS014881.1,p280_9355,HI1(IncFIA),pAR-0401-2,S(IncFII),Tn10,p08-4425.1,IS4,p280_12888,IncHI2,pCVM29188_146,IncX1,IS1,pSE81-1705-1,pRSB107(IncFII),IncR,pYY76-1-1,R27(IncHI1B),p10-3184.1,pHN7A8(IncFII),In1368,p66,pFORC79_2,IncFII,pSA20030575.1,pCoo(IncFII),Alpha(IncI1),pSRC27-H,pN13-01290_23,Col156,IncA/C,pO111_1,pFAM21845_1,In498,pHCM1,pPNCS007087.1,AP001918(IncFIB),IS6,pCFSAN027346-2,pPNCS015054_S2,pSE81-1706,pG5295-2,IncHI2A
+Salmonella enterica	28901	Tet(C)	3000167	0.004831	Tetracycline	Tetracycline antibiotic	plasmid,transposon,integron,IS	IS5,In498,pKL53-M,IncA/C2,ColE10,1(IncI),IncHI2,pSLU-1913,pAPEC-O1-R,pNT1F31-96kb,Delta(IncI2),In1368,IS6,Alpha(IncI1),pSl2,Tn6309,IncHI2A,pSAN1-06-0624
+Salmonella enterica	28901	Tet(D)	3000168	0.001463	Tetracycline	Tetracycline antibiotic	plasmid,integron,IS	IS5,In498,IncA/C2,pSNE1-1925,IS3,IncHI2,IncN,IS6,pKPC_CAV1321-244,pE70-sul2,IncHI2A,p1493-3
+Salmonella enterica	28901	Tet(E)	3000173	0.000009	Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Tet(G)	3000174	0.00002	Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Tet(H)	3000175	0.000009	Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Tet(J)	3000177	0.000009	Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Tet(K)	3000178	0.000002	Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Tet(Y)	3000182	0.000011	Tetracycline	Tetracycline antibiotic	plasmid	IncW
+Salmonella enterica	28901	Tet(M)	3000186	0.005377	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic	plasmid,integron,IS	pSI96-1,IncA/C2,IncFIA,S(IncFIB),pSA20070548.1,IncHI1A,pGD31-F1928,In504,HI1(IncFIA),pCP66-6-IncFIC,S(IncFII),In282,pG3X16-2-3,IncHI2,pSI115-1,IncN,In1004,In1249,R27(IncHI1B),p11-0883.1,pST90-1,IS91,pSA20082869.1,p13C1065T-2,In901,IncFII,Alpha(IncI1),pCP131-IncFIB,pM160133_p1,In424,In498,IS6,AP001918(IncFIB),In879,p10-3881.1,FII(IncFIC),IncHI2A
+Salmonella enterica	28901	Tet(O)	3000190	0.00533	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic	plasmid	IncA/C2
+Salmonella enterica	28901	Tet(Q)	3000191	0.000002	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Tet(S)	3000192	0.005312	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Tet(W)	3000194	0.005312	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Tet(32)	3000196	0.000015	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Cfr 23S ribosomal RNA methyltransferase	3000202	0.00002		Lincosamide antibiotic,Oxazolidinone antibiotic,Phenicol antibiotic,Streptogramin antibiotic		
+Salmonella enterica	28901	Tet(X)	3000205	0.000074	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline,Tigecycline	Tetracycline antibiotic		
+Salmonella enterica	28901	EmrK	3000206	0.000081		Tetracycline antibiotic		
+Salmonella enterica	28901	AcrB	3000216	0.998768		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic	plasmid	IncFII,HI1(IncFIA),IncX1,S(IncFII)
+Salmonella enterica	28901	BlaR1	3000217	0.000004		Penam		
+Salmonella enterica	28901	ANT(6)	3000225	0.000009		Aminoglycoside antibiotic		
+Salmonella enterica	28901	ANT(9)	3000228	0.006222		Aminoglycoside antibiotic		
+Salmonella enterica	28901	ANT(2'')-Ia	3000230	0.002367	Dibekacin,Kanamycin A,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,integron,IS	In569,In300,pAMS-38c,p3846_IncHI2_mcr,IncFIA,IncA/C2,S(IncFIB),In571,pIncAC2-1502320,pCFSAN000405_01,pSA20025921.1,pSC7-vir,pECLA(IncFIB),In290,pKPN5,pKPC_CAV1344,In164,S(IncFII),In282,IncHI2,pAER-f909,In1004,p2448-1,IncX1,In159,In836,In574,IncR,In685,unitig_1,pAR-0405,p22429,pFORC79_2,pCTXM9_020038,In293,unitig_2,pSH11G0791,In498,In695,In161,IS6,AP001918(IncFIB),pSN254,pEC302/04,IncHI2A
+Salmonella enterica	28901	ANT(3'')-Ia	3000232	0.086627		Aminoglycoside antibiotic		
+Salmonella enterica	28901	TolC	3000237	0.99912		Aminocoumarin antibiotic,Aminoglycoside antibiotic,CarbaPenem,Cephalosporin,Cephamycin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Macrolide antibiotic,Penam,Penem,Peptide antibiotic,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	Chloramphenicol phosphotransferase	3000249	0.002948		Phenicol antibiotic		
+Salmonella enterica	28901	ErmC	3000250	0.000007	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Salmonella enterica	28901	EmrY	3000254	0.000074		Tetracycline antibiotic		
+Salmonella enterica	28901	MarA	3000263	0.997834		CarbaPenem,Cephalosporin,Cephamycin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Monobactam,Penam,Penem,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic	plasmid	Col440I,S(IncFII)
+Salmonella enterica	28901	EmrE	3000264	0.00796				
+Salmonella enterica	28901	MphA	3000316	0.009244	Azithromycin,Clarithromycin,Dirithromycin,Erythromycin,Oleandomycin,Roxithromycin,Telithromycin	Macrolide antibiotic	plasmid,integron,IS	p142_A-OXA181,pSI96-1,S(IncFIB),pC15_001,Col440I,HI1(IncFIA),pSal009,p13C1065T-3,3,pNMBU-W13E19_01,IncHI2,IncN,IncX1,p16-6773.1,pH17-3,IncFII,pCoo(IncFII),pSH11G0791,pLAP2_020030,tig00001069_pilon,In879,IncHI2A,p44-1,IncA/C2,p846,pSGB23,pKPGJ-2c,p220k,pCFSAN000934_02,In504,IncB/O/K/Z,pSI115-1,In909,IncR,pET6.2-IncFII,R27(IncHI1B),In556,pVC1374,pTJWQ005,In1137,In498,tig00001160,pNDM-CIT(IncHI1B),pCFSA664-1,pSI85-1,pCFSA1096,pNDM-CIT(IncHI1A),pUTI89(IncFII),IncHI1A,p133355_SW_C4_Cam-1,In313,p12-6919.2,K(IncFIB),pGMI17-002_1,pE28_002,p7102_58-6,pSUH-1,pD90-3,pCFSAN086837,tig00000004,p13520,p14EC029b,pR210-2-VIM,IS6,AP001918(IncFIB),pCTXM3_020032,p5-20710,pCys-6,pC50_002,IS1380,IncFIA,pMS14393B,pPNCS014881.1,tig00000002,S(IncFII),IncX4,pC52_003,p1_020003,pC629,pSF-173-1,pYY76-1-1,pCARB35_02,pSI111-1,pSI108-1,Alpha(IncI1),p0.1229_2,p87912,In502
+Salmonella enterica	28901	MphB	3000318	0.000287	Azithromycin,Clarithromycin,Dirithromycin,Erythromycin,Oleandomycin,Roxithromycin,Spiramycin,Telithromycin,Tylosin	Macrolide antibiotic	plasmid,integron	IncHI2,In573,Alpha(IncI1),2,IncHI2A,pO83_CORR
+Salmonella enterica	28901	AAC(3)	3000322	0.036965		Aminoglycoside antibiotic		
+Salmonella enterica	28901	EreA	3000361	0.000181	Clarithromycin,Erythromycin,Roxithromycin	Macrolide antibiotic	plasmid,integron	In601,In525,In282,IncHI2,In1013,In889,In1133,In262,In172,IncHI2A
+Salmonella enterica	28901	VanC	3000368	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	ErmB	3000375	0.000276	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic	plasmid,integron,IS	pMPCMY-2,IncA/C2,IncHI2,In571,pYPE12-122k,In901,IS6,Alpha(IncI1),p853EC3,IncHI2A
+Salmonella enterica	28901	OprM	3000379	0.000002		Aminocoumarin antibiotic,Aminoglycoside antibiotic,CarbaPenem,Cephalosporin,Cephamycin,Diaminopyrimidine antibiotic,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Macrolide antibiotic,Monobactam,Penam,Penem,Peptide antibiotic,Phenicol antibiotic,Sulfonamide antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	NorA	3000391	0.000002	Acriflavine,CiprOfloxacin,Norfloxacin	Disinfecting agents and antiseptics,Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Sul1	3000410	0.083873	Mafenide,Sulfacetamide,Sulfadiazine,Sulfadimidine,Sulfadoxine,Sulfamethizole,Sulfamethoxazole,Sulfasalazine,Sulfisoxazole	Sulfonamide antibiotic	plasmid,transposon,integron,IS	p142_A-OXA181,pSI96-1,pA708-1,pCAU16175_1,S(IncFIB),pC15_001,pEco70745_1,In714,pCTXM14_020022,In415,Col440I,In546,p13450-1,HI1(IncFIA),pSAN1-2010K-2577,pSal009,In761,3,p13C1065T-3,pHB25-1-vir,In282,pCVM44454,IncHI2,pST45-1,IncN,p2448-1,pFSIS1502169,IncX1,In159,IncL/M,pBML2537,In574,pSE81-1705-1,pk9,2,tig00000053_pilon,IS91,981p2,pC21-2,pCFSAN086833,In1368,pCAV1453-208,pM-3471_DHA,pSA20104250.1,pUMNK88,IncFII,pSC138,pCoo(IncFII),pSal-3973_DHA_CMY,pM-3851_DHA,pKPC_CAV1741,pO111_1,pSH11G0791,pLAP2_020030,IS3,pSI67-1,pCFSAN003890,pMTY14343_IncN,In879,pSI102-1,pHNHF1_NDM-9,pSN254,pC16_003,pEC656_KPC,IncHI2A,In986,p3846_IncHI2_mcr,IncA/C2,p846,p6409-151.583kb,p220k,pIncAC2-1502320,In1162,pCFSAN002069_01,tig00000137,IS110,pLS44712-MCR,In504,pHCM2(IncFIB),pTB201,pSE69-3861-1,IncB/O/K/Z,p1540-3,SARC14(IncFII),In277,pOXA1_020030,In1004,IncX5,pNE1127-2,pN069_2,IncR,pET6.2-IncFII,R27(IncHI1B),In556,pSal-4737_DHA,pPC9,pCFSA244-1,pESI,In398,pYDC107_184,pSO21_118,pKPC_CAV1176,pVC1374,pDM01,pSA20030575.1,pTJWQ005,In167,pD90-1,4,pN13-01290_23,In555,pSRC27-H,unitig_2,pCFSAN086835,In1137,pFAM21845_1,In498,p1_085039,pNDM-CIT(IncHI1B),pAPEC-O1-R,pKPC_CAV1492,pHCM1,In262,p1NQ3,pKPHS3,IncN2,pCFSA664-1,In172,pSI85-1,pNDM-CIT(IncHI1A),pBH100-1,FII(IncFIC),In366,pASP-135,pTMSNI47-1,pHR2-1,pBckp021-1,In127,IncHI1A,pUO-STmRV1,pIMP-20710,In790,In313,p133355_SW_C4_Cam-1,pBU53M1,pKEC-dc3,pCFSAN000405_01,p280_9355,plas4.1.1,pSC7-vir,pECLA(IncFIB),In290,pKPN5,pKPC_CAV1344,pSHV12-1301491,K(IncFIB),pO83_CORR,IncP6,ISL3,pC45_001,pGMI17-002_1,pBT2101,In573,p7102_58-6,pTB422,pET8.1-IncAC2,pE28_002,p3,pCFSA122-1,pGPN1,pPA45B,pAsa5-3432,pEC316_3,pHN7A8(IncFII),pEF01,pECAZ153_KPC,pEC448_OXA163,pVCR94,p22429,p1,pM-5360_DHA,pSUH-1,pCFSAN086834,In901,In653,pKC-Na-R1,pAR-0429-1,IncA/C,In1207,pCTXM9_020038,pSI170-1,In293,pSg1-NDM,tig00000004,p13520,In424,pS25-68,pST90-2,pKPC_CAV1217,pR16.0676_90k,pCFS3292-2,IS6,AP001918(IncFIB),pGMI17-004_1,pN55391,pSCU-125-2,pKP2_3,pCys-6,pC50_002,pPmi70746_1,p12519A,p5908-2,Tn6088,IncFIA,Yp(IncFII),In571,unitig_1_pilon,pASP-a58,PDM04,pSA20025921.1,tig00000002,pSE08-00436-1,p1_020143,pZN3-cfr-121kb,S(IncFII),In791,pSI173-2,IS4,p280_12888,pFSIS1502916,In836,pS7627-1,IS1,In119,pC629,pSF-173-1,pYY76-1-1,pCTXM15_000533,pST106-1,pWLK-NDM,pG3X16-2-2,pSAN1-1736,In889,ColRNAI,pFORC79_2,Alpha(IncI1),p77k,Tn21,p0.1229_2,Tn6029,p18-43_02,pS40-2,p87912,pSal-5091_DHA,pIncAC2-1502318,In371,p3-20710,IS30,pMR0617ndm,pST46-1,In502,In276,pCR14_2,pK18EC051
+Salmonella enterica	28901	Sul2	3000412	0.093535	Mafenide,Sulfacetamide,Sulfadiazine,Sulfadimidine,Sulfadoxine,Sulfamethizole,Sulfamethoxazole,Sulfasalazine,Sulfisoxazole	Sulfonamide antibiotic	plasmid,transposon,integron,IS	pSI96-1,p33676_IncA/C,pCVM22513,S(IncFIB),pEcIMT16316,p14EC020b,pAR-0406-1,pSE104-1,In2-10,Col440I,In546,pSNE2-1926,pAR-0401-1,p13450-1,pCRE10.1,HI1(IncFIA),pFORC51,pSal009,p13C1065T-3,pCP8-3-IncQ,pMCR8_020135,p5696-1,IncHI2,pST45-1,IncN,pKOX_R1,IncX1,pSTY1-1896,In83,tig00000195,PCN061p3,pSNE1-1924,2,pN45955_1,A,pEA-1,IS91,p2974-D,pTB221,pYU39_IncA/C,pSNE1-1925,In1368,pRM12581,pTetA_020022,pM-3471_DHA,pUMNK88,pEI-MS-17-156-1,IncFII,pCVMN1543,pCoo(IncFII),pSCKLB555-3,pSal-3973_DHA_CMY,pM-3851_DHA,pCVM21550,pSH11G0791,IS3,pSI67-1,tig00001069_pilon,pCFSAN003890,pSNE2-1923,pSE124-1,In879,pSI102-1,pSN254,p34981_1,IncHI2A,p7,tig00001189,pCFSAN074384_1,IncA/C2,Tn6027,p846,pAUSMDU00008979_01,p6234-198.371kb,pTC_N40607,pCFSAN000934_02,IncQ1,pSTY1-2010K-1587,pN53043_1,IS110,pLS44712-MCR,pSARB26_02,pCVM22425,pAR-0401-2,pJ31,IncB/O/K/Z,pSI115-1,In1004,pNE1127-2,IncR,pGMI17-001_1,R27(IncHI1B),In556,pSal-4737_DHA,pST90-1,pCVM19633_110,pAR-0408,p168-2,pSL26_IncA/C2,p13C1065T-2,pYDC107_184,pVC1374,pCFS3273-2,pDM01,pTJWQ005,pD90-1,pSRC27-H,pN13-01290_23,pYDC107_70,pFAM21845_1,pM160133_p1,In498,pSE1004839,pNDM-CIT(IncHI1B),pHCM1,pQJDsal1,pKP13f,pCVM21538,pDEC5D-2,pKPHS3,pSDU1-USMARC-69807,pCFSA664-1,p12367A,pSI85-1,pCombat11I9-1,pNDM-CIT(IncHI1A),FII(IncFIC),pEC448_1,pMCR-H8,pAB17H194-1,pUTI89(IncFII),pR18.0877_278k,IncHI1A,pUO-STmRV1,pYU07-18_IncA/C2,p1540-2,pCFSAN000405_01,plas4.1.1,134q,IncAC2,pEQAS2016S1-1,K(IncFIB),pO83_CORR,p600657_8,pS7697-1,pSNE2-2012K-0663,pSNE1-1929,pET8.1-IncAC2,p2-101,p08EU827_2,p3,pSO21_IncA/C2,pCFSA122-1,pNV-Y394,pHN7A8(IncFII),pSC-31-2,p22429,p1,pM-5360_DHA,pAR-0429-1,pSCU-123-2,pCFSAN086837,tig00000004,p13520,IS5,pKP27-MCR1,pSA20143792.1,pR16.0676_90k,IS6,AP001918(IncFIB),pGMI17-004_1,pCFSAN027346-2,p12579_4,p12519B,pAR-0427-1,pSCU-125-2,pCREC-591_3,p34977-263.138kb,pSal-5091_CMY,p12519A,p5908-2,IncFIA,pLKSZ02,pSDU2-USMARC-69840,p22453_1,pSA20025921.1,pMRSN346647_113.1,pST-1,pSE08-00436-1,p1493-3,pM160133_p2,S(IncFII),In791,pSNE3-1928,pEIB202,pMCR8_095845,pMR0617aac,pS7627-1,IS1,pK91,pC629,pSE08-00436-2,pTB211,pR19.2839_83k,pSD134209-1,pSAN1-1736,p11k,pST101-1,TY474p3,pFORC19,pCP53-92k,tig00007555j7554,pDEC5B-3,ColRNAI,pENT-8a4,pEGY3,In1103,Alpha(IncI1),pMPTEM-30,pFORC74_3,Tn6029,pAR-0402,pTB182A-3,p08-5333.1,pS40-2,p87912,pAMSC1,pSal-5091_DHA,In371,pST46-1,pQnrB4_020042,pLAP2_020079,IncY,pAMSH1,pSal-5364
+Salmonella enterica	28901	Sul3	3000413	0.010912	Mafenide,Sulfacetamide,Sulfadiazine,Sulfadimidine,Sulfadoxine,Sulfamethizole,Sulfamethoxazole,Sulfasalazine,Sulfisoxazole	Sulfonamide antibiotic	plasmid,transposon,integron,IS	p33676_IncA/C,S(IncFIB),HI1(IncFIA),pG3X16-2-3,IncHI2,pST45-1,IncN,pPE15-IncF,IncX1,p16-6773.1,p14EC001c,tig00000003,IncFII,pSC138,pCAV1596-41,IS3,pSI67-1,In879,IncHI2A,In986,IncA/C2,pSGB23,p220k,pLS44712-MCR,pJ31,In1004,In909,pCFSA12,IncR,R27(IncHI1B),In556,pCVM19633_110,p13C1065T-2,p14EC007b,unitig_2,pSY3626C1_124k,In498,pEC974-3,pHS13-1-IncHI2,In172,pCFSA1096,pMCR-H8,FII(IncFIC),pHR2-1,pR18.0877_278k,IncHI1A,pUO-STmRV1,plas4.1.1,pLH94-8,K(IncFIB),pMCR_W5-6,pSCKLB555-1,In1249,In640,pCFSA122-1,TY474p2,p1,pMTY18780-1_lncHI2,pEC2-1,In901,pCFSAN086837,p14EC029c,In424,IS6,AP001918(IncFIB),In1003,pTH164-1,p12519A,Tn6088,pSA20070548.1,IncFIA,In571,pZF31-tetX-119kb,PDM04,pSE08-00436-1,S(IncFII),pST106-1,In1114,p14EC033f,ColRNAI,In1103,Alpha(IncI1),pWW012,pCP131-IncFIB,pST46-1,pSal-5364,pKP121-1-mcr
+Salmonella enterica	28901	Quinolone resistance protein (qnr)	3000419	0.035171	CiprOfloxacin,Gatifloxacin,LevOfloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Sparfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	NorB	3000421	0.000002	CiprOfloxacin,Moxifloxacin,Norfloxacin,Sparfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	NDM-5	3000467	0.00002	Cefoxitin,Ceftazidime,Ertapenem	CarbaPenem,Cephalosporin,Cephamycin	plasmid,IS	IncHI2,IncX3,IS6,IncFII,Alpha(IncI1),pNDM5_SH160,IncHI2A,tig00001251,pL65-9
+Salmonella enterica	28901	AcrD	3000491	0.998768		Aminoglycoside antibiotic	plasmid,IS	IS3,S(IncFII)
+Salmonella enterica	28901	ErmF	3000498	0.000002	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Salmonella enterica	28901	AcrE	3000499	0.000601		Cephalosporin,Cephamycin,Fluoroquinolone antibiotic,Penam		
+Salmonella enterica	28901	AcrF	3000502	0.998768		Cephalosporin,Cephamycin,Fluoroquinolone antibiotic,Penam		
+Salmonella enterica	28901	GolS	3000504	0.952095		CarbaPenem,Cephalosporin,Cephamycin,Monobactam,Penam,Penem,Phenicol antibiotic	plasmid	IncFII,HI1(IncFIA),IncX1,S(IncFII)
+Salmonella enterica	28901	GadX	3000508	0.000091		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam		
+Salmonella enterica	28901	EmrR	3000516	0.998716		Fluoroquinolone antibiotic	plasmid,IS	IncHI1A,AP001918(IncFIB),IS110,R27(IncHI1B),HI1(IncFIA)
+Salmonella enterica	28901	CRP	3000518	0.996834		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam	plasmid	S(IncFII),AP001918(IncFIB)
+Salmonella enterica	28901	Staphylococcus aureus mupA conferring resistance to mupirocin	3000521	0.000002	Mupirocin	Mupirocin-like antibiotic		
+Salmonella enterica	28901	ErmG	3000522	0.000004	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Salmonella enterica	28901	MacA	3000533	0.000074		Macrolide antibiotic		
+Salmonella enterica	28901	MacB	3000535	0.994919		Macrolide antibiotic		
+Salmonella enterica	28901	Erm 23S ribosomal RNA methyltransferase	3000560	0.000292		Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Salmonella enterica	28901	Tet(40)	3000567	0.000002	Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	Subclass B1 (metallo-) beta-lactamase	3000568	0.000137				
+Salmonella enterica	28901	Subclass B2 (metallo-) beta-lactamase	3000570	0.000137				
+Salmonella enterica	28901	Subclass B3 (metallo-) beta-lactamase	3000571	0.997853				
+Salmonella enterica	28901	VanR	3000574	0.000017		glycoPeptide antibiotic		
+Salmonella enterica	28901	CcrA	3000578	0.000085		CarbaPenem		
+Salmonella enterica	28901	L1 beta-lactamase	3000582	0.996408		Cephalosporin		
+Salmonella enterica	28901	NDM-1	3000589	0.000054	Ertapenem,Imipenem,Meropenem	CarbaPenem	plasmid,IS	IS91,p6234-178.193kb,IncA/C2,pMR0617ndm,IS6,p19-10_01,IncL/M,pCoo(IncFII)
+Salmonella enterica	28901	ErmT	3000595	0.000015	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic	plasmid	IncQ1
+Salmonella enterica	28901	Mel	3000616	0.000004	Erythromycin,Telithromycin	Macrolide antibiotic		
+Salmonella enterica	28901	PC1 beta-lactamase (blaZ)	3000621	0.000004		Penam		
+Salmonella enterica	28901	AcrS	3000656	0.000074		Cephalosporin,Cephamycin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	H-NS	3000676	0.998676		Cephalosporin,Cephamycin,Fluoroquinolone antibiotic,Macrolide antibiotic,Penam,Tetracycline antibiotic	plasmid,IS	IncHI2,IncFII,IS200/IS605,AP001918(IncFIB)
+Salmonella enterica	28901	MarR	3000718	0.999872		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	Antibiotic sensitive dihydrofolate reductase	3000745	0.998435	Brodimoprim,Iclaprim,Tetroxoprim,Trimethoprim	Diaminopyrimidine antibiotic		
+Salmonella enterica	28901	AbeS	3000768	0.000002	Erythromycin,Novobiocin	Aminocoumarin antibiotic,Macrolide antibiotic		
+Salmonella enterica	28901	AdeA	3000774	0.000002		Tetracycline antibiotic		
+Salmonella enterica	28901	AdeK	3000782	0.000002		CarbaPenem,Cephalosporin,Diaminopyrimidine antibiotic,Fluoroquinolone antibiotic,Lincosamide antibiotic,Macrolide antibiotic,Penem,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	CmeA	3000783	0.000007		Cephalosporin,Fluoroquinolone antibiotic,Fusidane antibiotic,Macrolide antibiotic		
+Salmonella enterica	28901	CmeB	3000784	0.000004		Cephalosporin,Fluoroquinolone antibiotic,Fusidane antibiotic,Macrolide antibiotic		
+Salmonella enterica	28901	CmeC	3000785	0.000002		Cephalosporin,Fluoroquinolone antibiotic,Fusidane antibiotic,Macrolide antibiotic		
+Salmonella enterica	28901	MdsA	3000789	0.948139		CarbaPenem,Cephalosporin,Cephamycin,Monobactam,Penam,Penem,Phenicol antibiotic	plasmid	IncFII,HI1(IncFIA),IncX1,S(IncFII)
+Salmonella enterica	28901	MdsB	3000790	0.166136		CarbaPenem,Cephalosporin,Cephamycin,Monobactam,Penam,Penem,Phenicol antibiotic	plasmid	Yp(IncFII),pB171(IncFIB)
+Salmonella enterica	28901	MdsC	3000791	0.977153		CarbaPenem,Cephalosporin,Cephamycin,Monobactam,Penam,Penem,Phenicol antibiotic	plasmid	IncFII,HI1(IncFIA),IncX1,S(IncFII)
+Salmonella enterica	28901	MdtA	3000792	0.000115		Aminocoumarin antibiotic		
+Salmonella enterica	28901	MdtB	3000793	0.996308		Aminocoumarin antibiotic	plasmid	IncHI1A,AP001918(IncFIB),Alpha(IncI1),R27(IncHI1B),IncHI2A
+Salmonella enterica	28901	MdtC	3000794	0.997024		Aminocoumarin antibiotic	plasmid	IncHI1A,AP001918(IncFIB),Alpha(IncI1),R27(IncHI1B),IncHI2A
+Salmonella enterica	28901	MdtE	3000795	0.000081		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam		
+Salmonella enterica	28901	MdtF	3000796	0.000098		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam		
+Salmonella enterica	28901	MexC	3000800	0.00002		Aminocoumarin antibiotic,Aminoglycoside antibiotic,Cephalosporin,Diaminopyrimidine antibiotic,Fluoroquinolone antibiotic,Macrolide antibiotic,Penam,Phenicol antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	MexE	3000803	0.998385		Diaminopyrimidine antibiotic,Fluoroquinolone antibiotic,Phenicol antibiotic		
+Salmonella enterica	28901	MexH	3000807	0.000076		Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	MexI	3000808	0.936613		Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	MgrA	3000815	0.000004		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Peptide antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	RamA	3000823	0.001019		CarbaPenem,Cephalosporin,Cephamycin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Monobactam,Penam,Penem,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic	plasmid,IS	IncHI2,pR18.0877_278k,IncN,ColRNAI,IS6,p16-6773.1,pQnrB4_020042,p0111,pCFSA1096,pSal-5364,IncHI2A
+Salmonella enterica	28901	Rob	3000825	0.000004		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	SdiA	3000826	0.997448		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic	plasmid,IS	IncHI2,IncHI1A,AP001918(IncFIB),IS1,Alpha(IncI1),R27(IncHI1B),IncHI2A
+Salmonella enterica	28901	BaeR	3000828	0.99708		Aminocoumarin antibiotic,Aminoglycoside antibiotic	plasmid	IncHI1A,AP001918(IncFIB),Alpha(IncI1),R27(IncHI1B),IncHI2A
+Salmonella enterica	28901	BaeS	3000829	0.000368		Aminocoumarin antibiotic,Aminoglycoside antibiotic		
+Salmonella enterica	28901	CpxA	3000830	0.995742		Aminocoumarin antibiotic,Aminoglycoside antibiotic	plasmid	.(pENTAS02)
+Salmonella enterica	28901	EvgA	3000832	0.000087		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam,Tetracycline antibiotic		
+Salmonella enterica	28901	EvgS	3000833	0.000368		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam,Tetracycline antibiotic		
+Salmonella enterica	28901	PhoQ	3000835	0.997187		Macrolide antibiotic,Peptide antibiotic		
+Salmonella enterica	28901	SoxR	3000836	0.998491		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	16S ribosomal RNA methyltransferase	3000857	0.000873				
+Salmonella enterica	28901	ArmA	3000858	0.000601	Amikacin,Arbekacin,Dibekacin,G418,Gentamicin B,Gentamicin C,Isepamicin,Kanamycin A,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,integron,IS	IncA/C2,In714,tig00000137,In546,pSA20025921.1,IncHI2,IncN,IncX1,IncL/M,In556,In1368,IncA/C,pD90-1,pK66-45-1,pZZW20-108K,IS5,In498,IS6,In879,pCFSA664-1,pSI85-1,IncHI2A
+Salmonella enterica	28901	RmtB	3000860	0.000331	Amikacin,Arbekacin,Dibekacin,G418,Gentamicin B,Gentamicin C,Isepamicin,Kanamycin A,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,integron,IS	IncFIA,K(IncFIB),pNDM-d2e9,IncHI2,IncN,In909,IncX1,pC629,pST90-1,pC21-2,pSI108-1,pABWA45_3,IncFII,p13520,p87912,IS6,AP001918(IncFIB),In879,p187-4,IncHI2A
+Salmonella enterica	28901	RmtC	3000861	0.000009	Amikacin,Arbekacin,Dibekacin,G418,Gentamicin B,Gentamicin C,Isepamicin,Kanamycin A,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,integron	In761,IncA/C2,In498
+Salmonella enterica	28901	Defensin resistant mprF	3000863	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	TEM-1	3000873	0.078333	Amoxicillin,Ampicillin,Cefalotin,Cefazolin	Cephalosporin,Penam	plasmid,transposon,integron,IS	pL100-2,pAMSC5,S(IncFIB),p96A(IncFII),pEcIMT16316,p14EC020b,pC15_001,pSE79-2359,In2-10,Col440I,pET6.1-IncY,p09-3649.1,HI1(IncFIA),pFORC51,pSal009,p13C1065T-3,3,pk88,p5696-1,pSLT,pG3X16-2-3,IncHI2,IncN,p2448-1,IncX1,In159,IncL/M,In574,p55k,pTBMCR401,2,pAMR588-04-00435_37,A,pCREC-532_1,IS91,981p2,pCombat11I9-4,pEC2-2,pIMP69_000369,pSNE1-1925,Tn801,In1368,IncFII,pCombat13F7-2,pCoo(IncFII),p1919D3-1,pSC138,unitig_2_pilon,pLD26-1-135kb,pKPC_CAV1741,pFORC44_1,pO111_1,pSH11G0791,p54,unitig_3,1(IncI),IS3,pSI67-1,p86,Tn2,In879,pKp1050-4,pC16_003,pECAZ161_KPC,IncHI2A,pCFSAN002069_02,pGMI17-004_2,p6234-198.371kb,IncA/C2,Tn6027,p846,pSGB23,pIncAC2-1502320,p1002-NDM1,IncQ1,pSE95-0621-1,pGD31-F1928,p13P460A-2,p2017C-4173W12,In504,pSARB26_02,pHCM2(IncFIB),pNH25.4,pSAG-76334,pEC743_OXA48,p4_1_1.1,IncB/O/K/Z,tig00000138_pilon,IncX3,In277,In909,In1004,pHS30-1,pSCU-108-2,pZN3-tetX-171kb,pSH-04-1,In2-30,IncR,pGMI17-001_1,R27(IncHI1B),In556,pSCU-105-2,pCVM19633_110,pST90-1,pFORC_081_1,In1018,K(IncFII),pST33-93798,pSE11(IncFII),pC2315-2-NDM,p168-2,p13C1065T-2,pCFS3273-2,pEF05,pSA20030575.1,pS51_1,p14EC007b,pD90-1,pSRC27-H,pN13-01290_23,In555,pKPC2_095084,p1CFSAN000318,pYDC107_70,unitig_2,pAH01-4,pRpNDM-1,pFAM21845_1,In498,pSE1004839,pEC974-3,pSY3626C1_124k,pNDM-CIT(IncHI1B),p14EC017b,pM160133_p1,pHCM1,pQJDsal1,p1NQ3,pKPHS3,pL22-5,pSE81-1706,pCFSA664-1,pCFSA1096,pNDM-CIT(IncHI1A),FII(IncFIC),pBH100-1,pE110019_5,tig00000005,pAB17H194-1,pUTI89(IncFII),pR18.0877_278k,IncHI1A,pUO-STmRV1,pUHKPC07-113.639kb,pCFSAN000405_01,pSE74-1357,pECLA(IncFIB),134q,pEQAS2016S1-1,pSE81-1607-2,pFORC7,K(IncFIB),pCE-R2-11-0435_92,Tn6339,pC44_001,pSDU1-USMARC-69838,pMS8345A,pNDM-d2e9,pQil(IncFIB),pC45_001,p2175-2,Tn4,pGMI17-002_1,pCRKP-1215_2,pET8.1-IncAC2,p2-101,pSCKLB555-1,p3,pRSB107(IncFII),In1249,pPA45B,pEC27-2,pHN7A8(IncFII),pVCR94,pEC1515-3,p22429,p1,pSUH-1,pEC2-1,p0111,pSE74-2,pSCU-123-2,p45407_2,pCFSAN086837,Tn6238,In293,p13520,tig00000004,pIncC-L125,IncX2,pSA20143792.1,pKPHS2,p2CFSAN000318,pCFS3292-2,IS6,AP001918(IncFIB),pCFSAN027346-2,pAR-0427-1,pQnrS1_005237,p12519B,pEF04,pSH-04-2,p2EC1-1,pPT1-1,IS1380,IncFIA,pSA20070548.1,pSCU-118-1,pMCR1_025943,In571,unitig_1_pilon,PDM04,tig00000516_pilon,p22453_1,pSA20025921.1,In784,pST-1,pSEEH1578_01,pSE08-00436-1,p2,pKPNH54.1,pMRSN346647_113.1,p1493-3,pM160133_p2,S(IncFII),pPNCS007087.2,IncX4,p3PCN033,pIHI2-323,pYPE10-78k,p39,pTB-nb4,pS7627-1,In119,IS1,pK91,pC629,pKPC_CAV1321-244,pSF-173-1,pYY76-1-1,pSE08-00436-2,pSE81-1607-1,pR19.2839_83k,pYPE10-190k-tetX4,pCTXM199_025970,pSJTUF10978,pAR-0405,PCN061p5,pCARB35_02,pST101-1,pSD134209-1,pSI108-1,ColRNAI,Col440II,pEGY3,Alpha(IncI1),p77k,pMPTEM-30,pAR-0402,Tn6029,B,p38544-85.403kb,p233-142,p08-5333.1,pS40-2,pFORC_081_3,p87912,pTH114-1,pECO-6dfa,pMU407(IncL/M),pCP131-IncFIB,p2_W5-6,p12579_3,In502,IncY,pSA186_3,pAMSH1,pSal-5364
+Salmonella enterica	28901	TEM-2	3000874	0.000385		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon,integron,IS	pSE74-1,pSE104-1,IS4,pSI173-2,p13P477T-3,IncHI2,Tn4,IncN,IncX1,pSE95-1,pSCKLB555-1,pHN7A8(IncFII),IS91,p22429,p13C1065T-2,Tn801,pSUH-1,pSCKLB555-3,pSI102-2,IS6,pSE124-1,In879,p12367A,pSDU1-USMARC-69807,IncHI2A
+Salmonella enterica	28901	TEM-5	3000877	0.000002		Cephalosporin,Monobactam,Penam,Penem	plasmid	pSY3626C1_124k,FII(IncFIC)
+Salmonella enterica	28901	TEM-10	3000882	0.000009		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-12	3000884	0.000009		Cephalosporin,Monobactam,Penam,Penem	plasmid	IncFII,pST90-1,Alpha(IncI1),p5696-1
+Salmonella enterica	28901	TEM-15	3000886	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-17	3000888	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-19	3000890	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-20	3000891	0.000009		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-26	3000896	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-29	3000899	0.000009		Cephalosporin,Monobactam,Penam,Penem	IS	IS6
+Salmonella enterica	28901	TEM-30	3000900	0.00005	Amoxicillin,Ampicillin,Cefalotin	Cephalosporin,Penam	plasmid,transposon	Tn801,Tn4,IncX1,Tn2,Alpha(IncI1),pMPTEM-30
+Salmonella enterica	28901	TEM-31	3000901	0.000009		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-32	3000902	0.000239		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon	pAMSC5,Tn801,Tn4,IncX1,Tn2,p1_035123
+Salmonella enterica	28901	TEM-33	3000903	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-34	3000904	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-35	3000905	0.000004		Cephalosporin,Monobactam,Penam,Penem	plasmid	p43
+Salmonella enterica	28901	TEM-36	3000906	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-39	3000909	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-40	3000910	0.000015		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-47	3000916	0.000002		Cephalosporin,Monobactam,Penam,Penem	plasmid	IncA/C2
+Salmonella enterica	28901	TEM-52	3000921	0.000044		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon	pAMSC5,Tn801,Tn4,IncX1,Tn2,Alpha(IncI1)
+Salmonella enterica	28901	TEM-54	3000923	0.000011		Cephalosporin,Monobactam,Penam,Penem	plasmid	pAR-0402
+Salmonella enterica	28901	TEM-55	3000924	0.000004		Cephalosporin,Monobactam,Penam,Penem	plasmid	pSUH-1
+Salmonella enterica	28901	TEM-57	3000926	0.00116		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon,integron	pCE-R2-11-0435_92,pMR0716_tem1,In498,Tn801,In1004,IncX1,Tn2,pHS30-1,pKp_Goe_070-1,Alpha(IncI1),p12519B,pTBMCR401,pEQAS2016S1-1,pNH25.4
+Salmonella enterica	28901	TEM-68	3000935	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-70	3000936	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-71	3000937	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-76	3000942	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-82	3000949	0.000007		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-84	3000951	0.000037		Cephalosporin,Monobactam,Penam,Penem	plasmid	pNMBU_W06E18_Str1_4
+Salmonella enterica	28901	TEM-90	3000957	0.000009		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-95	3000962	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-96	3000963	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-104	3000967	0.000009		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon	Tn801,p22429,Tn2
+Salmonella enterica	28901	TEM-105	3000968	0.000007		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-107	3000970	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-112	3000975	0.000007		Cephalosporin,Monobactam,Penam,Penem	IS	IS6
+Salmonella enterica	28901	TEM-115	3000978	0.000015		Cephalosporin,Monobactam,Penam,Penem	plasmid	p86
+Salmonella enterica	28901	TEM-116	3000979	0.000179		Cephalosporin,Monobactam,Penam,Penem	plasmid	pCFSAN000405_01,ColRNAI
+Salmonella enterica	28901	TEM-117	3000980	0.000002		Cephalosporin,Monobactam,Penam,Penem	plasmid	pUO-STmRV1
+Salmonella enterica	28901	TEM-122	3000984	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-126	3000988	0.000007		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon	Tn4,pGMI17-001_1,Tn2
+Salmonella enterica	28901	TEM-128	3000990	0.000004		Cephalosporin,Monobactam,Penam,Penem	plasmid,IS	pCoo(IncFII),IncFIA,AP001918(IncFIB),IS6
+Salmonella enterica	28901	TEM-131	3000995	0.000007		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-132	3000996	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-135	3000999	0.001498	Penicillin	Penam	plasmid,integron,transposon	pAMSC5,S(IncFIB),pD72-IncP,PDM04,Col440I,pEQAS2016S1-1,S(IncFII),pSAG-76334,pCE-R2-11-0435_92,p13P484A-4,pC44_001,IncX4,IncHI2,pYPE10-78k,Tn4,IncN,IncX1,pK91,pTBMCR401,pGMI17-001_1,pSJTUF10978,Tn801,ColRNAI,p1_035123,Alpha(IncI1),In498,Tn2,IncHI2A
+Salmonella enterica	28901	TEM-136	3001000	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-137	3001001	0.000007		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-141	3001004	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-143	3001006	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-144	3001007	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-145	3001012	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-147	3001014	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-148	3001015	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-149	3001016	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-150	3001017	0.000017		Cephalosporin,Monobactam,Penam,Penem	plasmid	pSUH-1
+Salmonella enterica	28901	TEM-156	3001022	0.000004		Cephalosporin,Monobactam,Penam,Penem	plasmid	pMCR1_025943
+Salmonella enterica	28901	TEM-159	3001025	0.000015		Cephalosporin,Monobactam,Penam,Penem	plasmid	pAMSC5,IncX4,IncX1
+Salmonella enterica	28901	TEM-162	3001028	0.000009		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-163	3001029	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-166	3001032	0.000128		Cephalosporin,Monobactam,Penam,Penem	transposon	Tn801,Tn4,Tn2
+Salmonella enterica	28901	TEM-168	3001034	0.000004		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon	IncX1,Alpha(IncI1),pEC2-1,Tn2
+Salmonella enterica	28901	TEM-169	3001035	0.000004		Cephalosporin,Monobactam,Penam,Penem	plasmid	IncX1
+Salmonella enterica	28901	TEM-171	3001037	0.000052		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-176	3001041	0.000233		Cephalosporin,Monobactam,Penam,Penem	plasmid,IS	pFT130-1,psg_ww281,pD72-IncX1,IncX1,IS6,pCoo(IncFII)
+Salmonella enterica	28901	TEM-178	3001043	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-181	3001044	0.000013		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-183	3001045	0.000011		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon	Tn801,Alpha(IncI1),p6234-198.371kb,Tn2
+Salmonella enterica	28901	TEM-189	3001049	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-190	3001050	0.000007		Cephalosporin,Monobactam,Penam,Penem	plasmid	pEC545_3
+Salmonella enterica	28901	TEM-191	3001051	0.000007		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon	IncHI2,Tn801,IncN,Tn2
+Salmonella enterica	28901	TEM-193	3001053	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-194	3001054	0.000002		Cephalosporin,Monobactam,Penam,Penem	plasmid	pS40-2
+Salmonella enterica	28901	TEM-198	3001057	0.000007		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	SHV-1	3001059	0.000007	Ampicillin	Penam	plasmid,transposon,IS	Tn2003,IncA/C2,IS6
+Salmonella enterica	28901	SHV-2	3001060	0.000013		CarbaPenem,Cephalosporin,Penam	transposon	Tn2003
+Salmonella enterica	28901	SHV-2A	3001061	0.000087		CarbaPenem,Cephalosporin,Penam	plasmid,IS	IncHI2,IS6,pSHE-CTX-M,Alpha(IncI1),IncHI2A
+Salmonella enterica	28901	SHV-5	3001064	0.000028		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	SHV-7	3001066	0.000054		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	SHV-11	3001070	0.000002		CarbaPenem,Cephalosporin,Penam	plasmid	IncX3
+Salmonella enterica	28901	SHV-12	3001071	0.001091	Cefalotin,Ceftazidime,Ceftriaxone	Cephalosporin	plasmid,integron,IS	IS5,In498,pAR-0405,IncA/C2,IncHI2,IncX3,IS6,pOXA-48(IncL/M),pBK13043-2,Alpha(IncI1),IncR,pFORC_081_3,IncHI2A,pLAP2_020030
+Salmonella enterica	28901	SHV-15	3001074	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	SHV-30	3001088	0.000011		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	SHV-55	3001111	0.000007		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	SHV-66	3001121	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	SHV-107	3001156	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	SHV-152	3001191	0.000007		CarbaPenem,Cephalosporin,Penam	plasmid,IS	IncX3,IS6
+Salmonella enterica	28901	BRP(MBL)	3001205	0.002867	Bleomycin A2,Bleomycin B2,Bleomycinic acid	glycoPeptide antibiotic	plasmid,integron,IS	IncA/C2,In761,tig00001251,IncHI2,IncX3,IncN,IncL/M,pC629,pL65-9,IS91,p19-10_01,IncFII,Alpha(IncI1),pCoo(IncFII),p6234-178.193kb,pMR0617ndm,IS6,IncHI2A,pNDM5_SH160
+Salmonella enterica	28901	Antibiotic inactivation by sequestration	3001206	0.005678				
+Salmonella enterica	28901	Gene involved in antibiotic sequestration	3001207	0.000011				
+Salmonella enterica	28901	Methicillin resistant PBP2	3001208	0.00002		CarbaPenem,Cephalosporin,Cephamycin,Monobactam,Penam		
+Salmonella enterica	28901	MdtM	3001214	0.997995	Acriflavine,Chloramphenicol,Lincomycin,Norfloxacin,Puromycin	Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Lincosamide antibiotic,Nucleoside antibiotic,Phenicol antibiotic		
+Salmonella enterica	28901	MdtH	3001216	0.994555	Enoxacin,Norfloxacin	Fluoroquinolone antibiotic	plasmid	IncHI2,S(IncFIB),IncHI2A,S(IncFII)
+Salmonella enterica	28901	Trimethoprim resistant dihydrofolate reductase dfr	3001218	0.000011	Trimethoprim	Diaminopyrimidine antibiotic		
+Salmonella enterica	28901	RlmA(II)	3001301	0.000002	Mycinamicin,Tylosin	Macrolide antibiotic		
+Salmonella enterica	28901	MdtK	3001327	0.980663	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,ICE,IS	IncHI1A,AP001918(IncFIB),IS1,Alpha(IncI1),R27(IncHI1B),IncHI2A,ICEKpnHS11286-1
+Salmonella enterica	28901	Escherichia coli mdfA	3001328	0.000142	Benzalkonium chloride,Tetracycline	Disinfecting agents and antiseptics,Tetracycline antibiotic		
+Salmonella enterica	28901	MdtG	3001329	0.996375	Fosfomycin	Phosphonic acid antibiotic	plasmid	IncHI2,S(IncFIB),IncHI2A,S(IncFII)
+Salmonella enterica	28901	SHV-171	3001355	0.000007		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	TEM-206	3001383	0.000009		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-207	3001384	0.000002		Cephalosporin,Monobactam,Penam,Penem	plasmid	IncHI2,IncHI2A
+Salmonella enterica	28901	TEM-208	3001385	0.000024		Cephalosporin,Monobactam,Penam,Penem	plasmid,IS	pMS8345A,IS6
+Salmonella enterica	28901	TEM-209	3001386	0.000013		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-210	3001387	0.000009		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon	Tn801,Tn4,Alpha(IncI1),Tn2
+Salmonella enterica	28901	TEM-212	3001389	0.00017		Cephalosporin,Monobactam,Penam,Penem	plasmid,IS	pSUH-1,IncX1,Col440II,IS6,pCFSAN000405_01,p12519B,pSDU1-USMARC-69807
+Salmonella enterica	28901	TEM-214	3001391	0.000028		Cephalosporin,Monobactam,Penam,Penem	plasmid,IS	IncA/C2,pSUH-1,IS6,pKPC2_095084,pSDU1-USMARC-69807
+Salmonella enterica	28901	TEM-215	3001392	0.000118		Cephalosporin,Monobactam,Penam,Penem	plasmid,integron,transposon,IS	IncFIA,pKPGJ-2c,IncHI2,Tn4,IncN,pSI108-1,IS6,AP001918(IncFIB),Tn2,IncFII,In901,pSI102-1,IncHI2A,3
+Salmonella enterica	28901	TEM-216	3001393	0.000004		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	OXA-1	3001396	0.003888	Amoxicillin,Ampicillin,Cefalotin,Piperacillin	Cephalosporin,Penam	plasmid,integron,IS	IncFIA,IncA/C2,pSI96-1,S(IncFIB),pA708-1,pCAU16175_1,In546,In600,plas4.1.1,S(IncFII),pSI173-2,IS4,pCVM44454,ISL3,IncHI2,pST45-1,pGMI17-002_1,IncN,In1004,pOXA1_020030,IncX1,pWSZBR,pC629,pCTXM15_000533,pCFSA122-1,In63,In556,pST106-1,In152,pCFSA244-1,pH17-3,In325,p1,In889,pFORC79_2,IncFII,pTJWQ005,Alpha(IncI1),pD90-1,pSI170-1,p13520,pS40-2,p87912,IS5,In498,pSI67-1,pST46-1,IS6,AP001918(IncFIB),pCombat11I9-1,pSI102-1,pCFSA664-1,pC50_002,pSI85-1,IncHI2A
+Salmonella enterica	28901	OXA-2	3001397	0.000133	Amoxicillin,Ampicillin,Ceftazidime,Meropenem	CarbaPenem,Cephalosporin,Penam	plasmid,integron,IS	pSE69-3861-1,In498,In573,In159,IS6,Alpha(IncI1),pCR14_2
+Salmonella enterica	28901	OXA-4	3001399	0.000015		CarbaPenem,Cephalosporin,Penam	plasmid	pFORC79_2
+Salmonella enterica	28901	OXA-9	3001404	0.000057		CarbaPenem,Cephalosporin,Penam	plasmid,transposon,IS	pMU407(IncL/M),pAR-0405,IncA/C2,pQil(IncFIB),pGMI17-002_1,pKPC_CAV1492,IS6,pUHKPC07-113.639kb,IncR,K(IncFII),Tn6238,p38544-85.403kb,IS1380
+Salmonella enterica	28901	OXA-10	3001405	0.000814		CarbaPenem,Cephalosporin,Penam	plasmid,integron,IS	IncA/C2,unitig_1_pilon,In49,IS110,In310,pST95-32-1,IncHI2,pGMI17-002_1,In355,In159,pTB-nb4,In467,pS121-1a,Alpha(IncI1),In498,In1080,IS6,pIB_NDM_1,IncHI2A
+Salmonella enterica	28901	OXA-17	3001412	0.000063		CarbaPenem,Cephalosporin,Penam	plasmid	pTB-nb4,pST95-32-1,p070_B
+Salmonella enterica	28901	OXA-140	3001452	0.000004		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	OXA-334	3001522	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	OXA-392	3001578	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	OXA-232	3001778	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	OXA-48	3001782	0.000067	Temocillin	Penam	plasmid,IS	IS4,IS1,pOXA-48(IncL/M),Col156,pKp202_3
+Salmonella enterica	28901	OXA-181	3001784	0.000004		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	OXA-320	3001793	0.000004		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	CTX-M-1	3001864	0.000592		Cephalosporin	plasmid,integron,IS	In498,pSal-5091_CMY,IncN,3,IS6,p2-101,pPG20180170.1-IncN,Alpha(IncI1),pJ31
+Salmonella enterica	28901	CTX-M-2	3001865	0.000257		Cephalosporin	plasmid,integron	p280_12888,In498,IncHI2,p280_9355,IncHI2A
+Salmonella enterica	28901	CTX-M-3	3001866	0.000096	Ampicillin,Cefalotin,Cefazolin,Cefixime,Cefoxitin,Ceftazidime,Ceftriaxone	Cephalosporin,Cephamycin,Penam	plasmid,IS	IncHI2,IS6,Alpha(IncI1),IncHI2A,pEC224_2
+Salmonella enterica	28901	CTX-M-8	3001871	0.000131		Cephalosporin	plasmid,IS	pICBEC72Hctx,IS4,Alpha(IncI1),IS6
+Salmonella enterica	28901	CTX-M-9	3001872	0.000274		Cephalosporin	plasmid	p3846_IncHI2_mcr,pC309-VIM4
+Salmonella enterica	28901	CTX-M-10	3001873	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-12	3001875	0.000004		Cephalosporin		
+Salmonella enterica	28901	CTX-M-14	3001877	0.001515		Cephalosporin	plasmid,integron,IS	p12519A,IncA/C2,IncHI1A,pCTXM14_020022,pPNCS014881.1,pLS44712-MCR,HI1(IncFIA),pSAG-76334,IncB/O/K/Z,IncHI2,IncN,In1004,R27(IncHI1B),pS40-1,pEC224_4,pKPHS1,p13C1065T-2,pT-HNK130-3,pIncL_M_DHQP1400954,pSF-468-2,Alpha(IncI1),pS7966-1,In555,p14EC029b,pCFSA629,pSY3626C1_124k,1(IncI),IS6,p50579417_2,tig00000164,FII(IncFIC),IncHI2A
+Salmonella enterica	28901	CTX-M-15	3001878	0.001605	Ampicillin,Cefalotin,Cefazolin,Ceftazidime,Ceftriaxone	Cephalosporin,Penam	plasmid,integron,transposon,IS	p6234-198.371kb,IncA/C2,S(IncFIB),pLAU-OXA1,S(IncFII),Tn6339,pk88,IncB/O/K/Z,IncHI2,tig00003056,pGMI17-002_1,pNMBU-W12E19_02,IncX1,pSUH-2,pF93-2_1,pCTXM15_000533,2,pR19.2839_83k,pFORC19,Alpha(IncI1),pKp616_1,unitig_2,pECO-6dfa,1(IncI),IS3,IS6,In879,pKPHS3,IncY,pKp_Goe_414-6,IncHI2A
+Salmonella enterica	28901	CTX-M-21	3001883	0.000007		Cephalosporin		
+Salmonella enterica	28901	CTX-M-24	3001886	0.000026		Cephalosporin		
+Salmonella enterica	28901	CTX-M-27	3001889	0.000148	Ampicillin,Cefalotin,Cefazolin,Cefixime,Ceftazidime,Ertapenem	CarbaPenem,Cephalosporin,Penam	plasmid,IS	IncFIA,pSI108-1,IS6,AP001918(IncFIB),pCTXM3_020032,IncFII,p0111,pESBL931,A
+Salmonella enterica	28901	CTX-M-28	3001890	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-32	3001894	0.000015		Cephalosporin	plasmid	pRHEcCUB-1
+Salmonella enterica	28901	CTX-M-40	3001902	0.000004		Cephalosporin		
+Salmonella enterica	28901	CTX-M-45	3001907	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-51	3001913	0.000022		Cephalosporin		
+Salmonella enterica	28901	CTX-M-55	3001917	0.00229	Ceftazidime,Ceftriaxone	Cephalosporin	plasmid,integron,IS	IncI2,IncA/C2,pR18.0877_278k,p2474-3,pSE74-1,pSE104-1,pST-1,HI1(IncFIA),IS4,pSI173-2,p13P477T-3,IncHI2,pST45-1,IncN,pSE95-1,IncX1,pMTY18530-2,2,pHN7A8(IncFII),A,pCHL5009T-102k-mcr3,IS91,pST101-1,ColRNAI,IncFII,pSCKLB555-3,Alpha(IncI1),pCFSAN086837,B,p08-5333.1,pEc1500_CTX,IS3,pSI102-2,pST46-1,IS6,AP001918(IncFIB),pSE124-1,In879,pMR0617tem,p12367A,pL22-5,pCFSA1096,pSal-5364,IncHI2A
+Salmonella enterica	28901	CTX-M-56	3001918	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-64	3001925	0.000057		Cephalosporin	plasmid	IncHI2,IncHI2A,pAMSH1
+Salmonella enterica	28901	CTX-M-65	3001926	0.013082		Cephalosporin	plasmid,transposon,integron,IS	pMCR1_025943,pST95-32-1,pCVM44454,IncHI2,IncN,pFSIS1502916,pFSIS1502169,IncX1,pC629,In556,pG3X16-2-2,pCFSAN086833,pCFSAN086834,pFORC82_1,p94EC-2,pTJWQ005,pD90-1,pKPC2_095084,pSI170-1,p13520,pCFSAN086835,p87912,Tn6367,IS6,pN55391,In879,pCFSA664-1,pSI85-1,p2EC1-1,IncHI2A
+Salmonella enterica	28901	CTX-M-67	3001928	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-68	3001929	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-69	3001930	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-80	3001941	0.000002		Cephalosporin	plasmid	Alpha(IncI1)
+Salmonella enterica	28901	CTX-M-87	3001947	0.000011		Cephalosporin		
+Salmonella enterica	28901	CTX-M-98	3001957	0.000004		Cephalosporin		
+Salmonella enterica	28901	CTX-M-99	3001958	0.000004		Cephalosporin		
+Salmonella enterica	28901	CTX-M-101	3001960	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-104	3001963	0.00003		Cephalosporin	plasmid	IncHI2,IncHI2A
+Salmonella enterica	28901	CTX-M-105	3001965	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-107	3001967	0.000011		Cephalosporin		
+Salmonella enterica	28901	CTX-M-110	3001970	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-115	3001975	0.000028		Cephalosporin		
+Salmonella enterica	28901	CTX-M-122	3001981	0.000011		Cephalosporin		
+Salmonella enterica	28901	CTX-M-123	3001982	0.000152		Cephalosporin	plasmid,integron	In498,pZJ3920-2,1205p1,pHB37-1,Alpha(IncI1),pH17-3
+Salmonella enterica	28901	CTX-M-130	3001989	0.000017		Cephalosporin	plasmid	Alpha(IncI1)
+Salmonella enterica	28901	CTX-M-131	3001990	0.000002		Cephalosporin	plasmid	p280_9355
+Salmonella enterica	28901	CTX-M-132	3001991	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-137	3001994	0.000007		Cephalosporin	plasmid	Alpha(IncI1)
+Salmonella enterica	28901	CTX-M-142	3002000	0.000002		Cephalosporin	plasmid	tig00003056
+Salmonella enterica	28901	CTX-M-150	3002007	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-151	3002008	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-153	3002010	0.000002		Cephalosporin		
+Salmonella enterica	28901	CMY-2	3002013	0.025011	Ampicillin,Cefalotin,Cefazolin,Cefixime,Cefoxitin,Ceftazidime,Ceftriaxone,Ertapenem	CarbaPenem,Cephalosporin,Cephamycin,Penam	plasmid,integron,transposon,IS	pCVM22513,pSNE2-1926,pAR-0401-1,pSal009,pCVM22462,pAMR588-04-00320_99,IncHI2,IncX1,pAR-0404-2,pSTY1-1896,pSNE1-1924,pN45955_1,pSA02DT10168701_99,pYU39_IncA/C,pSA20104250.1,p87,pUMNK88,pCVMN1543,pSC138,IncFII,pSal-3973_DHA_CMY,pCVM21550,pSH11G0791,1(IncI),pCFSAN003890,pCVM29188_101,Tn6092,pSNE2-1923,pSN254,p96,p34981_1,IncHI2A,pCFSAN074384_1,IncA/C2,p846,pCFSAN000934_02,pN53043_1,pSTY2-2010K-1587,pCVM22425,pJ31,IncB/O/K/Z,p11-004736-1-7_99,pSA20120345.1,pSC-31-1,pAR-0408,p51008369SK1_C,pSL26_IncA/C2,pDM01,pN13-01290_98,p3R-2,pGM351-2,pSDU1-USMARC-69807,FII(IncFIC),pYU07-18_IncA/C2,pPG20180062.1-IncI2,pCFSAN000405_01,p14EC033e,pAMR588-04-00318_99,p92,K(IncFIB),pS7697-1,pSDU1-USMARC-69838,pSA20113174.1,pSNE2-2012K-0663,pET8.1-IncAC2,p3,pSA02DT09004001_101,pHN7A8(IncFII),p22429,Delta(IncI2),Tn6114,pAR-0429-1,pSA01AB09084001_92,pSA20143792.1,IS6,AP001918(IncFIB),p33673_IncF,pSal-5091_CMY,IncFIA,pPNCS014881.1,pSA20025921.1,S(IncFII),pSNE3-1928,IncX4,pAR-0430-1,p12-4374_96,IS1,pSAN1-1736,In1000,Alpha(IncI1),p113k,B,pMRSN346595_120.3,ISNCY
+Salmonella enterica	28901	CMY-4	3002015	0.00007		Cephamycin	plasmid	pHN7A8(IncFII),IncA/C2,pEC2_4,IncQ1
+Salmonella enterica	28901	CMY-6	3002017	0.000013		Cephamycin	plasmid	IncA/C2
+Salmonella enterica	28901	CMY-7	3002018	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-15	3002026	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-16	3002027	0.00002		Cephamycin	plasmid	IncA/C2
+Salmonella enterica	28901	CMY-17	3002028	0.000015		Cephamycin	plasmid,transposon	pSA02DT09004001_101,Tn6114
+Salmonella enterica	28901	CMY-18	3002029	0.000007		Cephamycin	plasmid	pSL26_IncA/C2
+Salmonella enterica	28901	CMY-25	3002036	0.000004		Cephamycin		
+Salmonella enterica	28901	CMY-30	3002041	0.000004		Cephamycin		
+Salmonella enterica	28901	CMY-32	3002043	0.000013		Cephamycin	plasmid,transposon	p009_A,pCFSAN003890,Tn6092
+Salmonella enterica	28901	CMY-42	3002053	0.000004	Cefoxitin,Ceftazidime	Cephalosporin,Cephamycin		
+Salmonella enterica	28901	CMY-43	3002054	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-44	3002055	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-55	3002066	0.000004		Cephamycin		
+Salmonella enterica	28901	CMY-57	3002068	0.000007		Cephamycin		
+Salmonella enterica	28901	CMY-59	3002069	0.000007		Cephamycin	plasmid	Alpha(IncI1),pSA02DT10168701_99
+Salmonella enterica	28901	CMY-60	3002073	0.000126		Cephamycin	plasmid	pCFSAN003890,p12-4374_96,p11-004736-1-7_99,pSA20025921.1,pSA02DT09004001_101,pN13-01290_98
+Salmonella enterica	28901	CMY-61	3002074	0.000183		Cephamycin	plasmid	pSA20113174.1,pCFSAN003890,pCVM29188_101,p11-004736-1-7_99,pN53043_1,Alpha(IncI1),pSA20025921.1,pSDU1-USMARC-69807,pN13-01290_98
+Salmonella enterica	28901	CMY-87	3002100	0.000017		Cephamycin		
+Salmonella enterica	28901	CMY-94	3002107	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-105	3002117	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-111	3002122	0.000013		Cephamycin		
+Salmonella enterica	28901	CMY-112	3002123	0.000002		Cephamycin		
+Salmonella enterica	28901	DHA-1	3002132	0.000444		Cephalosporin,Cephamycin	plasmid,integron,IS	In986,p142_A-OXA181,IncA/C2,p133355_SW_C4_Cam-1,IncHI2,IncN,p7102_58-6,pSal-4737_DHA,pM-5360_DHA,In1368,pM-3471_DHA,IncFII,Alpha(IncI1),pSal-3973_DHA_CMY,pM-3851_DHA,In498,pSal-5091_DHA,pR16.0676_90k,IS6,In879,IncHI2A,pTMSNI47-1
+Salmonella enterica	28901	DHA-3	3002134	0.000002		Cephalosporin,Cephamycin		
+Salmonella enterica	28901	DHA-6	3002135	0.000002		Cephalosporin,Cephamycin		
+Salmonella enterica	28901	DHA-9	3002140	0.000004		Cephalosporin,Cephamycin		
+Salmonella enterica	28901	DHA-15	3002146	0.000015		Cephalosporin,Cephamycin		
+Salmonella enterica	28901	DHA-17	3002148	0.000002		Cephalosporin,Cephamycin		
+Salmonella enterica	28901	FOX-5	3002159	0.000007		Cephalosporin,Cephamycin		
+Salmonella enterica	28901	CARB-3	3002242	0.014563		Penam	plasmid,integron,IS	In601,In424,In498,In282,In127,pIncAC2-1502318,pBT2101,In1368,IS6,In144,pKC-Na-R1,In1133,In167,IncR,In172,pMRSN346595_67.9,pAsa5-3432
+Salmonella enterica	28901	VIM-1	3002271	0.000037		CarbaPenem,Cephalosporin,Cephamycin,Penam,Penem	plasmid,integron	IncHI2,In262,In337,IncHI2A
+Salmonella enterica	28901	VIM-2	3002272	0.000002		CarbaPenem,Cephalosporin,Cephamycin,Penam,Penem		
+Salmonella enterica	28901	KPC-2	3002312	0.000011		CarbaPenem,Cephalosporin,Monobactam,Penam	plasmid	IncQ1,IncN,pAR-0402
+Salmonella enterica	28901	KPC-4	3002314	0.000004		CarbaPenem,Cephalosporin,Monobactam,Penam		
+Salmonella enterica	28901	NDM-7	3002357	0.000004		CarbaPenem,Cephalosporin,Cephamycin,Penam	plasmid,integron	In761,IncA/C2
+Salmonella enterica	28901	NDM-9	3002359	0.000004		CarbaPenem,Cephalosporin,Cephamycin,Penam	plasmid,IS	IncHI2,IncN,IS6,pC629,IncHI2A
+Salmonella enterica	28901	VEB-1	3002370	0.000002		Cephalosporin,Monobactam		
+Salmonella enterica	28901	VEB-5	3002375	0.000002		Cephalosporin,Monobactam		
+Salmonella enterica	28901	VEB-8	3002377	0.000007		Cephalosporin,Monobactam		
+Salmonella enterica	28901	OXY-5-1	3002411	0.000002		Cephalosporin,Monobactam,Penam		
+Salmonella enterica	28901	AAC(3)-Ia	3002528	0.000022	Astromicin,Sisomicin	Aminoglycoside antibiotic	plasmid	Col440I,S(IncFIB),S(IncFII)
+Salmonella enterica	28901	AAC(3)-Id	3002529	0.002776	Astromicin,Sisomicin	Aminoglycoside antibiotic	plasmid,integron,IS	In282,In498,In1250,In277,IS6,In144,pAR-0429-1,In879,In276
+Salmonella enterica	28901	AAC(3)-Ic	3002531	0.000002	Astromicin,Sisomicin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AAC(3)-IIc	3002535	0.000089	2'-N-ethylNetilmicin,6'-N-ethylNetilmicin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid	pSE08-00436-1,IncQ1
+Salmonella enterica	28901	AAC(3)-IVa	3002539	0.021965	2'-N-ethylNetilmicin,6'-N-ethylNetilmicin,Apramycin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,integron,IS	p12519A,IncA/C2,pSGB23,ISKra4,p220k,pUO-STmRV1,IncHI1A,IncQ1,pMCR-H8,In546,In141,p280_9355,plas4.1.1,pLS44712-MCR,In504,HI1(IncFIA),K(IncFIB),p280_12888,pCVM44454,IncB/O/K/Z,IncHI2,pST45-1,IncN,pFSIS1502916,pFSIS1502169,IncX1,In1004,In1249,pC629,pCFSA122-1,IncR,R27(IncHI1B),In556,pTB211,pHN7A8(IncFII),tig00000003,pCFSA244-1,pG3X16-2-2,pCFSAN086833,p1,TY474p3,pCFSAN086834,pECAZ147_2,In1368,pSE95-3,p94EC-2,IncFII,pTJWQ005,Alpha(IncI1),pD90-1,pSI170-1,p13520,pCFSAN086835,p87912,pCFSA629,pFAM21845_1,In498,pNDM-CIT(IncHI1B),pAT205,p2019036D-50kb,pSI67-1,pCRULAC1,pST46-1,IS6,pN55391,pSI102-1,pCombat11I9-1,pCFSA664-1,pCV839-06-p1,pSI85-1,pNDM-CIT(IncHI1A),IncHI2A,pCV839-15-p2
+Salmonella enterica	28901	AAC(3)-VIa	3002540	0.007117	6'-N-ethylNetilmicin,Sisomicin	Aminoglycoside antibiotic	plasmid,integron,IS	IncA/C2,pEC732_IMP14,S(IncFIB),PDM04,Col440I,pCFSAN002069_01,pCFSAN000405_01,pSA20025921.1,K(IncFIB),S(IncFII),IncB/O/K/Z,IncHI2,IncN,pST106-1,pHN7A8(IncFII),IS91,In1000,ColRNAI,pSA20104250.1,pDM01,pUMNK88,IncFII,Alpha(IncI1),pCoo(IncFII),IncA/C,In498,pAPEC-O1-R,IS6,IncN2,pSN254,FII(IncFIC),IncHI2A
+Salmonella enterica	28901	AAC(6')-Ib	3002546	0.000004	Amikacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AAC(6')-If	3002553	0.000002	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AAC(6')-Iy	3002569	0.693087	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid	IncFII,Alpha(IncI1),S(IncFII)
+Salmonella enterica	28901	AAC(6')-Iaa	3002571	0.305454	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid	IncX3
+Salmonella enterica	28901	AAC(6')-Ib3	3002576	0.000512	Amikacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic	integron	In49
+Salmonella enterica	28901	AAC(6')-Ib4	3002577	0.000216	Amikacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic	plasmid,integron	pKp_Goe_070-1,In657
+Salmonella enterica	28901	AAC(6')-Ib7	3002578	0.001058	Amikacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic	plasmid,integron	p12519A,In424,p33676_IncA/C,p2019036D-50kb,In1004,pZYST1C1,pSC138,p38544-85.403kb,pWW012,HI1(IncFIA),pKP121-1-mcr,tig00000003
+Salmonella enterica	28901	AAC(6')-Ib8	3002579	0.00005	Amikacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AAC(6')-Ib9	3002580	0.000956	Amikacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic	plasmid,integron,IS	pOXA58_010055,In498,In282,pMU407(IncL/M),IncHI2,pYPE10-78k,pKPC_CAV1492,In657,IS6,pKp_Goe_070-1,In337,IS110,pECLA(IncFIB),p1761_02,pCR14_2,IncHI2A,In1043
+Salmonella enterica	28901	AAC(6')-Ib10	3002581	0.000518	Amikacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic	plasmid,transposon,integron,IS	IS5,In498,pAR-0405,IncA/C2,IncHI2,pGMI17-002_1,IncN,IS30,pSHV12-1301491,IS6,pCR14_2,IncHI2A,IncR,pKp_Goe_579-2,Tn6238,IS1380
+Salmonella enterica	28901	AAC(6')-Ib11	3002582	0.000004	Amikacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AAC(6')-I33	3002587	0.000004	Amikacin,Tobramycin	Aminoglycoside antibiotic	transposon,integron	In498,Tn6112
+Salmonella enterica	28901	AAC(6')-IIa	3002594	0.00002	2'-N-ethylNetilmicin,5-epiSisomicin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AAC(6')-IIc	3002596	0.00101	2'-N-ethylNetilmicin,5-epiSisomicin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,integron,IS	In498,IncA/C2,IncHI2,IncN,IS6,pSHV12-1301491,IncHI2A
+Salmonella enterica	28901	AAC(6')-Ie-APH(2'')-Ia bifunctional protein	3002597	0.000011	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Gentamicin A,Kanamycin A,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AAC(6')-30/AAC(6')-Ib' bifunctional protein	3002599	0.000004	Gentamicin A	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AadA	3002601	0.050977	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,transposon,integron,IS	pCRENT-193_1,S(IncFIB),pRHEcCUB-1,In2-10,Col440I,pCP66-6-IncFIC,HI1(IncFIA),pSAN1-2010K-2577,p13C1065T-3,3,In874,In2-48,In456,pCVM44454,In282,pG3X16-2-3,IncHI2,pST45-1,IncN,p2448-1,pFSIS1502169,IncX1,pPE15-IncF,In83,2,tig00000003,A,IS91,unitig_1,pCFSAN086833,In325,In1368,pSA20104250.1,pKp_Goe_070-1,IncFII,pSC138,pCoo(IncFII),p54,pSI67-1,In657,pMTY14343_IncN,In879,pSN254,IncHI2A,In986,IncA/C2,pSGB23,p220k,pCFSAN002069_01,pGD31-F1928,IS110,pLS44712-MCR,pJ31,IncB/O/K/Z,pYPE12-122k,In909,In1004,pSH-04-1,pCFSA12,pNE1127-2,In2-30,IncR,R27(IncHI1B),In556,pCVM19633_110,pFORC_081_1,In1018,pESI,p13C1065T-2,pKPC_CAV1176,pDM01,pEF05,pSA20030575.1,4,pN13-01290_23,p1CFSAN000318,pCFSAN086835,Tn7-like,pFAM21845_1,In498,pEC974-3,pAPEC-O1-R,pKPC_CAV1492,In695,In262,pHS13-1-IncHI2,IncN2,In172,pMCR-H8,FII(IncFIC),pBH100-1,pHR2-1,IncHI1A,pUO-STmRV1,pBU53M1,pCFSAN000405_01,p280_9355,pECLA(IncFIB),plas4.1.1,pSC7-vir,In290,pLH94-8,Tn6112,K(IncFIB),pO83_CORR,pS7697-1,In214,pMCR_W5-6,pGMI17-002_1,pTB422,In360,p2-101,pSCKLB555-1,In1249,In640,pCFSA122-1,pGPN1,pPA45B,pAsa5-3432,pHN7A8(IncFII),pEC448_OXA163,Tn7,p22429,p1,pCFSAN086834,Tn6007,pEC2-1,In901,IncA/C,p14EC029c,Tn6238,p13520,In424,IS6,AP001918(IncFIB),pGMI17-004_1,p1-H9,pTH164-1,pEC302/04,IS1380,In73,p12519A,p5908-2,Tn6088,IncFIA,In571,pZF31-tetX-119kb,PDM04,pSEEH1578_01,pSE08-00436-1,S(IncFII),In791,p280_12888,IncX4,pFSIS1502916,pS7627-1,In119,pSE08-00436-2,pST106-1,In1114,pAR-0405,pSAN1-1736,In1000,pApR,pCP53-92k,ColRNAI,pFORC79_2,pKPN-e44,Alpha(IncI1),Tn21,pMPTEM-30,In377,pWW012,In2-45,p38544-85.403kb,B,p18-43_02,pFORC_081_3,p87912,pMU407(IncL/M),In511,In371,pST46-1,In420,pCR14_2,pKP121-1-mcr,IS21
+Salmonella enterica	28901	AadA2	3002602	0.028999	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,transposon,integron,IS	p33676_IncA/C,S(IncFIB),pC15_001,pRHEcCUB-1,In415,pCP66-6-IncFIC,HI1(IncFIA),In761,pSal009,In456,In282,pG3X16-2-3,IncHI2,pST45-1,IncN,pPE15-IncF,IncX1,In159,tig00000003,A,tig00000053_pilon,pETW41,unitig_1,pC21-2,pH17-3,pYU39_IncA/C,In1368,pCAV1453-208,pM-3471_DHA,IncFII,pSC138,pCoo(IncFII),pSal-3973_DHA_CMY,pM-3851_DHA,pO111_1,pCAV1596-41,pSH11G0791,p14EC047b,In880,pSI67-1,pCFSAN003890,pMTY14343_IncN,In879,pHNHF1_NDM-9,IncHI2A,In986,p3846_IncHI2_mcr,IncA/C2,Tn6027,p846,p6409-151.583kb,p220k,pCFSAN002069_01,pGD31-F1928,tig00000137,pLS44712-MCR,In504,pTB201,p1540-3,In1004,In909,pHS30-1,pCFSA12,In534,IncR,pET6.2-IncFII,R27(IncHI1B),In556,pSal-4737_DHA,pCVM19633_110,pFORC_081_1,p13C1065T-2,In1013,pSO21_118,pVC1374,pDM01,pSRC27-H,pM160133_p1,p6234-178.193kb,In498,p1_085039,pNDM-CIT(IncHI1B),pDMC1097-218.836kb,p2019036D-50kb,p14EC017b,In695,pTB501,pKP13f,pHS13-1-IncHI2,pKPHS3,pNDM-CIT(IncHI1A),FII(IncFIC),pMCR-H8,pHR2-1,In127,pEC974-2,IncHI1A,pUO-STmRV1,In790,pYU07-18_IncA/C2,pIMP-20710,pSC7-vir,plas4.1.1,pECLA(IncFIB),In290,pLH94-8,K(IncFIB),In214,pMCR_W5-6,pBT2101,pGD31-NDM,In1249,pSCKLB555-1,pCFSA122-1,pGPN1,pAsa5-3432,pEF01,p1,pM-5360_DHA,In901,In653,pCTXM9_020038,In293,p14EC029c,tig00000004,p13520,IS5,In424,pST90-2,pR16.0676_90k,IS6,AP001918(IncFIB),In1003,pKP2_3,pCys-6,pTH164-1,pPmi70746_1,p12519A,In569,pAMS-38c,Tn6088,pSA20070548.1,IncFIA,pSA186_MCR1,In571,pASP-a58,pZF31-tetX-119kb,PDM04,pSA20025921.1,tig00000002,pSE08-00436-1,p1_020143,pZN3-cfr-121kb,S(IncFII),In525,In532,IS1,In119,pC629,pSF-173-1,In63,pYY76-1-1,In685,pST106-1,In1114,In889,pCP53-92k,pFORC79_2,pKPN-e44,In1103,Alpha(IncI1),p77k,pLH375-2_incR,pWW012,p0.1229_2,p38544-85.403kb,pCAV1151-296,p87912,pSal-5091_DHA,plas1.1.2,In511,pIncAC2-1502318,pST46-1,In502,pZYST1C1,pKP121-1-mcr
+Salmonella enterica	28901	AadA3	3002603	0.003995	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron	In601,In424,In498,p33676_IncA/C,In282,pIncAC2-1502318,pAsa5-3432,In313,In901,In1133,IncR,pMRSN346595_67.9,B,pHCM2(IncFIB)
+Salmonella enterica	28901	AadA4	3002604	0.000089	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron	IncHI2,pEco70745_1,In498,IncHI2A
+Salmonella enterica	28901	AadA5	3002605	0.002565	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron,IS	pAMSC5,Yp(IncFII),IncA/C2,IncHI1A,pEco70745_1,In714,In1162,pTB402,In784,p13P460A-2,HI1(IncFIA),IncHI2,SARC14(IncFII),IncN,In909,p7102_58-6,IncX1,In159,p2-101,pEC25-1,pC629,pCTXM15_000533,R27(IncHI1B),pEC316_3,In139,IS91,pYDC107_184,pSUH-1,IncFII,In1207,pD90-1,Alpha(IncI1),pSI170-1,B,p13520,In54,p54,p87912,IS5,In1137,In498,pSI67-1,In785,IS6,In879,p1NQ3,pCFSA664-1,pSI85-1,IncHI2A
+Salmonella enterica	28901	AadA6	3002606	0.000004	Spectinomycin,Streptomycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AadA7	3002607	0.00457	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron,IS	In498,pCVM44454,IncA/C2,In282,p22429,IncHI2,In1250,In277,IS6,pSA20030575.1,pKC-Na-R1,pAR-0429-1,In141,pSA20025921.1,IS110,In276,IncHI2A,pK18EC051
+Salmonella enterica	28901	AadA8	3002608	0.000024	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron,IS	In424,p33676_IncA/C,IncA/C2,IS6,Alpha(IncI1)
+Salmonella enterica	28901	AadA9	3002609	0.000002	Spectinomycin,Streptomycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AadA11	3002611	0.000011	Spectinomycin,Streptomycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AadA12	3002612	0.000625	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,transposon,integron,IS	IncFIA,IncA/C2,IncHI1A,In790,IS110,S(IncFII),In282,pMS8345A,IncHI2,IncX1,IS1,In1249,R27(IncHI1B),pPA45B,pESI,p22429,pSAN1-1736,In1368,In901,pSA20030575.1,Tn21,B,In498,In695,AP001918(IncFIB),pBH100-1,IncHI2A
+Salmonella enterica	28901	AadA13	3002613	0.000139	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron	In498,IncHI2,pDM01,In97,Alpha(IncI1),IncHI2A
+Salmonella enterica	28901	AadA15	3002615	0.000176	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron	In569,unitig_1,In498,IncA/C2,pHZE33-1-1,pEC974-3,p220k,In360,pSCKLB555-1,pSA20030575.1,pFORC79_2,pSC7-vir
+Salmonella enterica	28901	AadA16	3002616	0.000941	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron,IS	pBckp021-1,pAR-0423-1,In553,pECAZ159_2,pCTXM14_020022,pSA20025921.1,K(IncFIB),In282,IncHI2,IncN,IncX1,IncR,In1021,In555,In498,pS25-68,IS6,pMTY14343_IncN,IncHI2A
+Salmonella enterica	28901	AadA17	3002617	0.000873	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron,IS	pHR2-1,In986,In1138,In127,pCP66-6-IncFIC,In282,IncHI2,IncX1,In360,In1249,pSCKLB555-1,p13C1065T-2,p0111,pSA20030575.1,Alpha(IncI1),B,pFORC_081_3,In424,p14EC017b,IS6,IncHI2A
+Salmonella enterica	28901	AadA22	3002619	0.001071	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron	In498,In282,IncA/C2,pAR-0429-1,Alpha(IncI1),pSA20025921.1,pSN254,p13450-1,p1CFSAN000318
+Salmonella enterica	28901	AadA23	3002620	0.001345	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron,IS	In986,IncFIA,In127,pR18.0877_278k,IncHI1A,PDM04,pZYST1C2,pZN3-cfr-121kb,HI1(IncFIA),K(IncFIB),In282,pMS8345A,pCVM44454,In727,IncHI2,pYPE12-122k,IncN,IncX1,IS1,p16-6773.1,In1249,R27(IncHI1B),pPA45B,pST90-1,In1000,pApR,In1368,ColRNAI,In901,In1103,IncFII,pSA20030575.1,Alpha(IncI1),pSRC27-H,p113k,pCFSAN086837,p14EC029c,In505,pCP131-IncFIB,In424,In498,pEC974-3,IS6,AP001918(IncFIB),pCFSA1096,pSal-5364,pBH100-1,IncHI2A
+Salmonella enterica	28901	AadA24	3002621	0.001091	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron,IS	pBT2436,IncA/C2,unitig_1_pilon,p13450-1,pSE08-00436-1,pLH94-8,pCVM44454,IncX4,IncHI2,pGMI17-002_1,pPE15-IncF,pSCKLB555-1,TY474p2,pWLK-NDM,pESI,pUMNK88,pFORC79_2,Alpha(IncI1),pMPTEM-30,p14EC029c,pFAM21845_1,In498,pAPEC-O1-R,IS6,pSN254,IncHI2A
+Salmonella enterica	28901	Aad(6)	3002628	0.000004	Streptomycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	APH(2'')-IIa	3002635	0.000004	Plazomicin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	APH(3'')-Ib	3002639	0.114769	Streptomycin	Aminoglycoside antibiotic	plasmid,transposon,integron,IS	pCombat13F7-3,pSI96-1,p33676_IncA/C,pCVM22513,S(IncFIB),pC15_001,pEcIMT16316,p14EC020b,pAR-0406-1,pSE79-2359,pSE104-1,Col440I,pSNE2-1926,pAR-0401-1,Tn5393c,p13450-1,pCRE10.1,HI1(IncFIA),pFORC51,pSal009,pSA186_5,p13C1065T-3,pMCR8_020135,p5696-1,pCVM44454,IncHI2,IncN,pCVM29188_146,IncX1,pKOX_R1,pSTY1-1896,In83,pSE81-1705-1,PCN061p3,pSNE1-1924,2,pN45955_1,A,pEA-1,IS91,unitig_1,tig00000003,pTB221,pYU39_IncA/C,pSNE1-1925,pECAZ147_2,In1368,pRM12581,pTetA_020022,pM-3471_DHA,pUMNK88,pEI-MS-17-156-1,IncFII,pCVMN1543,pCoo(IncFII),pSC138,pCombat13F7-2,pSRC27-I,pSal-3973_DHA_CMY,pM-3851_DHA,pCVM21550,pPMK1-C,pSH11G0791,IS3,pCRULAC1,tig00001069_pilon,pCFSAN003890,pCVM29188_101,pSNE2-1923,pSE124-1,In879,pSI102-1,pSN254,p34981_1,IncHI2A,p7,tig00001189,pCFSAN074384_1,IncA/C2,Tn6027,p846,pAUSMDU00008979_01,p6234-198.371kb,p220k,pCFSAN000934_02,IncQ1,pN53043_1,IS110,pMAB01,pSARB26_02,pCVM22425,pAR-0401-2,pSAG-76334,IncB/O/K/Z,pSI115-1,p1540-3,In1004,pNE1127-2,IncR,pGMI17-001_1,R27(IncHI1B),pET6.2-IncFII,pSal-4737_DHA,pCVM19633_110,pAR-0408,pST90-1,p168-2,pSL26_IncA/C2,pYDC107_184,pSO21_118,pCFS3273-2,pDM01,pD90-1,pSRC27-H,pN13-01290_23,pCR-HvKP1-p3,pYDC107_70,pN13-01290_98,pFAM21845_1,In498,pSE1004839,p1_085039,pHCM1,pCVM21538,pK15EC053,pKPHS3,IncN2,pSE81-1706,pSDU1-USMARC-69807,pCFSA664-1,p12367A,pCFSA1096,pEC448_1,FII(IncFIC),pPG20180170.1-IncN,pAB17H194-1,pCP53-mcr,pCombat11I9-1,pUTI89(IncFII),pR18.0877_278k,IncHI1A,pUO-STmRV1,pYU07-18_IncA/C2,p1540-2,pCFSAN000405_01,p280_9355,pSE74-1357,134q,IncAC2,pEQAS2016S1-1,pSHV12-1301491,K(IncFIB),pO83_CORR,p600657_8,pPNCS009991_S1,pMS8345A,pC45_001,pSNE2-2012K-0663,pSNE1-1929,pGD31-NDM,pET8.1-IncAC2,p08EU827_2,In1249,pSO21_IncA/C2,pSCKLB555-1,pNV-Y394,pNJST258N2,pHN7A8(IncFII),p22429,pMTY18780-1_lncHI2,pM-5360_DHA,pAR-0429-1,IncA/C,pSCU-123-2,pCFSAN086837,tig00000004,p13520,pCRULAC2,pKP27-MCR1,pSA20143792.1,pR16.0676_90k,pCFS3292-2,IS6,AP001918(IncFIB),pGMI17-004_1,pCFSAN027346-2,p12579_4,p12519B,pCV839-06-p1,pCREC-591_3,pAR-0427-1,p6409-202.186kb,pSCU-125-2,p34977-263.138kb,pECAZ159_1,IncFIA,pMCR1_025943,pLKSZ02,pSDU2-USMARC-69840,p22453_1,pSA20025921.1,pMRSN346647_113.1,pST-1,pSE08-00436-1,pM160133_p2,p1493-3,S(IncFII),In791,pSNE3-1928,p13P484A-4,p280_12888,pEIB202,pMCR8_095845,pVCGX2,pMR0617aac,pTB-nb4,pS7627-1,IS1,pRS571-MCR-1.1,IncFIB IncFII,pSE81-1607-1,pR19.2839_83k,pTB211,pEFER,pSD134209-1,pG3X16-2-2,pSAN1-1736,p11k,pST101-1,TY474p3,pFORC19,pSI108-1,tig00007555j7554,ColRNAI,pEGY3,Alpha(IncI1),pFORC74_3,Tn6029,pAR-0402,pTB182A-3,B,p08-5333.1,pS40-2,p87912,pAMSC1,pMU407(IncL/M),pSal-5091_DHA,In371,pST46-1,pQnrB4_020042,IncY,pAMSH1,pSal-5364,pK18EC051
+Salmonella enterica	28901	APH(3')-Ia	3002641	0.031266	Gentamicin B,Kanamycin A,Neomycin,Paromomycin,Ribostamycin	Aminoglycoside antibiotic	plasmid,transposon,integron,IS	S(IncFIB),pMRSN346595_5.3,pEco70745_1,Tn6179,Col440I,HI1(IncFIA),pCVM44454,IncHI2,pST45-1,IncN,pFSIS1502169,IncX1,p16-6773.1,pTBMCR401,pN45955_1,IS91,pETW41,pCFSAN086833,psg_ww281,In1368,Tn6178,IncFII,pSC138,pCoo(IncFII),p16-6773.4,pLAP2_020030,IS3,pCRULAC1,In879,pSN254,IncHI2A,IncA/C2,Tn6027,IncQ1,pN53043_1,pAR-0401-2,p10-8609.2,pO26_2,In1004,In909,IncR,R27(IncHI1B),In556,pSE11(IncFII),pSL26_IncA/C2,pCFS3273-2,pSA20030575.1,Col156,pSRC27-H,pCFSAN086835,pFAM21845_1,pSY3626C1_124k,In498,pNDM-CIT(IncHI1B),pAPEC-O1-R,pD72-IncX1,pK15EC053,pSE81-1706,pCFSA1096,pNDM-CIT(IncHI1A),FII(IncFIC),pBH100-1,pS44-1,pUTI89(IncFII),p6_B,pR18.0877_278k,IncHI1A,In141,p280_9355,plas4.1.1,pCFSAN000405_01,pKPN5,p12-6919.2,Tn4352,K(IncFIB),pS7697-1,pFT130-1,pAHTJR1,pET8.1-IncAC2,pCFSA122-1,p2AsACE,p22429,p1,pCFSAN086834,pEC2-1,IncA/C,IncX2,IS5,In424,p3K,pSA20143792.1,pCFS3292-2,IS6,AP001918(IncFIB),pEMT1,pN55391,p34977-263.138kb,p12519A,In569,Tn6088,IncFIA,pMCR1_025943,In571,pSDU2-USMARC-69840,p22453_1,pSE08-00436-1,S(IncFII),pPNCS007087.2,p280_12888,pFSIS1502916,IS1,pPS1,pRS571-MCR-1.1,pYY76-1-1,pST106-1,pWLK-NDM,pG3X16-2-2,pSAN1-1736,pFORC19,ColRNAI,pEGY3,Alpha(IncI1),p77k,pST46-1,ISNCY,pQnrB4_020042,pSal-5364,pK18EC051
+Salmonella enterica	28901	APH(3')-IIa	3002644	0.003024	Butirosin,Gentamicin B,Kanamycin A,Neomycin,Paromomycin,Ribostamycin	Aminoglycoside antibiotic	plasmid,integron,IS	IncA/C2,S(IncFIB),p220k,pSE74-1,pSE104-1,Col440I,K(IncFIB),S(IncFII),pSI173-2,IS4,IncHI2,IncN,IncX1,pSE95-1,In556,pHN7A8(IncFII),pEA-1,IS91,pSI111-1,pSCKLB555-3,p13KWH46-3,pD90-3,Alpha(IncI1),In498,pSI102-2,IS6,pSE124-1,In879,p12367A,pCFSA664-1,pSI85-1,IncHI2A
+Salmonella enterica	28901	APH(3')-IIIa	3002647	0.000007	Amikacin,Butirosin,Gentamicin B,Isepamicin,Kanamycin A,Neomycin,Paromomycin,Ribostamycin	Aminoglycoside antibiotic	plasmid	S(IncFIB),S(IncFII)
+Salmonella enterica	28901	APH(3')-VIa	3002652	0.000035	Amikacin,Butirosin,Gentamicin B,Isepamicin,Kanamycin A,Neomycin,Paromomycin,Ribostamycin	Aminoglycoside antibiotic	plasmid,transposon,IS	IncA/C2,pKQPS142b,IS30,IS6,TnaphA6,pOXA58_005069
+Salmonella enterica	28901	APH(4)-Ia	3002655	0.021725	Hygromycin B	Aminoglycoside antibiotic	plasmid,integron,IS	p12519A,IncA/C2,pSGB23,ISKra4,p220k,pUO-STmRV1,IncHI1A,In546,In141,p280_9355,plas4.1.1,pLS44712-MCR,In504,HI1(IncFIA),K(IncFIB),p280_12888,pCVM44454,IncB/O/K/Z,IncHI2,pST45-1,IncN,pFSIS1502916,pFSIS1502169,IncX1,In1004,In1249,pC629,pCFSA122-1,IncR,R27(IncHI1B),In556,pTB211,pHN7A8(IncFII),tig00000003,pCFSA244-1,pG3X16-2-2,pCFSAN086833,p1,pCFSAN086834,pECAZ147_2,p94EC-2,IncFII,pTJWQ005,Alpha(IncI1),pD90-1,pSI170-1,p13520,pCFSAN086835,p87912,pCFSA629,pFAM21845_1,In498,pAT205,p2019036D-50kb,pSI67-1,pCRULAC1,pST46-1,IS6,pN55391,pSI102-1,pCombat11I9-1,pCFSA664-1,pCV839-06-p1,pSI85-1,pMCR-H8,IncHI2A,pCV839-15-p2
+Salmonella enterica	28901	APH(6)-Ic	3002659	0.001779	Streptomycin	Aminoglycoside antibiotic	plasmid,IS	IS4,IncA/C2,IncHI2,IncN,IncX1,Alpha(IncI1),IncHI2A
+Salmonella enterica	28901	APH(6)-Id	3002660	0.113373	Streptomycin	Aminoglycoside antibiotic	plasmid,transposon,integron,IS	pCombat13F7-3,pSI96-1,p33676_IncA/C,pCVM22513,S(IncFIB),pC15_001,pEcIMT16316,p14EC020b,pAR-0406-1,pSE79-2359,pSE104-1,Col440I,pSNE2-1926,pAR-0401-1,Tn5393c,p13450-1,pCRE10.1,HI1(IncFIA),pFORC51,pSal009,pSA186_5,p13C1065T-3,pST95-32-1,In282,pMCR8_020135,p5696-1,pCVM44454,IncHI2,IncN,pCVM29188_146,IncX1,pKOX_R1,pSTY1-1896,In83,pSE81-1705-1,PCN061p3,pSNE1-1924,2,pN45955_1,A,pEA-1,IS91,unitig_1,tig00000003,pTB221,pYU39_IncA/C,pSNE1-1925,pECAZ147_2,In1368,pRM12581,pTetA_020022,pM-3471_DHA,pUMNK88,pEI-MS-17-156-1,IncFII,pCVMN1543,pCoo(IncFII),pCombat13F7-2,pSRC27-I,pSal-3973_DHA_CMY,pM-3851_DHA,pCVM21550,pPMK1-C,pSH11G0791,IS3,pCRULAC1,tig00001069_pilon,pCFSAN003890,pCVM29188_101,pSNE2-1923,pSE124-1,In879,pSI102-1,pSN254,p34981_1,IncHI2A,p7,tig00001189,pCFSAN074384_1,IncA/C2,Tn6027,p846,pAUSMDU00008979_01,p6234-198.371kb,p220k,pCFSAN000934_02,IncQ1,pN53043_1,IS110,pMAB01,pSARB26_02,pCVM22425,pAR-0401-2,pSAG-76334,IncB/O/K/Z,pSI115-1,p1540-3,In1004,pHS30-1,pNE1127-2,IncR,pGMI17-001_1,R27(IncHI1B),pET6.2-IncFII,pSal-4737_DHA,pCVM19633_110,pAR-0408,pST90-1,p168-2,pSL26_IncA/C2,pYDC107_184,pSO21_118,pCFS3273-2,pDM01,pD90-1,pSRC27-H,pN13-01290_23,pCR-HvKP1-p3,pYDC107_70,pN13-01290_98,pFAM21845_1,In498,pSE1004839,p1_085039,pHCM1,pCVM21538,pK15EC053,pKPHS3,IncN2,pSE81-1706,pSDU1-USMARC-69807,pCFSA664-1,p12367A,pCFSA1096,pEC448_1,FII(IncFIC),pPG20180170.1-IncN,pAB17H194-1,pCP53-mcr,pCombat11I9-1,pUTI89(IncFII),pR18.0877_278k,IncHI1A,pYU07-18_IncA/C2,p1540-2,pCFSAN000405_01,p280_9355,pSE74-1357,134q,IncAC2,pEQAS2016S1-1,pSHV12-1301491,K(IncFIB),pO83_CORR,p600657_8,pPNCS009991_S1,pMS8345A,pC45_001,pSNE2-2012K-0663,pSNE1-1929,pET8.1-IncAC2,p08EU827_2,pSO21_IncA/C2,pNV-Y394,pNJST258N2,pHN7A8(IncFII),p22429,pMTY18780-1_lncHI2,pM-5360_DHA,pAR-0429-1,IncA/C,pSCU-123-2,pCFSAN086837,tig00000004,p13520,pCRULAC2,In424,pKP27-MCR1,pSA20143792.1,pR16.0676_90k,pCFS3292-2,IS6,AP001918(IncFIB),pGMI17-004_1,pCFSAN027346-2,p12579_4,p12519B,pCV839-06-p1,pCREC-591_3,pAR-0427-1,p6409-202.186kb,pSCU-125-2,p34977-263.138kb,pECAZ159_1,tig00000857,IncFIA,pMCR1_025943,pLKSZ02,pSDU2-USMARC-69840,p22453_1,pSA20025921.1,pMRSN346647_113.1,pST-1,pSE08-00436-1,pM160133_p2,p1493-3,S(IncFII),In791,pSNE3-1928,p13P484A-4,p280_12888,pEIB202,pMCR8_095845,pVCGX2,pMR0617aac,pTB-nb4,pS7627-1,IS1,pRS571-MCR-1.1,IncFIB IncFII,pSE81-1607-1,pR19.2839_83k,pTB211,pEFER,pSD134209-1,pG3X16-2-2,pSAN1-1736,p11k,pST101-1,TY474p3,pFORC19,pSI108-1,tig00007555j7554,ColRNAI,pEGY3,Alpha(IncI1),pFORC74_3,Tn6029,pAR-0402,pTB182A-3,p08-5333.1,p87912,pAMSC1,pMU407(IncL/M),pSal-5091_DHA,pST46-1,pQnrB4_020042,IncY,pAMSH1,pSal-5364,pK18EC051
+Salmonella enterica	28901	CatB2	3002675	0.000004	Azidamfenicol,Chloramphenicol,Thiamphenicol	Phenicol antibiotic		
+Salmonella enterica	28901	CatB3	3002676	0.002889	Azidamfenicol,Chloramphenicol,Thiamphenicol	Phenicol antibiotic	plasmid,integron,IS	In300,IncFIA,IncA/C2,pSI96-1,pA708-1,pCAU16175_1,In546,In600,plas4.1.1,pSI173-2,IS4,ISL3,IncHI2,pST45-1,pGMI17-002_1,IncN,In1004,pOXA1_020030,IncX1,In836,In159,pWSZBR,pC629,pCTXM15_000533,pCFSA122-1,In63,In556,pST106-1,In152,pCFSA244-1,pH17-3,unitig_1,p1,In889,pFORC79_2,IncFII,pTJWQ005,Alpha(IncI1),pD90-1,pSI170-1,p13520,pS40-2,p54,p87912,In498,pSI67-1,pST46-1,IS6,AP001918(IncFIB),pCombat11I9-1,pSI102-1,pCFSA664-1,pC50_002,pSI85-1,IncHI2A
+Salmonella enterica	28901	CatI	3002683	0.010664	Azidamfenicol,Chloramphenicol,Thiamphenicol	Phenicol antibiotic	plasmid,integron,transposon,IS	IncFIA,IncA/C2,Tn6027,S(IncFIB),IncHI1A,pBU53M1,pNH25.1,Col440I,tig00000002,IS110,p13P460A-2,pSE08-00436-1,HI1(IncFIA),S(IncFII),pO83_CORR,IncHI2,In1004,In836,IncX1,In159,IS1,pSE81-1705-1,R27(IncHI1B),p675SK2_B,In398,Tn9-like,In325,p1,pKLP268-3,In1368,pCAV1453-208,pFORC79_2,pSA20030575.1,Alpha(IncI1),pSRC27-H,In498,pNDM-CIT(IncHI1B),In371,p3-20710,pHCM1,AP001918(IncFIB),IS6,In262,pSE81-1706,pNDM-CIT(IncHI1A),pBH100-1,IncHI2A
+Salmonella enterica	28901	CatII	3002684	0.000007	Azidamfenicol,Chloramphenicol,Thiamphenicol	Phenicol antibiotic		
+Salmonella enterica	28901	CatIII	3002685	0.000013	Azidamfenicol,Chloramphenicol,Thiamphenicol	Phenicol antibiotic		
+Salmonella enterica	28901	Plasmid-encoded cat (pp-cat)	3002689	0.000176	Azidamfenicol,Chloramphenicol,Thiamphenicol	Phenicol antibiotic	plasmid,integron	Col440I,In498,Alpha(IncI1),tig00000002
+Salmonella enterica	28901	CmlA1	3002693	0.008214	Chloramphenicol	Phenicol antibiotic	plasmid,transposon,integron,IS	S(IncFIB),pRHEcCUB-1,pCP66-6-IncFIC,HI1(IncFIA),In456,In282,pG3X16-2-3,IncHI2,pST45-1,IncN,pPE15-IncF,IncX1,tig00000003,A,unitig_1,IncFII,pSC138,p14EC047b,pSI67-1,In879,IncHI2A,IncA/C2,p220k,pGD31-F1928,pLS44712-MCR,In909,In1004,pCFSA12,In534,R27(IncHI1B),pCVM19633_110,pFORC_081_1,p13C1065T-2,In498,p2019036D-50kb,pHS13-1-IncHI2,pMRSN346595_67.9,In172,pMCR-H8,FII(IncFIC),pHR2-1,IncHI1A,pUO-STmRV1,plas4.1.1,pLH94-8,K(IncFIB),pMCR_W5-6,pSCKLB555-1,In1249,In640,pCFSA122-1,p1,p14EC029c,p13520,In424,IS6,AP001918(IncFIB),pTH164-1,p12519A,Tn6088,pSA186_MCR1,In571,pZF31-tetX-119kb,PDM04,pSE08-00436-1,S(IncFII),In532,pST106-1,In1114,pCP53-92k,pKPN-e44,Alpha(IncI1),pWW012,B,p38544-85.403kb,p87912,In511,pST46-1,pKP121-1-mcr
+Salmonella enterica	28901	CmlA4	3002694	0.000061	Chloramphenicol	Phenicol antibiotic	plasmid,integron	pKP13f,In498,Alpha(IncI1),In63
+Salmonella enterica	28901	CmlA5	3002695	0.001794	Chloramphenicol	Phenicol antibiotic	plasmid,integron,IS	IncA/C2,In571,unitig_1_pilon,In49,pCFSAN000405_01,pSA20025921.1,In310,pKPN5,pLH94-8,pST95-32-1,In164,In282,IncHI2,pGMI17-002_1,In355,p2448-1,IncX1,In159,pTB-nb4,pSCKLB555-1,In574,In467,A,pS121-1a,p22429,Alpha(IncI1),p38544-85.403kb,pSH11G0791,In498,In161,IS6,AP001918(IncFIB),pSN254,FII(IncFIC),IncHI2A,tig00000857
+Salmonella enterica	28901	CmlA6	3002696	0.001341	Chloramphenicol	Phenicol antibiotic	plasmid,integron,IS	In569,pHR2-1,IncA/C2,In571,pR18.0877_278k,IncHI1A,pUO-STmRV1,pSC7-vir,In504,HI1(IncFIA),IncHI2,IncN,In1004,p16-6773.1,pSCKLB555-1,R27(IncHI1B),In467,pHZE33-1-1,ColRNAI,Alpha(IncI1),pWW012,pCFSAN086837,In498,IS6,pCFSA1096,pSal-5364,pEC302/04,IncHI2A
+Salmonella enterica	28901	Cmx	3002703	0.000007	Chloramphenicol	Phenicol antibiotic		
+Salmonella enterica	28901	FexA	3002704	0.000002	Chloramphenicol,Florfenicol	Phenicol antibiotic		
+Salmonella enterica	28901	FloR	3002705	0.058963	Chloramphenicol,Florfenicol	Phenicol antibiotic	plasmid,integron,IS	p33676_IncA/C,pCVM22513,p14EC020b,In2-10,pCTXM14_020022,pSNE2-1926,pT28R-2,pAR-0401-1,HI1(IncFIA),pST95-32-1,pSal009,pCVM44454,IncHI2,pST45-1,IncN,pFSIS1502169,IncX1,p16-6773.1,pSTY1-1896,pTBMCR401,In1021,tig00000195,pSNE1-1924,2,pN45955_1,pEA-1,A,IS91,pETW41,pS121-1a,pCFSAN086833,pYU39_IncA/C,pSNE1-1925,psg_ww281,In1368,pRM12581,pM-3471_DHA,pUMNK88,pMMS9-2-1,IncFII,pCVMN1543,pCP61-IncFIB,pSal-3973_DHA_CMY,pM-3851_DHA,pCVM21550,pLD22-1-135kb,pSH11G0791,pLD26-1-MCR1,pSI67-1,pCFSAN003890,pSNE2-1923,pSE124-1,In879,pSI102-1,p2474-MCR1,pSN254,p34981_1,IncHI2A,pL73-2,IncW,pCFSAN074384_1,IncA/C2,p846,pSGB23,pEGY1-MCR-1,p220k,pCFSAN000934_02,IncQ1,pZN5-floR-8kb,pN53043_1,IS110,pLS44712-MCR,pCVM22425,p13190-2,IncB/O/K/Z,IncX3,In1004,pHS13-1-IncHI2,IncR,R27(IncHI1B),In467,pSal-4737_DHA,pAR-0408,pFORC_081_1,p234,pSL26_IncA/C2,p13C1065T-2,pEF05,pTJWQ005,In167,pD90-1,pSY3626C1_315k,pNE1092-3,In555,pCFSAN086835,p5CRE51-NDM-9,pM160133_p1,In498,pNDM-CIT(IncHI1B),pCVM21538,pCombat11I9-1,pKPHS3,pSDU1-USMARC-69807,pCFSA664-1,p12367A,pSI85-1,In172,pCFSA1096,pNDM-CIT(IncHI1A),FII(IncFIC),pMCR-H8,In127,pR18.0877_278k,IncHI1A,pYU07-18_IncA/C2,pYPE3-92k-tetX4,pTB402,pCFSAN000405_01,plas4.1.1,pLH94-8,K(IncFIB),pFT130-2,pSNE2-2012K-0663,pBT2101,pSNE1-1929,pET8.1-IncAC2,pSO21_IncA/C2,pCFSA122-1,pAsa5-3432,pHN7A8(IncFII),p1916D18-1,p22429,p1,pM-5360_DHA,pMTY18780-1_lncHI2,pCFSAN086834,pAR-0429-1,pSI170-1,pCFSAN086837,p13520,p14EC029b,pS25-68,pSA20143792.1,pR16.0676_90k,IS6,AP001918(IncFIB),pN55391,pAR-0427-1,pTH164-1,pEF04,pL65-2,pSal-5091_CMY,p12519A,IncFIA,p10A_p1,pLKSZ02,pSDU2-USMARC-69840,p22453_1,pPNCS014881.1,pSA20025921.1,pST-1,S(IncFII),pSNE3-1928,IS4,pFSIS1502916,pMR0617aac,pTB-nb4,IS1,pRS571-MCR-1.1,pC629,pYSP8-1,pTB211,In1114,pSAN1-1736,pMCR1-PA,pST101-1,pCP53-92k,ColRNAI,Alpha(IncI1),pMPTEM-30,p08-5333.1,pS40-2,pCP131-IncFIB,p87912,pTH114-1,pAMSC1,pSal-5091_DHA,pST46-1,pQnrB4_020042,IncY,pCP8-3-IncFII,pSal-5364,pKP121-1-mcr
+Salmonella enterica	28901	QnrA1	3002707	0.004115	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,integron	In424,In498,pC45_001,pIncAC2-1502318,In313,pKC-Na-R1,IncR,In172
+Salmonella enterica	28901	QnrA3	3002709	0.000004	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrA4	3002710	0.000011	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrB1	3002714	0.000242	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,integron,IS	In498,tig00000727,IncHI2,IS6,pKPN528-1,IncHI2A
+Salmonella enterica	28901	QnrB2	3002715	0.000004	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrB4	3002718	0.00042	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,integron,IS	In986,p142_A-OXA181,IncA/C2,p133355_SW_C4_Cam-1,IncHI2,IncN,p7102_58-6,pSal-4737_DHA,pM-5360_DHA,pM-3471_DHA,IncFII,Alpha(IncI1),pSal-3973_DHA_CMY,In555,pM-3851_DHA,pSal-5091_DHA,pR16.0676_90k,IS6,In879,IncHI2A
+Salmonella enterica	28901	QnrB5	3002719	0.000004	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrB6	3002720	0.000712	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,integron,IS	pBckp021-1,In498,pS25-68,IncHI2,IncN,IncX1,IS6,In555,IncHI2A,K(IncFIB)
+Salmonella enterica	28901	QnrB7	3002721	0.000122	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid	IncX3,pKPN39427.3
+Salmonella enterica	28901	QnrB10	3002724	0.017558	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,transposon	pS7697-3,p7101_67-5,p7102_58-4,MG828(Col),p32-4_E,pKPC-224e,Tn2012,Col440I,pOXA-48(IncL/M),pSNE1-2012K-0938,IncN2,p2_9355,p14-7355.2,4,p3_12888,pSA20041605.5
+Salmonella enterica	28901	QnrB12	3002726	0.000004	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrB13	3002727	0.000007	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrB17	3002732	0.000046	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid	pNUH12_ECL006_1
+Salmonella enterica	28901	QnrB19	3002734	0.004683	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid	MG828(Col),pYY76-1-2,Col440I,pHNCF11W-tetX4,pSNE1-2012K-0938,pSA20041605.5,IncX2,pKPC-224e
+Salmonella enterica	28901	QnrB20	3002735	0.000758	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,integron,IS	In498,IncA/C2,IncHI2,pE28_002,IS6,pk9,pC16_003,IncHI2A
+Salmonella enterica	28901	QnrB38	3002753	0.000002	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrB55	3002768	0.000007	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrB59	3002772	0.000002	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrB66	3002778	0.000002	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrB69	3002781	0.000004	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrD1	3002788	0.000294	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid	pMF1A,pMP63B,Col3M,pZN2-qnrD,pZA25-qnrD
+Salmonella enterica	28901	QnrD2	3002789	0.000044	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid	Col3M
+Salmonella enterica	28901	QnrS1	3002790	0.010524	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,integron,IS	Col440I,HI1(IncFIA),pST95-32-1,pSal009,IncHI2,IncN,pKOX_R1,IncX1,p16-6773.1,2,A,psg_ww281,IncFII,pCoo(IncFII),pKPN39427.3,pLD22-1-135kb,pSH11G0791,pLAP2_020030,IS3,p34399-106.698kb,IncHI2A,IncA/C2,pAUSMDU00008979_01,p846,pSGB23,p1919D62-1,p10k,IncB/O/K/Z,IncX3,pYPE12-101k-tetX4,pF93-2_1,IncR,R27(IncHI1B),In467,pTJWQ005,pL37-2,In498,pCFSA1096,pR18.0877_278k,IncHI1A,K(IncFIB),tig00003056,In1249,p3,pHN7A8(IncFII),pCFSAN086837,IncX2,pTB601,IS6,AP001918(IncFIB),pQnrS1_005237,pTH164-1,p276M-CTX-M-55,pMS14393B,pZF31-tetX-119kb,pPNCS014881.1,pST-1,pYPE10-78k,pNMBU-W12E19_02,pAR-0406-2,pK91,pR19.2839_83k,pSl1,pCHL5009T-102k-mcr3,pST101-1,pQnrS1_035148,pFORC82_1,ColRNAI,Alpha(IncI1),pLH375-2_incR,p08-5333.1,pS40-2,pECO-6dfa,pLAP2_020079,pMR0617tem,IncY,pSal-5364
+Salmonella enterica	28901	QnrS2	3002791	0.000923	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,integron,IS	IncQ2,IncHI2,pAR-0406-2,IS6,IncQ1,Alpha(IncI1),In556,p14EC033f,IncHI2A
+Salmonella enterica	28901	QnrS3	3002792	0.000002	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrS4	3002793	0.000048	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	QnrS7	3002796	0.00005	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid	pAR-0406-2
+Salmonella enterica	28901	QnrVC1	3002799	0.000011	CiprOfloxacin	Fluoroquinolone antibiotic	integron	In498
+Salmonella enterica	28901	QnrVC4	3002801	0.000024	CiprOfloxacin	Fluoroquinolone antibiotic	integron	In498
+Salmonella enterica	28901	QnrVC5	3002802	0.000002	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	FosA2	3002804	0.000041	Fosfomycin	Phosphonic acid antibiotic		
+Salmonella enterica	28901	Pp-flo	3002812	0.000009	Chloramphenicol,Florfenicol	Phenicol antibiotic	plasmid	IncA/C2,pSNE2-1923
+Salmonella enterica	28901	EreA2	3002826	0.001054	Erythromycin	Macrolide antibiotic	plasmid,integron,IS	IS91,In498,In398,IncA/C2,IncHI2,IncN,IS6,pSHV12-1301491,IncHI2A
+Salmonella enterica	28901	LnuA	3002835	0.000037	Lincomycin,Pirlimycin	Lincosamide antibiotic		
+Salmonella enterica	28901	LnuC	3002837	0.000033	Lincomycin	Lincosamide antibiotic		
+Salmonella enterica	28901	LnuF	3002839	0.000098	Clindamycin,Lincomycin	Lincosamide antibiotic	plasmid,integron	IncHI2,In498,IncHI2A
+Salmonella enterica	28901	Arr-2	3002847	0.001511	Rifampin	Rifamycin antibiotic	plasmid,integron,IS	IncA/C2,unitig_1_pilon,pR18.0877_278k,In310,pST95-32-1,IncHI2,IncN,pTB-nb4,p16-6773.1,In467,unitig_1,ColRNAI,Alpha(IncI1),pIB_NDM_1,pCFSAN086837,In498,In1080,IS6,pCFSA1096,pSal-5364,IncHI2A
+Salmonella enterica	28901	Arr-3	3002848	0.003738	Rifampin	Rifamycin antibiotic	plasmid,integron,IS	pBckp021-1,pAR-0423-1,pSI96-1,IncA/C2,pA708-1,pECAZ159_2,pCAU16175_1,In553,pCTXM14_020022,In49,In546,In600,pSA20025921.1,plas4.1.1,K(IncFIB),pSI173-2,IS4,In282,ISL3,IncHI2,pST45-1,pGMI17-002_1,IncN,In1004,pOXA1_020030,IncX1,pWSZBR,pC629,pCFSA122-1,In63,IncR,In556,In1021,pST106-1,In152,pCFSA244-1,pH17-3,p1,In889,IncFII,pTJWQ005,Alpha(IncI1),pD90-1,pSI170-1,In555,p13520,pS40-2,In1043,p87912,pOXA58_010055,In498,pS25-68,pSI67-1,In1213,pST46-1,IS6,pMTY14343_IncN,pCombat11I9-1,pSI102-1,pCFSA664-1,pC50_002,pSI85-1,IncHI2A
+Salmonella enterica	28901	DfrA1	3002854	0.012514	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,transposon,integron,IS	p5908-2,pAB17H194-1,IncA/C2,S(IncFIB),IncHI1A,In714,In2-10,IncQ1,pBU53M1,PDM04,pCFSAN000405_01,p280_9355,pSA20025921.1,pECAZ147_1,pSE08-00436-1,pSAN1-2010K-2577,HI1(IncFIA),p13C1065T-3,S(IncFII),pO83_CORR,In791,3,p280_12888,In282,IncX4,pSN254,IncHI2,IncB/O/K/Z,In2-33,IncN,In1004,IncX1,pET8.1-IncAC2,pS7627-1,In2-30,pSCKLB555-1,pTB422,In360,p2-101,IncR,In83,pGPN1,pPA45B,pAsa5-3432,2,R27(IncHI1B),In139,IS91,Tn7,pDM01,pEF05,pCombat13F7-2,Alpha(IncI1),In167,pMPTEM-30,In377,pSal-3973_DHA_CMY,pFORC_081_3,p18-43_02,Tn7-like,pLAP2_020030,p54,pFAM21845_1,In498,In371,pR16.0676_90k,In695,IS6,AP001918(IncFIB),pGMI17-004_1,In879,p1-H9,pAR-0427-1,pC50_002,In366,IncHI2A
+Salmonella enterica	28901	DfrA12	3002858	0.01224	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,transposon,integron,IS	p33676_IncA/C,S(IncFIB),pRHEcCUB-1,In384,pCP66-6-IncFIC,HI1(IncFIA),In761,pSal009,In282,pG3X16-2-3,IncHI2,pST45-1,IncN,pPE15-IncF,A,pH17-3,tig00000053_pilon,pETW41,pC21-2,pYU39_IncA/C,pCAV1453-208,IncFII,pSC138,pCoo(IncFII),pO111_1,pCAV1596-41,pSH11G0791,p14EC047b,In880,pCFSAN003890,pMTY14343_IncN,In879,pHNHF1_NDM-9,IncHI2A,In986,IncA/C2,Tn6027,p846,p220k,pCFSAN002069_01,In600,pGD31-F1928,tig00000137,pLS44712-MCR,In504,pTB201,p1540-3,In1004,pCFSA12,IncR,pET6.2-IncFII,R27(IncHI1B),In556,pFORC_081_1,pSA20082869.1,p13C1065T-2,pSO21_118,pVC1374,pDM01,pSRC27-H,pM160133_p1,In498,p1_085039,pNDM-CIT(IncHI1B),p14EC017b,pDMC1097-218.836kb,In695,pTB501,pHS13-1-IncHI2,pNDM-CIT(IncHI1A),FII(IncFIC),pHR2-1,pEC974-2,IncHI1A,pUO-STmRV1,pYU07-18_IncA/C2,plas4.1.1,pLH94-8,K(IncFIB),pMCR_W5-6,In1249,pEF01,p1,In653,p14EC029c,In505,tig00000004,In424,pST90-2,IS6,AP001918(IncFIB),pKP2_3,pCys-6,p10-3881.1,pPmi70746_1,pTH164-1,p12519A,Tn6088,pSA20070548.1,IncFIA,pSA186_MCR1,pASP-a58,pZF31-tetX-119kb,pSA20025921.1,tig00000002,p1_020143,S(IncFII),pYPE10-78k,IS1,pC629,pSF-173-1,pYY76-1-1,pST106-1,pCP53-92k,Alpha(IncI1),p77k,pWW012,p0.1229_2,B,pCP131-IncFIB,pTH114-1,plas1.1.2,In511,pIncAC2-1502318,pST46-1
+Salmonella enterica	28901	DfrA14	3002859	0.01792	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron,IS	p7,pCRENT-193_1,IncA/C2,pR18.0877_278k,IncHI1A,IncQ1,In310,pEQAS2016S1-1,HI1(IncFIA),pST95-32-1,unitig_5,K(IncFIB),pKpn70742_1,pC44_001,In282,pCVM44454,IncB/O/K/Z,IncHI2,In355,IncN,pFSIS1502916,pFSIS1502169,IncX1,pTB-nb4,p16-6773.1,pNDM1-CBG,pGMI17-001_1,R27(IncHI1B),In467,tig00000195,pTB211,A,pS121-1a,unitig_1,pGMI16-006_3,pESI,pCFSAN086833,pC2414-3-NDM,pSNE1-1925,psg_ww281,TY474p3,pYDC107_184,pCFSAN086834,ColRNAI,Alpha(IncI1),pAR-0402,pIB_NDM_1,pCFSAN086837,pYDC107_70,pLD26-1-135kb,unitig_2,pCFSAN086835,pECO-6dfa,In498,pR210-2-VIM,In1080,pHCM1,p4,IS6,pLAP2_020079,pN55391,pKp1050-4,IncY,pS7966-1,pCFSA1096,pSal-5364,IncHI2A
+Salmonella enterica	28901	DfrA17	3002860	0.002493	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron,IS	pAMSC5,IncFIA,IncA/C2,Yp(IncFII),IncHI1A,pEco70745_1,In1162,pTB402,In784,p13P460A-2,HI1(IncFIA),IncHI2,SARC14(IncFII),IncN,In909,p7102_58-6,IncX1,p2-101,IS1,pEC25-1,pC629,pCTXM15_000533,R27(IncHI1B),pEC316_3,IS91,pSUH-1,pSI108-1,IncFII,In1207,pD90-1,Alpha(IncI1),pSI170-1,B,p13520,In54,p87912,IS5,In1137,In498,pSI67-1,In785,IS6,AP001918(IncFIB),In879,p1NQ3,pCFSA664-1,pSN254,pSI85-1,IncHI2A
+Salmonella enterica	28901	DfrA5	3002861	0.001596	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,transposon,integron,IS	S(IncFIB),pYPE3-92k-tetX4,134q,In208,S(IncFII),IncB/O/K/Z,IncHI2,IncN,IncX1,IncX5,pYPE12-101k-tetX4,In398,tig00000727,Alpha(IncI1),Tn6029,unitig_2,In498,pSI67-1,pKPC_CAV1492,IS6,pSCU-125-2,pS44-1,IncHI2A
+Salmonella enterica	28901	DfrA7	3002862	0.006631	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron,IS	In498,S(IncFIB),IS3,p6409-151.583kb,p3-20710,IncHI1A,pHCM1,IS6,IS1,IncR,R27(IncHI1B),HI1(IncFIA),S(IncFII)
+Salmonella enterica	28901	DfrA8	3002863	0.000686	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,IS	pAR-0427-1,Alpha(IncI1),IS6
+Salmonella enterica	28901	DfrB1	3002864	0.000017	Trimethoprim	Diaminopyrimidine antibiotic	integron	In337
+Salmonella enterica	28901	DfrC	3002865	0.000002	Trimethoprim	Diaminopyrimidine antibiotic		
+Salmonella enterica	28901	FosA3	3002872	0.007167	Fosfomycin	Phosphonic acid antibiotic	plasmid,integron,IS	p12519A,IncA/C2,ISKra4,pSE104-1,pLS44712-MCR,IncHI2,IncN,pFSIS1502916,pFSIS1502169,IncX1,pC629,In556,pS40-1,pHN7A8(IncFII),IS91,pCFSAN086833,pCFSAN086834,Alpha(IncI1),pD90-1,pKPC2_095084,pSI170-1,p13520,pCFSAN086835,p14EC029b,p87912,pCFSA629,pCREC-591_1,IS6,In879,p12367A,pCFSA664-1,IncHI2A
+Salmonella enterica	28901	LinG	3002879	0.002571	Lincomycin	Lincosamide antibiotic	plasmid,transposon,integron,IS	In986,In1138,pMCR1_025943,IncA/C2,In127,pR18.0877_278k,pCP66-6-IncFIC,pZN3-cfr-121kb,K(IncFIB),In282,In727,IncHI2,IncN,IncX1,p16-6773.1,In1249,pYY76-1-1,pSal-4737_DHA,Tn7,In1000,pM-5360_DHA,ColRNAI,pM-3471_DHA,p0111,In1103,Alpha(IncI1),pSal-3973_DHA_CMY,pCFSAN086837,pM-3851_DHA,pFORC_081_3,In424,In498,pSal-5091_DHA,pEC974-3,p14EC017b,pR16.0676_90k,IS6,pCFSA1096,pSal-5364,IncHI2A
+Salmonella enterica	28901	SAT-2	3002895	0.001243	Streptothricin	Nucleoside antibiotic	plasmid,transposon,integron,IS	IS91,In2-48,In214,Tn7,IncX4,IncB/O/K/Z,In2-33,IncX1,In2-10,In2-30,Alpha(IncI1),In420,pSal-3973_DHA_CMY,In2-45,IncHI2A,Tn7-like
+Salmonella enterica	28901	SAT-4	3002897	0.000002	Streptothricin	Nucleoside antibiotic		
+Salmonella enterica	28901	VanR gene in vanA cluster	3002919	0.000004		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanR gene in vanB cluster	3002921	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanS gene in vanB cluster	3002932	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanH gene in vanA cluster	3002942	0.000009		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanH gene in vanB cluster	3002943	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanX gene in vanA cluster	3002949	0.000004		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanX gene in vanB cluster	3002950	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanY gene in vanA cluster	3002955	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanY gene in vanB cluster	3002956	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanZ gene in vanA cluster	3002962	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	VanW gene in vanB cluster	3002964	0.000002		glycoPeptide antibiotic		
+Salmonella enterica	28901	ArnA	3002985	0.000011		Peptide antibiotic		
+Salmonella enterica	28901	BacA	3002986	0.999136	Bacitracin A,Bacitracin B,Bacitracin F	Peptide antibiotic	plasmid	S(IncFII),IncR,AP001918(IncFIB)
+Salmonella enterica	28901	CfxA2	3003002	0.000004		Cephamycin		
+Salmonella enterica	28901	DfrA10	3003011	0.00005	Trimethoprim	Diaminopyrimidine antibiotic	plasmid	pKPC_CAV1344,IncA/C2,pTMSNI47-1
+Salmonella enterica	28901	DfrA15	3003013	0.000829	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron,IS	pSGB23,IncHI1A,pBU53M1,pCFSAN000405_01,HI1(IncFIA),pSAN1-2010K-2577,In874,3,IncN,In360,IS1,pN069_2,R27(IncHI1B),In1114,pVCR94,In144,Alpha(IncI1),In498,IS6,pMTY14343_IncN
+Salmonella enterica	28901	DfrA16	3003014	0.000233	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron	In601,In498,p3846_IncHI2_mcr,IncA/C2,In282,IncHI2,In1133,In879,IncN2,In172,pMRSN346595_67.9,pPmi70746_1,IncHI2A,pEC448_OXA163
+Salmonella enterica	28901	DfrA19	3003015	0.001032	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron,IS	In498,IncFIA,IncA/C2,pC15_001,IncHI2,pC45_001,In1368,AP001918(IncFIB),IS6,pFORC79_2,pASP-135,IncHI2A
+Salmonella enterica	28901	DfrA21	3003017	0.000061	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron	pEC656_KPC,In498,pHCM2(IncFIB),In139
+Salmonella enterica	28901	DfrA23	3003019	0.000697	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron	In498,In282,IncA/C2,pSal-5091_DHA,S(IncFIB),pM-5360_DHA,pR16.0676_90k,pM-3471_DHA,pNE1127-2,Alpha(IncI1),pSal-3973_DHA_CMY,IncAC2,pM-3851_DHA,pSal-4737_DHA,S(IncFII)
+Salmonella enterica	28901	DfrA25	3003020	0.00007	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron	In498,IncR,pC16_003,pECAZ153_KPC,3
+Salmonella enterica	28901	DfrB3	3003022	0.000022	Trimethoprim	Diaminopyrimidine antibiotic		
+Salmonella enterica	28901	RosA	3003048	0.000039		Peptide antibiotic		
+Salmonella enterica	28901	RosB	3003049	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	Erm(42)	3003106	0.000172	Clindamycin,Erythromycin	Lincosamide antibiotic,Macrolide antibiotic	plasmid,IS	IncA/C2,pSL26_IncA/C2,IS6,IncQ1,pPNCS014881.1,Alpha(IncI1),pZF34-tetX-114kb
+Salmonella enterica	28901	Mef(B)	3003107	0.00037		Macrolide antibiotic	plasmid,integron,IS	In424,In498,IncHI1A,pPE15-IncF,IS6,AP001918(IncFIB),In901,In1249,pHS13-1-IncHI2,p14EC001c,Alpha(IncI1),In172,R27(IncHI1B),p14EC029c,HI1(IncFIA),FII(IncFIC)
+Salmonella enterica	28901	MsrE	3003109	0.000494	Erythromycin	Macrolide antibiotic	plasmid,integron,IS	IncA/C2,In714,tig00000137,In546,pSA20025921.1,p13450-1,IncHI2,IncL/M,pACI-235c,In556,In1368,IncA/C,pK66-45-1,pZZW20-108K,IS5,p6234-178.193kb,In498,IS6,IncHI2A
+Salmonella enterica	28901	CMY-124	3003132	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-130	3003138	0.000002		Cephamycin		
+Salmonella enterica	28901	SHV-185	3003152	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	SHV-189	3003156	0.000004		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	TEM-219	3003157	0.000007		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	NDM-13	3003182	0.000002		CarbaPenem,Cephalosporin,Cephamycin,Penam	plasmid	Alpha(IncI1)
+Salmonella enterica	28901	GES-25	3003185	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	QnrB76	3003188	0.000076		Fluoroquinolone antibiotic	plasmid	IncX3,pKPC-def
+Salmonella enterica	28901	QnrB77	3003189	0.000063		Fluoroquinolone antibiotic	plasmid	tig00001189
+Salmonella enterica	28901	AadA25	3003197	0.000035	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron	In424,In498,p33676_IncA/C,In901,In1249,pSCKLB555-1,p14EC029c,B
+Salmonella enterica	28901	AAC(6')-Ian	3003200	0.000009	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	FosA5	3003209	0.000007	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid,integron	In2-30,IncX4
+Salmonella enterica	28901	FosA4	3003210	0.000146	Fosfomycin	Phosphonic acid antibiotic	plasmid,IS	pSGB23,IncHI1A,IncN,IS6,R27(IncHI1B),HI1(IncFIA)
+Salmonella enterica	28901	Escherichia coli rpoB mutants conferring resistance to rifampicin	3003288	0.000087	Rifabutin,Rifampin,Rifapentine,Rifaximin	Rifamycin antibiotic		
+Salmonella enterica	28901	Escherichia coli gyrA conferring resistance to fluoroquinolones	3003294	0.000124	CiprOfloxacin,Enoxacin,Gatifloxacin,Grepafloxacin,LevOfloxacin,Lomefloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Ofloxacin,Pefloxacin,Sparfloxacin,Trovafloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Staphylococcus aureus gyrB conferring resistance to aminocoumarin	3003301	0.000002	Clorobiocin,Coumermycin A1,Novobiocin	Aminocoumarin antibiotic		
+Salmonella enterica	28901	Morganella morganii gyrB conferring resistance to fluoroquinolones	3003306	0.000002	CiprOfloxacin,Enoxacin,Gatifloxacin,Grepafloxacin,LevOfloxacin,Lomefloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Ofloxacin,Pefloxacin,Sparfloxacin,Trovafloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Salmonella serovars gyrB conferring resistance to fluoroquinolones	3003307	0.000701	CiprOfloxacin,Enoxacin,Gatifloxacin,Grepafloxacin,LevOfloxacin,Lomefloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Ofloxacin,Pefloxacin,Sparfloxacin,Trovafloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Escherichia coli parC conferring resistance to fluoroquinolones	3003308	0.006076	CiprOfloxacin,Enoxacin,Gatifloxacin,Grepafloxacin,LevOfloxacin,Lomefloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Ofloxacin,Pefloxacin,Sparfloxacin,Trovafloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Salmonella serovars parE conferring resistance to fluoroquinolones	3003317	0.000007	CiprOfloxacin,Enoxacin,Gatifloxacin,Grepafloxacin,LevOfloxacin,Lomefloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Ofloxacin,Pefloxacin,Sparfloxacin,Trovafloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	3003369	0.344128	Pulvomycin	Elfamycin antibiotic	plasmid	AP001918(IncFIB)
+Salmonella enterica	28901	Escherichia coli AcrAB-TolC with MarR mutations conferring resistance to ciprofloxacin and tetracycline	3003378	0.998733	CiprOfloxacin,Tetracycline	Fluoroquinolone antibiotic,Tetracycline antibiotic	plasmid	Col440I,S(IncFII)
+Salmonella enterica	28901	Salmonella enterica ramR mutants	3003379	0.000638	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Escherichia coli soxR with mutation conferring antibiotic resistance	3003381	0.998522	Chloramphenicol,CiprOfloxacin,Nalidixic acid	Fluoroquinolone antibiotic,Phenicol antibiotic	plasmid,integron,ICE	ICESenTy2-1,In498,IncA/C2,S(IncFIB),IncHI2,SPI-7,IncY,IncHI2A,S(IncFII)
+Salmonella enterica	28901	Salmonella enterica soxR with mutation conferring antibiotic resistance	3003382	0.000004	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Escherichia coli folP with mutation conferring resistance to sulfonamides	3003386	0.000544	Mafenide,Sulfacetamide,Sulfadiazine,Sulfadimidine,Sulfadoxine,Sulfamethizole,Sulfamethoxazole,Sulfasalazine,Sulfisoxazole	Sulfonamide antibiotic		
+Salmonella enterica	28901	CfrA	3003441	0.000013	Azidamfenicol,Chloramphenicol,Clindamycin,Dalfopristin,Griseoviridin,Lincomycin,Madumycin II,Thiamphenicol,Tiamulin,Virginiamycin M1	Lincosamide antibiotic,Phenicol antibiotic,Pleuromutilin antibiotic,Streptogramin antibiotic	plasmid,IS	IncW,IS6
+Salmonella enterica	28901	TetR	3003479	0.066352		Tetracycline antibiotic	plasmid,integron,transposon,IS	IncFIA,IncA/C2,S(IncFIB),pUTI89(IncFII),IncHI1A,pSA20064858.1,In2-10,pPNCS014881.1,p280_9355,HI1(IncFIA),pAR-0401-2,S(IncFII),Tn10,p08-4425.1,IS4,p280_12888,IncHI2,pCVM29188_146,IncX1,IS1,pSE81-1705-1,pRSB107(IncFII),IncR,pYY76-1-1,R27(IncHI1B),p10-3184.1,pHN7A8(IncFII),In1368,p66,pFORC79_2,IncFII,pSA20030575.1,pCoo(IncFII),Alpha(IncI1),pSRC27-H,pN13-01290_23,Col156,IncA/C,pO111_1,pFAM21845_1,In498,pHCM1,pPNCS007087.1,AP001918(IncFIB),IS6,pCFSAN027346-2,pPNCS015054_S2,pSE81-1706,pG5295-2,IncHI2A
+Salmonella enterica	28901	Escherichia coli soxS with mutation conferring antibiotic resistance	3003511	0.998047	Chloramphenicol,CiprOfloxacin,enrOfloxacin	Fluoroquinolone antibiotic,Phenicol antibiotic	plasmid,ICE	ICESenTy2-1,IncA/C2,S(IncFIB),IncHI2,SPI-7,IncY,IncHI2A,S(IncFII)
+Salmonella enterica	28901	MdtN	3003548	0.000081		Disinfecting agents and antiseptics,Nucleoside antibiotic		
+Salmonella enterica	28901	MdtO	3003549	0.000083		Disinfecting agents and antiseptics,Nucleoside antibiotic		
+Salmonella enterica	28901	MdtP	3003550	0.000078		Disinfecting agents and antiseptics,Nucleoside antibiotic		
+Salmonella enterica	28901	EptA	3003576	0.000078		Peptide antibiotic		
+Salmonella enterica	28901	Ugd	3003577	0.000544		Peptide antibiotic		
+Salmonella enterica	28901	PmrF	3003578	0.00022		Peptide antibiotic		
+Salmonella enterica	28901	OXA-454	3003610	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	CTX-M-164	3003648	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-165	3003649	0.000028		Cephalosporin		
+Salmonella enterica	28901	CMY-132	3003652	0.000065		Cephamycin	plasmid,transposon	pCVMN1543,IncA/C2,Tn6092
+Salmonella enterica	28901	CMY-133	3003653	0.000004		Cephamycin	plasmid	pSA02DT09004001_101,pCVM29188_101
+Salmonella enterica	28901	CMY-134	3003654	0.000009		Cephamycin	plasmid	pSNE3-1928,pN53043_1
+Salmonella enterica	28901	AAC(6')-Ib'	3003676	0.00005	Amikacin,Tobramycin	Aminoglycoside antibiotic	plasmid	pAR-0405
+Salmonella enterica	28901	OpmH	3003682	0.000002		Disinfecting agents and antiseptics		
+Salmonella enterica	28901	MCR-1.1	3003689	0.001615	Colistin A,Colistin B	Peptide antibiotic	plasmid,integron,IS	IncI2,pMRY15-117_2,p14EC007a,pEGY1-MCR-1,pS7627-2,IncHI1A,p14EC001a,pCFSA664-3,pSCC4,pC2,pTB602,pGMI17-001_2,plas4.1.1,p13KWH46-4,pLS44712-MCR,pSE08-00436-1,pM-3471_MCR33k,HI1(IncFIA),p5CRE51-MCR-1,pZJ3920-3,IncX4,pMS8345A,pCHL5009T-61.8k-mcr1,p94EC-3,IncHI2,pGD31-MCR,IncN,pS8250-2,pSCZE4,pCFSA122-1,pEA-3,R27(IncHI1B),In556,pTBMCR401,pKPNH54.3,p2HS-C-1,pMCR-1-CTSe,pWI2-mcr,Delta(IncI2),pCFSA244-2,pCRE1.3,pEQAS2016S1-2,pN17-0346,pWW012,pD90-2,pLD93-1-MCR1,pCFSA629,pM160133_p1,IncP1,pMR0617mcr,pAH25-1,pCFSA231,IS30,pT16R-3,IS6,pTB501,pSal-5091_MCR64k,pICBEC72Hmcr,pCFSA1096,pMCR-H8,IncHI2A,pMR0617mcr1,pICBEC7Pmcr
+Salmonella enterica	28901	MphE	3003741	0.000488	Erythromycin	Macrolide antibiotic	plasmid,integron,IS	IS5,p6234-178.193kb,IncA/C2,IncHI2,p13450-1,In1368,In714,IS6,IncL/M,tig00000137,In546,IncA/C,pSA20025921.1,pACI-235c,In556,IncHI2A,pK66-45-1,pZZW20-108K
+Salmonella enterica	28901	MphG	3003742	0.000028	Azithromycin,Clarithromycin,Erythromycin	Macrolide antibiotic	plasmid,IS	IS91,Alpha(IncI1),IncA/C2
+Salmonella enterica	28901	MefC	3003745	0.00003		Macrolide antibiotic	plasmid,IS	IS91,Alpha(IncI1),IncA/C2
+Salmonella enterica	28901	Staphylococcus aureus murA with mutation conferring resistance to fosfomycin	3003776	0.000002	Fosfomycin	Phosphonic acid antibiotic		
+Salmonella enterica	28901	Campylobacter jejuni gyrA conferring resistance to fluoroquinolones	3003789	0.000002	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Escherichia coli AcrAB-TolC with AcrR mutation conferring resistance to ciprofloxacin, tetracycline, and ceftazidime	3003807	0.001472	Ceftazidime,CiprOfloxacin,Tetracycline	Cephalosporin,Fluoroquinolone antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	GadW	3003838	0.000085		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam		
+Salmonella enterica	28901	Mrx	3003839	0.009261		Macrolide antibiotic	plasmid,integron,IS	p142_A-OXA181,pSI96-1,S(IncFIB),pC15_001,Col440I,HI1(IncFIA),pSal009,3,pNMBU-W13E19_01,IncHI2,IncN,IncX1,p16-6773.1,pH17-3,IncFII,pCoo(IncFII),pSH11G0791,pLAP2_020030,tig00001069_pilon,In879,IncHI2A,p44-1,IncA/C2,p846,pSGB23,pKPGJ-2c,p220k,pCFSAN000934_02,In504,IncB/O/K/Z,pSI115-1,In909,IncR,pET6.2-IncFII,R27(IncHI1B),In556,pVC1374,pTJWQ005,In555,In1137,In498,tig00001160,pNDM-CIT(IncHI1B),pCFSA664-1,pSI85-1,pCFSA1096,pNDM-CIT(IncHI1A),pUTI89(IncFII),IncHI1A,p133355_SW_C4_Cam-1,In313,p12-6919.2,K(IncFIB),pGMI17-002_1,pCRKP-1215_2,pE28_002,p7102_58-6,pSUH-1,pD90-3,pCFSAN086837,tig00000004,p13520,p14EC029b,pR210-2-VIM,IS6,AP001918(IncFIB),pCTXM3_020032,p5-20710,pCys-6,pC50_002,IS1380,IncFIA,pMS14393B,pPNCS014881.1,tig00000002,S(IncFII),IncX4,pC52_003,p1_020003,pC629,pSF-173-1,pYY76-1-1,pCARB35_02,pSI111-1,pSI108-1,Alpha(IncI1),p0.1229_2,p87912,In502
+Salmonella enterica	28901	KdpE	3003841	0.762302		Aminoglycoside antibiotic	plasmid	S(IncFIB),IncHI2A,S(IncFII)
+Salmonella enterica	28901	LeuO	3003843	0.000109		Disinfecting agents and antiseptics,Nucleoside antibiotic		
+Salmonella enterica	28901	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	3003889	0.99732	Fosfomycin	Phosphonic acid antibiotic		
+Salmonella enterica	28901	Escherichia coli UhpT with mutation conferring resistance to fosfomycin	3003890	0.997061	Fosfomycin	Phosphonic acid antibiotic	plasmid,integron	In498,ColE10,IncX1,AP001918(IncFIB),S(IncFII)
+Salmonella enterica	28901	Escherichia coli cyaA with mutation conferring resistance to fosfomycin	3003900	0.000002	Fosfomycin	Phosphonic acid antibiotic		
+Salmonella enterica	28901	ANT(4')-Ib	3003905	0.000002	Amikacin,Dibekacin,Isepamicin,Tobramycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	OqxA	3003922	0.003303		Diaminopyrimidine antibiotic,Fluoroquinolone antibiotic,Nitrofuran antibiotic,Tetracycline antibiotic	plasmid,transposon,integron,IS	p12519A,p33676_IncA/C,IncA/C2,p220k,pSE74-1,pYU07-18_IncA/C2,pSE104-1,In546,plas4.1.1,K(IncFIB),IS4,pSI173-2,IncHI2,pST45-1,IncN,In909,In1004,pSE95-1,IncX1,In1249,pC629,In556,pST106-1,pHN7A8(IncFII),pCFSA244-1,IS91,pYU39_IncA/C,p1,IncFII,pTJWQ005,pD90-1,pSI170-1,In555,p13520,p87912,In498,Tn6010,pST46-1,IS6,pSE124-1,In879,p12367A,pCFSA664-1,IncHI2A
+Salmonella enterica	28901	OqxB	3003923	0.002704		Diaminopyrimidine antibiotic,Fluoroquinolone antibiotic,Nitrofuran antibiotic,Tetracycline antibiotic	plasmid,transposon,integron,IS	p33676_IncA/C,IncA/C2,p220k,pYU07-18_IncA/C2,In546,plas4.1.1,K(IncFIB),IncHI2,pST45-1,IncN,In909,In1004,IncX1,In1249,pC629,pCFSA122-1,pST106-1,pHN7A8(IncFII),pCFSA244-1,pYU39_IncA/C,p1,IncFII,pD90-1,pSI170-1,p13520,p87912,IS5,In498,Tn6010,pST46-1,IS6,In879,p12367A,pCFSA664-1,IncHI2A
+Salmonella enterica	28901	Salmonella enterica gyrA conferring resistance to fluoroquinolones	3003926	0.093797	CiprOfloxacin,Nalidixic acid	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Salmonella enterica parC conferring resistance to fluoroquinolones	3003939	0.000004	CiprOfloxacin,Nalidixic acid	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Shigella flexneri gyrA conferring resistance to fluoroquinolones	3003940	0.000002	Nalidixic acid,Norfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Shigella flexneri parC conferring resistance to fluoroquinolones	3003941	0.000002	Nalidixic acid,Norfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	MsbA	3003950	0.997481	Metronidazole	Nitroimidazole antibiotic		
+Salmonella enterica	28901	YojI	3003952	0.997274	Microcin J25	Peptide antibiotic	plasmid,integron	In498,S(IncFII)
+Salmonella enterica	28901	FarB	3003962	0.000002		Antibacterial free fatty acids		
+Salmonella enterica	28901	Escherichia coli emrE	3004039	0.000072	Erythromycin	Macrolide antibiotic		
+Salmonella enterica	28901	Klebsiella pneumoniae acrA	3004041	0.000004		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	Enterobacter cloacae acrA	3004042	0.000002		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	Escherichia coli acrA	3004043	0.997779		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic	plasmid	IncFII,HI1(IncFIA),IncX1,S(IncFII)
+Salmonella enterica	28901	Escherichia coli fabI mutations conferring resistance to isoniazid and triclosan	3004045	0.000011	Triclosan	Disinfecting agents and antiseptics		
+Salmonella enterica	28901	LnuG	3004085	0.00064	Lincomycin	Lincosamide antibiotic	plasmid,transposon,integron	pYPE10-190k-tetX4,In498,IncX4,Tn6260,IncHI2,IncHI1A,In1368,In2-10,In901,pSRC27-H,R27(IncHI1B),HI1(IncFIA),IncHI2A
+Salmonella enterica	28901	ANT(3'')-IIa	3004089	0.002266	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron,IS	pCRENT-193_1,IncA/C2,pSGB23,In790,PDM04,In49,pCFSAN002069_01,In310,pCP66-6-IncFIC,pST95-32-1,3,pJ31,pS7697-1,pCVM44454,IncHI2,pYPE12-122k,In355,pTB-nb4,In119,pSCKLB555-1,In467,pPA45B,2,IS91,pS121-1a,pWLK-NDM,p22429,pEC2-1,In901,pFORC79_2,Alpha(IncI1),4,p1CFSAN000318,B,In424,In498,p34998-239.973kb,pEC974-3,pAPEC-O1-R,In1080,pCFS3292-2,IS6,pSN254,pIB_NDM_1,IncHI2A
+Salmonella enterica	28901	QepA2	3004103	0.000128	CiprOfloxacin,Moxifloxacin,Norfloxacin	Fluoroquinolone antibiotic	plasmid,integron,IS	IncFIA,IncA/C2,p846,In504,pSal009,IncHI2,IncN,In909,pST90-1,pSI108-1,pEsST410_NW_3,IncFII,p13520,pSH11G0791,p87912,In498,IS6,AP001918(IncFIB),In879,IncHI2A
+Salmonella enterica	28901	MCR-2.1	3004110	0.000002	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	FosA6	3004111	0.00003	Fosfomycin	Phosphonic acid antibiotic		
+Salmonella enterica	28901	FosA7	3004113	0.045099	Fosfomycin	Phosphonic acid antibiotic		
+Salmonella enterica	28901	Klebsiella pneumoniae OmpK37	3004122	0.0002	Cefotaxime,Cefoxitin	Cephalosporin,Cephamycin		
+Salmonella enterica	28901	MCR-3.1	3004139	0.000222	Colistin A,Colistin B	Peptide antibiotic	plasmid,IS	pCHL5009T-102k-mcr3,IncA/C2,pAUSMDU00008979_01,pST101-1,IS3,p13C1065T-2,AP001918(IncFIB),IS6,IncFII,pCP131-IncHI1,pST-1,FII(IncFIC),p08-5333.1,pK18EC051
+Salmonella enterica	28901	MCR-1.2	3004194	0.000007	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	Escherichia coli ampC beta-lactamase	3004290	0.000041	Penicillin	Penam		
+Salmonella enterica	28901	MCR-5.1	3004332	0.000061	Colistin A,Colistin B	Peptide antibiotic	plasmid	pMCR5_045096,IncHI1A,ColRNAI,Col440I,Col156,R27(IncHI1B),HI1(IncFIA)
+Salmonella enterica	28901	Salmonella enterica gyrA with mutation conferring resistance to triclosan	3004334	0.004838	Triclosan	Disinfecting agents and antiseptics		
+Salmonella enterica	28901	Escherichia coli gyrA with mutation conferring resistance to triclosan	3004335	0.000011	Triclosan	Disinfecting agents and antiseptics		
+Salmonella enterica	28901	Sul4	3004361	0.000007	Sulfamethoxazole	Sulfonamide antibiotic		
+Salmonella enterica	28901	QepA4	3004379	0.000007		Fluoroquinolone antibiotic		
+Salmonella enterica	28901	Tet(W/N/W)	3004442	0.000004	Chlortetracycline,Minocycline,Tetracycline	Tetracycline antibiotic		
+Salmonella enterica	28901	HERA-1	3004448	0.000035		Penam		
+Salmonella enterica	28901	Campylobacter coli chloramphenicol acetyltransferase	3004454	0.000002	Chloramphenicol	Phenicol antibiotic		
+Salmonella enterica	28901	OXA-663	3004489	0.000013		CarbaPenem,Cephalosporin,Penam	plasmid	pTB-nb4
+Salmonella enterica	28901	DfrB4	3004498	0.000007	Trimethoprim	Diaminopyrimidine antibiotic		
+Salmonella enterica	28901	MCR-1.9	3004507	0.000002	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	MCR-3.2	3004511	0.000035	Colistin A,Colistin B	Peptide antibiotic	plasmid,IS	pAUSMDU00008979_01,IncHI2,IncN,IS6,pCFSAN086837,IncHI2A,pK18EC051
+Salmonella enterica	28901	MCR-1.6	3004513	0.000009	Colistin A,Colistin B	Peptide antibiotic	plasmid	pM160133_p1
+Salmonella enterica	28901	MCR-1.3	3004514	0.000007	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	DfrB5	3004549	0.000007	Trimethoprim	Diaminopyrimidine antibiotic		
+Salmonella enterica	28901	DfrA27	3004550	0.000951	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron,IS	pBckp021-1,pAR-0423-1,In553,pECAZ159_2,pCTXM14_020022,In49,pSA20025921.1,K(IncFIB),In282,IncHI2,IncN,IncX1,pWSZBR,IncR,In1021,In152,In555,In498,pS25-68,In1213,IS6,pMTY14343_IncN,IncHI2A
+Salmonella enterica	28901	DfrA32	3004555	0.000115	Trimethoprim	Diaminopyrimidine antibiotic	integron	In889,In1013,In525,In282
+Salmonella enterica	28901	Klebsiella pneumoniae KpnE	3004580	0.000004		Aminoglycoside antibiotic,Cephalosporin,Disinfecting agents and antiseptics,Macrolide antibiotic,Peptide antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	Klebsiella pneumoniae KpnF	3004583	0.000015		Aminoglycoside antibiotic,Cephalosporin,Disinfecting agents and antiseptics,Macrolide antibiotic,Peptide antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Salmonella enterica	28901	Klebsiella pneumoniae KpnG	3004588	0.000013		Aminoglycoside antibiotic,CarbaPenem,Cephalosporin,Fluoroquinolone antibiotic,Macrolide antibiotic,Penam,Penem,Peptide antibiotic		
+Salmonella enterica	28901	Klebsiella pneumoniae KpnH	3004597	0.001559		Aminoglycoside antibiotic,CarbaPenem,Cephalosporin,Fluoroquinolone antibiotic,Macrolide antibiotic,Penam,Penem,Peptide antibiotic		
+Salmonella enterica	28901	EreD	3004608	0.000009	Erythromycin	Macrolide antibiotic		
+Salmonella enterica	28901	AAC(3)-IIe	3004621	0.001441	2'-N-ethylNetilmicin,6'-N-ethylNetilmicin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,integron,IS	In498,IncFIA,IncA/C2,IncHI2,IncX3,pGMI17-002_1,pCFS3292-2,IS6,AP001918(IncFIB),IncQ1,pOXA-48(IncL/M),pCoo(IncFII),Alpha(IncI1),pCTXM15_000533,pSE08-00436-1,IncHI2A,pTB601
+Salmonella enterica	28901	AAC(3)-IId	3004623	0.005663	2'-N-ethylNetilmicin,6'-N-ethylNetilmicin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,transposon,integron,IS	p33676_IncA/C,S(IncFIB),pC15_001,pOXA58_005069,p13450-1,pCP66-6-IncFIC,HI1(IncFIA),tig00000169_pilon,IncHI2,IncN,IncX1,IncL/M,p16-6773.1,p55k,A,In1368,IncFII,pCoo(IncFII),pFORC44_1,pLAP2_020030,IS3,IncHI2A,In986,IncA/C2,Tn6027,pAUSMDU00008979_01,pCRE1.1,IncQ1,pYPE12-122k,pSH-04-1,R27(IncHI1B),In467,pST90-1,pSL26_IncA/C2,p13C1065T-2,pSRC27-H,p1CFSAN000318,p1720-2,pRpNDM-1,In498,pCFSA1096,FII(IncFIC),pR18.0877_278k,IncHI1A,K(IncFIB),In1249,pEC27-2,pHN7A8(IncFII),p0111,p45407_2,pCFSAN086837,pDA33133-157,pST90-2,IS6,AP001918(IncFIB),pTH164-1,tig00000857,IncFIA,unitig_1_pilon,pPNCS014881.1,pK71-77-1-NDM,pST-1,pSEEH1578_01,S(IncFII),pCHL5009T-102k-mcr3,pST101-1,pFORC19,pCP53-92k,tig00007555j7554,ColRNAI,pEGY3,Alpha(IncI1),p113k,p08-5333.1,pBJAB0715,pSA186_3,pSal-5364
+Salmonella enterica	28901	QnrS11	3004624	0.000013	CiprOfloxacin	Fluoroquinolone antibiotic	IS	IS6
+Salmonella enterica	28901	Erm(49)	3004626	0.000015	Clindamycin,Erythromycin	Lincosamide antibiotic,Macrolide antibiotic		
+Salmonella enterica	28901	QnrS15	3004627	0.00002	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid	IncX1
+Salmonella enterica	28901	AAC(2')-IIa	3004628	0.000908	Kasugamycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AAC(6')-Im	3004629	0.000004	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AAC(6')-Il	3004635	0.000048	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,integron,IS	In498,IncA/C2,S(IncFIB),IS6,In1018,S(IncFII)
+Salmonella enterica	28901	QnrE1	3004636	0.000078	CiprOfloxacin	Fluoroquinolone antibiotic	plasmid	IncHI2,pMU407(IncL/M)
+Salmonella enterica	28901	QnrE2	3004637	0.000026	CiprOfloxacin	Fluoroquinolone antibiotic		
+Salmonella enterica	28901	DfrA15b	3004640	0.000059	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron	pKP13f,In498,Alpha(IncI1),In63
+Salmonella enterica	28901	DfrI	3004645	0.000041	Trimethoprim	Diaminopyrimidine antibiotic		
+Salmonella enterica	28901	CatII from Escherichia coli K-12	3004656	0.002495	Chloramphenicol	Phenicol antibiotic	plasmid,transposon,integron,IS	Tn6088,pEC96-153kb,IncA/C2,p276M-CTX-M-55,S(IncFIB),pST-1,pFORC7,pFORC51,K(IncFIB),S(IncFII),IncHI2,pST45-1,IncN,IncX1,pCVM19633_110,pETW41,pST101-1,IncFII,pSC138,pKPC2_095084,IncX2,p08-5333.1,IS5,In498,pSE1004839,pST46-1,IS6,IncHI2A
+Salmonella enterica	28901	CatA4	3004657	0.000011	Chloramphenicol	Phenicol antibiotic		
+Salmonella enterica	28901	CatA8	3004658	0.000007	Chloramphenicol	Phenicol antibiotic	plasmid	pCW7(rep7a)
+Salmonella enterica	28901	CatB11	3004660	0.000015	Chloramphenicol	Phenicol antibiotic		
+Salmonella enterica	28901	AphA15	3004675	0.000002	Amikacin,Kanamycin A,Neomycin,Netilmicin,Streptomycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	RmtE	3004678	0.000174	Amikacin,Gentamicin A	Aminoglycoside antibiotic	plasmid,IS	IS91,Alpha(IncI1),IncA/C2
+Salmonella enterica	28901	RmtE2	3004679	0.000002	Amikacin,Gentamicin A,Kanamycin A	Aminoglycoside antibiotic		
+Salmonella enterica	28901	AadS	3004683	0.000002	Streptomycin	Aminoglycoside antibiotic		
+Salmonella enterica	28901	MCR-9.1	3004684	0.003488	Colistin A,Colistin B	Peptide antibiotic	plasmid,integron,IS	IS5,pCRENT-193_1,In498,pAMS-38c,IncA/C2,pC15_001,IncHI2,pC16_001,IS6,pW17-1,p34977-263.138kb,IncHI2A
+Salmonella enterica	28901	MCR-1.5	3004685	0.000002	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	MCR-1.11	3004688	0.000013	Colistin A,Colistin B	Peptide antibiotic	plasmid	pKP121-1-mcr,pGMI17-004_2,IncX4,pMCR-1-CTSe
+Salmonella enterica	28901	MCR-1.12	3004689	0.000002	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	MCR-1.13	3004690	0.000002	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	MCR-4.2	3004694	0.000013	Colistin A,Colistin B	Peptide antibiotic	plasmid	Col8282,ColE10
+Salmonella enterica	28901	MCR-4.3	3004695	0.000002	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	MCR-4.4	3004696	0.000002	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	MCR-5.2	3004698	0.000004	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	AadA8b	3004704	0.000109	Spectinomycin,Streptomycin	Aminoglycoside antibiotic	plasmid,integron	In424,In498,In282,p33676_IncA/C,In901,pSCKLB555-1,In1249,B,pCP131-IncFIB
+Salmonella enterica	28901	Tet(X4)	3004720	0.000044	Tetracycline,Tigecycline	Tetracycline antibiotic	plasmid,IS	IS91,p1916D18-1,pYPE10-190k-tetX4,pG3X16-2-3,IncHI1A,IS6,p94EC-2,pLHM10-1,R27(IncHI1B),HI1(IncFIA)
+Salmonella enterica	28901	HERA-3	3004818	0.00062		Penam	plasmid,IS	IncN,Alpha(IncI1),K(IncFIB),IS6
+Salmonella enterica	28901	LAP-1	3004825	0.000002	Amoxicillin,benzylPenicillin,Cefalotin,Cefepime,Cefuroxime,Piperacillin,Ticarcillin	Cephalosporin,Penam,Penem		
+Salmonella enterica	28901	LAP-2	3004826	0.000666	Amoxicillin,benzylPenicillin,Cefalotin,Cefepime,Cefuroxime,Piperacillin,Ticarcillin	Cephalosporin,Penam,Penem	plasmid,integron,IS	pEC27-2,In986,IncHI2,IS3,pR18.0877_278k,IncN,p34399-106.698kb,ColRNAI,IS6,pCFSAN086837,pCFSA1096,pSal-5364,IncHI2A,pLAP2_020030
+Salmonella enterica	28901	CMY-136	3004854	0.0002	Cefotaxime,Ceftolozane,Cefuroxime	Cephalosporin	plasmid	IncA/C2,pCFSAN003890,pCVM29188_101,pCFSAN000934_02,Alpha(IncI1),pSA02DT09004001_101,pN13-01290_98,pSA02DT10168701_99
+Salmonella enterica	28901	SCO-1	3004856	0.000331	Amoxicillin,Cefalotin,Cefepime,Cefotaxime,Ceftazidime,Cefuroxime,Penicillin,Piperacillin,Ticarcillin	Cephalosporin,Penam,Penem	integron	In498
+Salmonella enterica	28901	QacE	3005009	0.000401		Disinfecting agents and antiseptics	plasmid,integron	IncHI2,IncN,pQnrB4_020042,AP001918(IncFIB),In119,IncHI2A,S(IncFII)
+Salmonella enterica	28901	QacEdelta1	3005010	0.083786		Disinfecting agents and antiseptics	plasmid,transposon,integron,IS	pAMSC5,pSI96-1,pA708-1,pCAU16175_1,S(IncFIB),pC15_001,pEco70745_1,In714,pCTXM14_020022,In415,Col440I,In546,p13450-1,HI1(IncFIA),pSAN1-2010K-2577,pSal009,p13C1065T-3,3,In282,pCVM44454,In456,IncHI2,pST45-1,IncN,p2448-1,pFSIS1502169,IncX1,In159,pBML2537,In574,pSE81-1705-1,2,tig00000053_pilon,IS91,unitig_1,981p2,pETW41,pC21-2,pCFSAN086833,In1368,pCAV1453-208,pSA20104250.1,pUMNK88,IncFII,pSC138,pCoo(IncFII),In97,pKPC_CAV1741,pO111_1,pSH11G0791,pLAP2_020030,pSI67-1,pCFSAN003890,pMTY14343_IncN,In879,pSI102-1,pHNHF1_NDM-9,pSN254,pC16_003,pEC656_KPC,IncHI2A,In986,p3846_IncHI2_mcr,IncA/C2,p846,p6409-151.583kb,p220k,pIncAC2-1502320,In1162,pCFSAN002069_01,tig00000137,IS110,p13P460A-2,pHCM2(IncFIB),pTB201,pSE69-3861-1,IncB/O/K/Z,p1540-3,SARC14(IncFII),In277,pOXA1_020030,In1004,In909,IncX5,pNE1127-2,pN069_2,IncR,pET6.2-IncFII,R27(IncHI1B),pPC9,pCFSA244-1,pESI,In398,pYDC107_184,pSO21_118,pKPC_CAV1176,pVC1374,pDM01,pSA20030575.1,pTJWQ005,In167,pD90-1,4,pN13-01290_23,In555,pSRC27-H,unitig_2,pCFSAN086835,In1137,pFAM21845_1,In498,p1_085039,pNDM-CIT(IncHI1B),pAPEC-O1-R,pDMC1097-218.836kb,pKPC_CAV1492,pHCM1,In262,p1NQ3,pKPHS3,IncN2,pCFSA664-1,In172,pSI85-1,pNDM-CIT(IncHI1A),pBH100-1,FII(IncFIC),In366,pASP-135,pBckp021-1,pS44-1,pBT2436,In127,IncHI1A,pUO-STmRV1,In790,pKEC-dc3,pBU53M1,pIMP-20710,In141,p280_9355,plas4.1.1,pCFSAN000405_01,pSC7-vir,In290,pKPN5,pKPC_CAV1344,pECLA(IncFIB),pSHV12-1301491,K(IncFIB),pO83_CORR,pMS8345A,ISL3,pGMI17-002_1,pBT2101,In573,pTB422,pET8.1-IncAC2,pCFSA122-1,pGPN1,pPA45B,pAsa5-3432,pEC316_3,pHN7A8(IncFII),pEF01,pECAZ153_KPC,pEC448_OXA163,pVCR94,p22429,p1,pSUH-1,pCFSAN086834,In901,pKC-Na-R1,pAR-0429-1,IncA/C,In1207,pCTXM9_020038,pSI170-1,In293,pSg1-NDM,tig00000004,p13520,In424,pS25-68,pST90-2,pKPC_CAV1217,pCFS3292-2,IS6,AP001918(IncFIB),pGMI17-004_1,pKP2_3,pSCU-125-2,pCys-6,pC50_002,pPmi70746_1,tig00000857,In569,p5908-2,Tn6088,IncFIA,Yp(IncFII),In571,unitig_1_pilon,pASP-a58,PDM04,pSA20025921.1,tig00000002,pSE08-00436-1,pZN3-cfr-121kb,p1_020143,S(IncFII),In791,pSI173-2,IS4,p280_12888,pFSIS1502916,pEC25-1,In836,pS7627-1,IS1,In119,pC629,pSF-173-1,pYY76-1-1,pCTXM15_000533,pST106-1,pWLK-NDM,pSAN1-1736,In1000,In889,pApR,ColRNAI,pFORC79_2,In1103,Alpha(IncI1),p77k,Tn21,pMPTEM-30,p0.1229_2,Tn6029,p18-43_02,pS40-2,p87912,pIncAC2-1502318,In371,p3-20710,IS30,pMR0617ndm,pST46-1,In502,pZYST1C1,In276,pCR14_2,pK18EC051
+Salmonella enterica	28901	FosL1	3005024	0.000041	Fosfomycin	Phosphonic acid antibiotic	plasmid,IS	IncHI1A,IncQ1,IS6,R27(IncHI1B),HI1(IncFIA)
+Salmonella enterica	28901	BLMT	3005036	0.001827		glycoPeptide antibiotic	plasmid,IS	IS4,IncA/C2,IncHI2,IncN,IncX1,IS6,Alpha(IncI1),IncHI2A
+Salmonella enterica	28901	CmlA9	3005043	0.000131	Chloramphenicol	Phenicol antibiotic	plasmid	p187-4,pIMP-20710,pKPC_CAV1176
+Salmonella enterica	28901	OmpA	3005044	0.000028	Defensin	Peptide antibiotic		
+Salmonella enterica	28901	EptB	3005047	0.000011	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	Tet(X6)	3005056	0.000013	Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic	plasmid	pMS8345A
+Salmonella enterica	28901	Tet(X5)	3005057	0.000046	Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic	plasmid,integron	In571,pMS8345A,In1368
+Salmonella enterica	28901	LptD	3005059	0.000024		Aminocoumarin antibiotic,Peptide antibiotic,Rifamycin antibiotic		
+Salmonella enterica	28901	RsmA	3005069	0.000024		Diaminopyrimidine antibiotic,Fluoroquinolone antibiotic,Phenicol antibiotic		
+Salmonella enterica	28901	DfrA31	3005084	0.000004	Trimethoprim	Diaminopyrimidine antibiotic		
+Salmonella enterica	28901	AAC(3)-IIg	3005085	0.001015	2'-N-ethylNetilmicin,6'-N-ethylNetilmicin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,integron,IS	In498,IncA/C2,IncHI2,IncN,IS6,pSHV12-1301491,IncHI2A
+Salmonella enterica	28901	QacL	3005098	0.009797		Disinfecting agents and antiseptics	plasmid,transposon,integron,IS	p33676_IncA/C,S(IncFIB),pRHEcCUB-1,pCP66-6-IncFIC,HI1(IncFIA),In874,In282,pG3X16-2-3,IncHI2,pST45-1,IncN,pPE15-IncF,IncX1,tig00000003,A,IncFII,pSC138,pSI67-1,In879,IncHI2A,IncA/C2,pSGB23,p220k,pGD31-F1928,pLS44712-MCR,pJ31,In909,In1004,pCFSA12,IncR,R27(IncHI1B),In556,pCVM19633_110,pFORC_081_1,p13C1065T-2,In498,pEC974-3,pHS13-1-IncHI2,In172,pMCR-H8,FII(IncFIC),pHR2-1,IncHI1A,pUO-STmRV1,plas4.1.1,pLH94-8,K(IncFIB),pMCR_W5-6,pSCKLB555-1,In1249,In640,pCFSA122-1,TY474p2,p1,pEC2-1,In901,p14EC029c,p13520,In424,IS6,AP001918(IncFIB),In1003,pTH164-1,p12519A,Tn6088,pEC732_IMP14,In571,pZF31-tetX-119kb,PDM04,pSE08-00436-1,S(IncFII),pST106-1,In1114,pAR-0405,pCP53-92k,pKPN-e44,Alpha(IncI1),pWW012,B,p38544-85.403kb,pCP131-IncFIB,p87912,In511,pST46-1,pKP121-1-mcr
+Salmonella enterica	28901	AAC(6')-Ib-cr3	3005112	0.000011	Amikacin,CiprOfloxacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic,Fluoroquinolone antibiotic		
+Salmonella enterica	28901	AAC(6')-Ib-cr4	3005114	0.000041	Amikacin,CiprOfloxacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic,Fluoroquinolone antibiotic	integron	In546,In498
+Salmonella enterica	28901	AAC(6')-Ib-cr5	3005115	0.000257	Amikacin,CiprOfloxacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic,Fluoroquinolone antibiotic	integron	In49,In152
+Salmonella enterica	28901	AAC(6')-Ib-cr6	3005116	0.004006	Amikacin,CiprOfloxacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic,Fluoroquinolone antibiotic	plasmid,integron,IS	pBckp021-1,pAR-0423-1,pSI96-1,IncA/C2,pA708-1,pECAZ159_2,pCAU16175_1,In553,pCTXM14_020022,In600,pSA20025921.1,plas4.1.1,K(IncFIB),pSI173-2,IS4,In282,IncHI2,pST45-1,pGMI17-002_1,IncN,pOXA1_020030,IncX1,pWSZBR,pC629,pCTXM15_000533,pCFSA122-1,IncR,In63,In556,In1021,pST106-1,In152,pCFSA244-1,pH17-3,p1,IncFII,pTJWQ005,Alpha(IncI1),pD90-1,IncA/C,pSI170-1,In555,p13520,pS40-2,p87912,IS5,In498,pS25-68,pSI67-1,In1213,pST46-1,IS6,pMTY14343_IncN,pCombat11I9-1,pSI102-1,pCFSA664-1,pC50_002,pSI85-1,IncHI2A
+Salmonella enterica	28901	AAC(6')-Ib-cr7	3005117	0.000004	Amikacin,CiprOfloxacin,Kanamycin A,Tobramycin	Aminoglycoside antibiotic,Fluoroquinolone antibiotic		
+Salmonella enterica	28901	FosA7.5	3005162	0.002075	Fosfomycin	Phosphonic acid antibiotic		
+Salmonella enterica	28901	CMY-160	3005183	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-162	3005184	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-140	3005185	0.000017		Cephamycin		
+Salmonella enterica	28901	CMY-164	3005186	0.000013		Cephamycin		
+Salmonella enterica	28901	CMY-161	3005187	0.000013		Cephamycin	plasmid	Alpha(IncI1),p2474-3
+Salmonella enterica	28901	CMY-165	3005188	0.000048		Cephamycin	plasmid	pN53043_1
+Salmonella enterica	28901	CMY-166	3005189	0.000004		Cephamycin		
+Salmonella enterica	28901	CMY-139	3005191	0.000013		Cephamycin		
+Salmonella enterica	28901	CMY-148	3005192	0.000007		Cephamycin	plasmid	p12-4374_96
+Salmonella enterica	28901	CMY-142	3005195	0.000002		Cephamycin	transposon	Tn6092
+Salmonella enterica	28901	CMY-141	3005196	0.000039		Cephamycin	plasmid	p009_A
+Salmonella enterica	28901	CMY-157	3005198	0.000007		Cephamycin		
+Salmonella enterica	28901	CMY-171	3005199	0.000004		Cephamycin		
+Salmonella enterica	28901	CMY-143	3005204	0.000033		Cephamycin	plasmid	Alpha(IncI1),pCFSAN000934_02,IncA/C2
+Salmonella enterica	28901	CMY-153	3005218	0.000002		Cephamycin		
+Salmonella enterica	28901	CMY-138	3005220	0.000009		Cephamycin		
+Salmonella enterica	28901	SHV-199	3005232	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	SHV-225	3005241	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	TEM-225	3005256	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-228	3005259	0.000009		Cephalosporin,Monobactam,Penam,Penem	plasmid	IncX1
+Salmonella enterica	28901	TEM-229	3005260	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-230	3005261	0.000004		Cephalosporin,Monobactam,Penam,Penem	plasmid	p1919D3-1
+Salmonella enterica	28901	TEM-231	3005262	0.000002		Cephalosporin,Monobactam,Penam,Penem		
+Salmonella enterica	28901	TEM-233	3005264	0.000009		Cephalosporin,Monobactam,Penam,Penem	plasmid	HI1(IncFIA),IncHI1A,pAUSMDU00010529_02,R27(IncHI1B)
+Salmonella enterica	28901	TEM-234	3005265	0.000015		Cephalosporin,Monobactam,Penam,Penem	IS	IS6
+Salmonella enterica	28901	TEM-235	3005266	0.000007		Cephalosporin,Monobactam,Penam,Penem	plasmid	p86
+Salmonella enterica	28901	TEM-237	3005268	0.000002		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon,integron,IS	In498,Tn6088,IS6,pSC138,K(IncFIB)
+Salmonella enterica	28901	TEM-242	3005272	0.000004		Cephalosporin,Monobactam,Penam,Penem	plasmid	IncX1
+Salmonella enterica	28901	TEM-243	3005273	0.00443		Cephalosporin,Monobactam,Penam,Penem	plasmid,transposon,integron,IS	pAMSC5,p5908-2,IncFIA,IncA/C2,p14EC020b,pUO-STmRV1,pCFSAN000934_02,IncHI1A,IncQ1,pSDU2-USMARC-69840,Col440I,pN53043_1,pSE08-00436-1,HI1(IncFIA),S(IncFII),pSDU1-USMARC-69838,pMS8345A,IncHI2,IncX1,pET8.1-IncAC2,R27(IncHI1B),p22429,pSUH-1,ColRNAI,pS51_1,pSCKLB555-3,pCoo(IncFII),Alpha(IncI1),p2175-5,pFORC74_3,pCVM21550,unitig_2,pSH11G0791,In498,pHCM1,IS6,AP001918(IncFIB),Tn2,pSDU1-USMARC-69807,p10-3881.1,pPmi70746_1,pSDU2-USMARC-69807,IncHI2A
+Salmonella enterica	28901	OXA-540	3005314	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	Trimethoprim-resistant dihydrofolate reductase DfrA42	3005334	0.000002	Trimethoprim	Diaminopyrimidine antibiotic		
+Salmonella enterica	28901	DfrA34	3005346	0.000843	Trimethoprim	Diaminopyrimidine antibiotic	plasmid,integron	In282,In498,Alpha(IncI1),IncA/C2
+Salmonella enterica	28901	DfrA36	3005348	0.000017	Trimethoprim	Diaminopyrimidine antibiotic	integron	In498
+Salmonella enterica	28901	CARB-11	3005559	0.000011		Penam		
+Salmonella enterica	28901	CARB-53	3005587	0.000189		Penam	plasmid,integron	pAsa5-3432,In498,In313,In172
+Salmonella enterica	28901	CARB-55	3005589	0.000002		Penam		
+Salmonella enterica	28901	CTX-M-169	3005592	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-170	3005593	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-172	3005595	0.000004		Cephalosporin		
+Salmonella enterica	28901	CTX-M-176	3005599	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-190	3005613	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-198	3005621	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-206	3005629	0.000007		Cephalosporin		
+Salmonella enterica	28901	CTX-M-207	3005630	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-208	3005631	0.000002		Cephalosporin		
+Salmonella enterica	28901	CTX-M-224	3005647	0.000007		Cephalosporin		
+Salmonella enterica	28901	CTX-M-226	3005649	0.000007		Cephalosporin		
+Salmonella enterica	28901	CTX-M-231	3005654	0.000013		Cephalosporin		
+Salmonella enterica	28901	CTX-M-232	3005655	0.000017		Cephalosporin	plasmid	pSCKLB555-3,pHN7A8(IncFII)
+Salmonella enterica	28901	CTX-M-236	3005659	0.000004		Cephalosporin		
+Salmonella enterica	28901	CTX-M-241	3005664	0.000004		Cephalosporin		
+Salmonella enterica	28901	OXA-534	3005764	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	OXA-656	3005871	0.000007		CarbaPenem,Cephalosporin,Penam	plasmid	pTB-nb4
+Salmonella enterica	28901	OXA-677	3005885	0.000002		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	OXA-796	3005996	0.000013		CarbaPenem,Cephalosporin,Penam		
+Salmonella enterica	28901	OXA-823	3006021	0.000002		CarbaPenem,Cephalosporin,Penam	integron	In498
+Salmonella enterica	28901	OXA-896	3006087	0.000011		CarbaPenem,Cephalosporin,Penam	plasmid	pQil(IncFIB),p38544-85.403kb,K(IncFII),pUHKPC07-113.639kb
+Salmonella enterica	28901	VEB-15	3006212	0.000004		Cephalosporin,Monobactam		
+Salmonella enterica	28901	VEB-17	3006213	0.000004		Cephalosporin,Monobactam		
+Salmonella enterica	28901	ACC-1a	3006228	0.000039		Cephalosporin,Monobactam,Penam	plasmid	IncHI2,IncHI2A
+Salmonella enterica	28901	ACC-7	3006232	0.000002		Cephalosporin,Monobactam,Penam		
+Salmonella enterica	28901	ACT-62	3006257	0.000002		CarbaPenem,Cephalosporin,Cephamycin,Penam		
+Salmonella enterica	28901	ACT-84	3006278	0.000002		CarbaPenem,Cephalosporin,Cephamycin,Penam		
+Salmonella enterica	28901	CMY-159	3006458	0.000004		Cephamycin		
+Salmonella enterica	28901	CMY-174	3006463	0.000009		Cephamycin	plasmid	pSA02DT09004001_101
+Salmonella enterica	28901	DHA-24	3006465	0.000017		Cephalosporin,Cephamycin	plasmid	p19-10_01,IncL/M
+Salmonella enterica	28901	DHA-27	3006468	0.000002		Cephalosporin,Cephamycin	plasmid	IncHI2,IncHI2A
+Salmonella enterica	28901	EC-13	3006874	0.000002		Cephalosporin		
+Salmonella enterica	28901	EC-14	3006875	0.000002		Cephalosporin		
+Salmonella enterica	28901	EC-15	3006876	0.00003		Cephalosporin		
+Salmonella enterica	28901	EC-18	3006878	0.000002		Cephalosporin		
+Salmonella enterica	28901	EC-5	3006880	0.000017		Cephalosporin		
+Salmonella enterica	28901	EC-8	3006881	0.000007		Cephalosporin		
+Salmonella enterica	28901	KLUC-2	3006928	0.000002		Cephalosporin	plasmid	pMU407(IncL/M)
+Salmonella enterica	28901	MOR-2	3006953	0.000002		Cephalosporin		
+Salmonella enterica	28901	QacG	3007015	0.000002	Benzalkonium chloride	Disinfecting agents and antiseptics		
+Salmonella enterica	28901	Erm(52)	3007041	0.000007	Clindamycin	Lincosamide antibiotic		
+Salmonella enterica	28901	Msr(G)	3007042	0.000002	Azithromycin,Erythromycin	Macrolide antibiotic		
+Salmonella enterica	28901	MefF	3007044	0.000002		Macrolide antibiotic		
+Salmonella enterica	28901	MCR-1.33	3007070	0.000004	Colistin A,Colistin B	Peptide antibiotic		
+Salmonella enterica	28901	ROB-11	3007125	0.000007		Cephalosporin,Penam		
+Salmonella enterica	28901	MCR-1.34	3007230	0.000004		Peptide antibiotic	plasmid	pKP121-1-mcr,IncX4,pICBEC7Pmcr
+Salmonella enterica	28901	MCR-4.6	3007231	0.000022		Peptide antibiotic	plasmid	ColE10
+Salmonella enterica	28901	MCR-1.27	3007232	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	MCR-1.18	3007233	0.000022		Peptide antibiotic	plasmid	pCFSA629,pM160133_p1,IncHI2,pSCC4,pGMI17-001_2,IncHI2A
+Salmonella enterica	28901	MCR-1.28	3007236	0.000004		Peptide antibiotic		
+Salmonella enterica	28901	MCR-1.21	3007237	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	MCR-1.22	3007239	0.000004		Peptide antibiotic	plasmid	pGMI17-001_2
+Salmonella enterica	28901	MCR-1.19	3007240	0.000009		Peptide antibiotic	plasmid	pCFSA629,IncHI2,IncHI2A
+Salmonella enterica	28901	MCR-1.24	3007243	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	MCR-1.17	3007244	0.000009		Peptide antibiotic	plasmid	pICBEC72Hmcr
+Salmonella enterica	28901	MCR-1.31	3007245	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	MCR-1.14	3007246	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	MCR-3.21	3007262	0.000007		Peptide antibiotic	plasmid	pTH164-3,ColRNAI
+Salmonella enterica	28901	MCR-3.40	3007264	0.000009		Peptide antibiotic	plasmid	pTH164-3,pK18EC051
+Salmonella enterica	28901	MCR-3.24	3007265	0.000011		Peptide antibiotic	plasmid	pLH94-3,ColRNAI
+Salmonella enterica	28901	MCR-3.20	3007266	0.000011		Peptide antibiotic	plasmid	p08-5333.1,pAUSMDU00008979_01
+Salmonella enterica	28901	MCR-1.15	3007279	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	MCR-1.26	3007280	0.000033		Peptide antibiotic	plasmid	p13P477T-4,IncX4,Delta(IncI2),pGMI17-001_2,p2HS-C-1,pMCR-1-CTSe,pICBEC7Pmcr
+Salmonella enterica	28901	MCR-5.4	3007281	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	MCR-5.3	3007282	0.000002		Peptide antibiotic		
+Salmonella enterica	28901	FosA8	3007371	0.000057	Fosfomycin	Phosphonic acid antibiotic	plasmid	IncN,p5696-1
+Salmonella enterica	28901	Klebsiella pneumoniae PBP3 mutants conferring resistance to ceftazidime-avibactam	3007421	0.000002	Ceftazidime	Cephalosporin		
