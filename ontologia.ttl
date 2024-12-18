@@ -37,14 +37,6 @@ ont:Mutation a owl:Class ;
 ###################################################################
 # Object Properties
 ###################################################################
-
-# Property: occursIn (Occurrence in Bacteria)
-ont:occursIn a owl:ObjectProperty ;
-    rdfs:comment "Relates a Mutation to the bacterium where it occurs"@en ;
-    rdfs:domain ont:Mutation ;
-    rdfs:range ont:Bacteria ;
-    owl:inverseOf ont:hasMutation .
-
 # Property: hasMutation
 ont:hasMutation a owl:ObjectProperty ;
     rdfs:comment "Relates a bacterium to the mutations it contains"@en ;
