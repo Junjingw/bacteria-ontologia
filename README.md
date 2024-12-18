@@ -1,81 +1,89 @@
-# Ontology of Bacteria and Antibiotic Resistance Genes (ARGs)
+# Ontología de Bacterias y Genes de Resistencia a Antibóticos (ARGs)
 
-This repository contains the ontology of bacteria and antibiotic resistance genes (ARGs), developed to model relationships between bacteria, ARGs, resistance mechanisms, drug classes, and pathogens.
+## Descripción General
+Este repositorio contiene la **Ontología de Bacterias y Genes de Resistencia a Antibóticos (ARGs)**, un marco semántico diseñado para representar organismos bacterianos, sus genes de resistencia a antibióticos asociados y fenómenos biológicos relacionados. La ontología está escrita en formato OWL y puede utilizarse para anotar y analizar datos en microbiología, investigación sobre resistencia a antibióticos y campos relacionados.
 
-## Description
-The ontology is structured to provide a semantic framework for representing:
-- **Bacteria** and their scientific properties.
-- **Antibiotic Resistance Genes (ARGs):** Genes that confer resistance to antibiotics.
-- **Antibiotics:** Substances that inhibit bacterial growth.
-- **Resistance Mechanisms:** Mechanisms by which bacteria resist antibiotics.
-- **Drug Classes:** Groups of antibiotics categorized by structure and mechanism.
-- **Pathogens:** Microorganisms capable of causing disease.
+## Detalles de la Ontología
+- **IRI**: [https://Junjingw.github.io/bacteria-ontologia](https://Junjingw.github.io/bacteria-ontologia)
+- **Título**: Ontología de Bacterias y Genes de Resistencia a Antibóticos (ARGs)
+- **Descripción**: Esta ontología proporciona un vocabulario estructurado para modelar organismos bacterianos, genes de resistencia a antibióticos, mutaciones y antibióticos, junto con sus relaciones y metadatos asociados.
+- **Formato**: OWL (Web Ontology Language)
 
-The ontology is expressed in Turtle (`.ttl`) format and is compliant with OWL standards.
+## Componentes Clave
 
----
+### Clases Principales
+La ontología define las siguientes clases principales:
 
-## Usage
+1. **Bacteria**:
+   - Representa un organismo bacteriano.
+   - **IRI**: `ont:Bacteria`
 
-### Importing the Ontology
-You can import the ontology into tools such as [Protégé](https://protege.stanford.edu/) or SPARQL endpoints.
+2. **ARG (Gen de Resistencia a Antibóticos)**:
+   - Representa un gen que confiere resistencia a uno o más antibióticos.
+   - **IRI**: `ont:ARG`
 
-1. Download the file `ontology.ttl`.
-2. Open it in a compatible RDF/OWL editor or load it into a semantic database like **Apache Jena** or **Virtuoso**.
+3. **Antibiótico**:
+   - Representa una sustancia utilizada para inhibir el crecimiento bacteriano o destruir bacterias.
+   - **IRI**: `ont:Antibiotic`
 
-### Example SPARQL Query
-The following query retrieves bacteria and the antibiotics they are resistant to:
+4. **Mutación**:
+   - Representa una mutación que ocurre en una bacteria vinculada a un ARG.
+   - **IRI**: `ont:Mutation`
+
+### Propiedades de Objeto
+La ontología define relaciones entre las clases:
+
+- **`ont:occursIn`**: Relaciona una mutación con la bacteria donde ocurre (inversa de `ont:hasMutation`).
+- **`ont:hasMutation`**: Relaciona una bacteria con las mutaciones que contiene (inversa de `ont:occursIn`).
+- **`ont:linkedToARG`**: Relaciona una mutación con el ARG que representa (inversa de `ont:hasMutationARG`).
+- **`ont:resistantTo`**: Relaciona un ARG con los antibióticos a los que es resistente.
+
+### Propiedades de Datos
+La ontología incluye atributos para describir características de las entidades:
+
+- **`ont:frequency`**: La frecuencia de aparición de una mutación en una población bacteriana (tipo de dato: `xsd:float`).
+- **`ont:symptomsAndSigns`**: Indicaciones físicas o fisiológicas de una enfermedad causada por bacterias (tipo de dato: `xsd:string`).
+
+### Metadatos
+- **Prefijos de Espacio de Nombres**:
+  - `ont`: [https://Junjingw.github.io/bacteria-ontologia#](https://Junjingw.github.io/bacteria-ontologia#)
+  - `rdf`: [http://www.w3.org/1999/02/22-rdf-syntax-ns#](http://www.w3.org/1999/02/22-rdf-syntax-ns#)
+  - `rdfs`: [http://www.w3.org/2000/01/rdf-schema#](http://www.w3.org/2000/01/rdf-schema#)
+  - `owl`: [http://www.w3.org/2002/07/owl#](http://www.w3.org/2002/07/owl#)
+  - `dc`: [http://purl.org/dc/elements/1.1/](http://purl.org/dc/elements/1.1/)
+  - `xsd`: [http://www.w3.org/2001/XMLSchema#](http://www.w3.org/2001/XMLSchema#)
+
+## Uso
+
+### Requisitos
+Para utilizar esta ontología, necesitas una herramienta que soporte formatos OWL y RDF, como:
+- [Protégé](https://protege.stanford.edu/)
+- RDF4J
+- Puntos de consulta SPARQL
+
+### Carga de la Ontología
+1. Clona este repositorio o descarga el archivo de la ontología.
+2. Abre la ontología en tu editor OWL o herramienta de análisis de datos RDF preferido.
+
+### Ejemplo de Consulta SPARQL
+Consulta para encontrar todas las bacterias vinculadas a un gen de resistencia a antibióticos específico:
 
 ```sparql
-PREFIX  ont: <https://Junjingw.github.io/bacteria-ontologia#> 
-SELECT ?bacteria ?antibiotic
+PREFIX ont: <https://Junjingw.github.io/bacteria-ontologia#>
+SELECT ?bacteria ?arg
 WHERE {
-    ?bacteria ont:resistantTo ?antibiotic .
+    ?mutation ont:linkedToARG ?arg .
+    ?mutation ont:occursIn ?bacteria .
 }
 ```
 
----
+## Contribución
+Damos la bienvenida a contribuciones para mejorar y ampliar la ontología. Por favor, sigue estos pasos:
+1. Haz un fork de este repositorio.
+2. Crea una nueva rama con tus cambios.
+3. Envía un pull request con una explicación detallada de tus actualizaciones.
 
-## Classes and Properties Overview
+## Licencia
+Esta ontología se publica bajo la [Licencia MIT](LICENSE).
 
-### Classes:
-- **`ont:Bacteria`**: Represents bacteria.
-- **`ont:ARG`**: Represents antibiotic resistance genes.
-- **`ont:Antibiotic`**: Represents antibiotics.
-- **`ont:ResistanceMechanism`**: Mechanisms of resistance.
-- **`ont:DrugClass`**: Categories of antibiotics.
-- **`ont:Pathogen`**: Microorganisms causing diseases.
-
-### Key Properties:
-- **Object Properties:**
-  - `ont:resistantTo`: Links bacteria to antibiotics.
-  - `ont:containsARG`: Links bacteria to ARGs.
-  - `ont:associatedDrugClass`: Links antibiotics to drug classes.
-  - `ont:foundInPathogen`: Links ARGs to pathogens.
-
-- **Data Properties:**
-  - `ont:pathogenName`: The name of the pathogen.
-  - `ont:argName`: The name of the ARG.
-  - `ont:aroID`: Identifier for the ARG in the Antibiotic Resistance Ontology (ARO).
-  - `ont:frequency`: Frequency of ARG occurrence in populations.
-
----
-
-## License
-This ontology is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to use and adapt it, provided appropriate credit is given.
-
-## Authors
-- Universidad Politécnica de Madrid (UPM)
-
-For questions or contributions, please contact the development team.
-
----
-
-## Citation
-If you use this ontology, please cite:
-
-```
-Ontology of Bacteria and Antibiotic Resistance Genes (ARGs).
-Universidad Politécnica de Madrid, 2024.
-Available at: https://Junjingw.github.io/bacteria-ontologia#
 
