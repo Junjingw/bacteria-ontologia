@@ -59,13 +59,6 @@ ont:linkedToARG a owl:ObjectProperty ;
     rdfs:range ont:ARG ;
     owl:inverseOf ont:hasMutationARG .
 
-# Property: hasMutationARG
-ont:hasMutationARG a owl:ObjectProperty ;
-    rdfs:comment "Relates an ARG to the mutations it is linked to"@en ;
-    rdfs:domain ont:ARG ;
-    rdfs:range ont:Mutation ;
-    owl:inverseOf ont:linkedToARG .
-
 # Property: resistantTo (Resistance to Antibiotic)
 ont:resistantTo a owl:ObjectProperty ;
     rdfs:comment "Relates an ARG to the antibiotics it resists"@en ;
