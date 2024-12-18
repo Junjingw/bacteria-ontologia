@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
 <https://Junjingw.github.io/bacteria-ontologia#> a owl:Ontology ;
     dc:title "Ontology of Bacteria and Antibiotic Resistance Genes (ARGs)" .
@@ -26,7 +27,6 @@ ont:ARG a owl:Class ;
 ont:Antibiotic a owl:Class ;
     rdfs:comment "A substance used to inhibit bacterial growth or destroy bacteria"@en ;
     rdfs:subClassOf owl:Thing .
-
 
 # Class: Mutation
 ont:Mutation a owl:Class ;
@@ -72,8 +72,6 @@ ont:resistantTo a owl:ObjectProperty ;
     rdfs:domain ont:ARG ;
     rdfs:range ont:Antibiotic .
 
-
-
 ###################################################################
 # Data Properties
 ###################################################################
@@ -84,20 +82,6 @@ ont:frequency a owl:DatatypeProperty ;
     rdfs:comment "The frequency of occurrence of a mutation in a bacterial population"@en ;
     rdfs:domain ont:Mutation ;
     rdfs:range xsd:float .
-
-# Property: bacteriaName
-ont:bacteriaName a owl:DatatypeProperty ;
-    rdfs:label "bacterium name"@en ;
-    rdfs:comment "The name of the bacterium (scientific name)"@en ;
-    rdfs:domain ont:Bacteria ;
-    rdfs:range xsd:string .
-
-# Property: argName
-ont:argName a owl:DatatypeProperty ;
-    rdfs:label "ARG name"@en ;
-    rdfs:comment "The name of the antibiotic resistance gene"@en ;
-    rdfs:domain ont:ARG ;
-    rdfs:range xsd:string .
 
 # Property: SymptomsAndSigns
 ont:symptomsAndSigns a owl:DatatypeProperty ;
