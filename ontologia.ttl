@@ -90,3 +90,7 @@ ont:symptomsAndSigns a owl:DatatypeProperty ;
     rdfs:range xsd:string ;
     owl:equivalentProperty <http://www.wikidata.org/entity/Property:P780> .
 
+ont:taxonId a owl:DatatypeProperty ;
+    rdfs:comment "An integer identifier for the taxonomic classification of the bacteria"@en ;
+    rdfs:domain ont:Bacteria ;
+    rdfs:range xsd:int .
