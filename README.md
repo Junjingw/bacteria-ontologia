@@ -77,13 +77,6 @@ WHERE {
 }
 ```
 
-## Contribución
-Damos la bienvenida a contribuciones para mejorar y ampliar la ontología. Por favor, sigue estos pasos:
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama con tus cambios.
-3. Envía un pull request con una explicación detallada de tus actualizaciones.
 
-## Licencia
-Esta ontología se publica bajo la [Licencia MIT](LICENSE).
 
 
