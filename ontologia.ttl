@@ -68,7 +68,7 @@ ont:frequency a owl:DatatypeProperty ;
     rdfs:domain ont:Mutation ;
     rdfs:range xsd:float .
 
-# Property: hasSigns
+# Property: hasSign
 ont:hasSign a owl:DatatypeProperty ;
     rdfs:comment "Physical or physiological indications of a disease caused by bacteria"@en ;
     rdfs:domain ont:Bacteria ;
