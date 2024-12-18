@@ -68,12 +68,11 @@ ont:frequency a owl:DatatypeProperty ;
     rdfs:domain ont:Mutation ;
     rdfs:range xsd:float .
 
-# Property: SymptomsAndSigns
-ont:symptomsAndSigns a owl:DatatypeProperty ;
+# Property: hasSigns
+ont:hasSign a owl:DatatypeProperty ;
     rdfs:comment "Physical or physiological indications of a disease caused by bacteria"@en ;
     rdfs:domain ont:Bacteria ;
-    rdfs:range xsd:string ;
-    owl:equivalentProperty <http://www.wikidata.org/entity/Property:P780> .
+    rdfs:range xsd:string .
 
 ont:taxonId a owl:DatatypeProperty ;
     rdfs:comment "An integer identifier for the taxonomic classification of the bacteria"@en ;
