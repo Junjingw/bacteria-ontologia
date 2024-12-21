@@ -1,0 +1,176 @@
+
+# Query 1
+
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT ?bacteria_name ?arg_max_name ?freq_max ?arg_min_name ?freq_min WHERE {
+    {
+        SELECT ?bacteria (MAX(?frequency) AS ?freq_max) (MIN(?frequency) AS ?freq_min)
+        WHERE {
+            ?mutation ont:occursIn ?bacteria ;
+                      ont:linkedToARG ?arg ;
+                      ont:frequency ?frequency.
+        }
+        GROUP BY ?bacteria
+    }
+    {
+        SELECT ?bacteria ?freq_max (SAMPLE(?arg_max_name) AS ?arg_max_name)
+        WHERE {
+            ?mutation ont:occursIn ?bacteria ;
+                      ont:linkedToARG ?arg_max ;
+                      ont:frequency ?freq_max.
+            ?arg_max foaf:name ?arg_max_name.
+        }
+        GROUP BY ?bacteria ?freq_max
+    }
+    {
+        SELECT ?bacteria ?freq_min (SAMPLE(?arg_min_name) AS ?arg_min_name)
+        WHERE {
+            ?mutation ont:occursIn ?bacteria ;
+                      ont:linkedToARG ?arg_min ;
+                      ont:frequency ?freq_min.
+            ?arg_min foaf:name ?arg_min_name.
+        }
+        GROUP BY ?bacteria ?freq_min
+    }
+    ?bacteria foaf:name ?bacteria_name.
+}
+GROUP BY ?bacteria_name ?arg_max_name ?freq_max ?arg_min_name ?freq_min
+LIMIT 100
+
+# Query 2
+
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT ?bacteria ?bacteriaName ?argName
+WHERE {
+  ?mutation ont:linkedToARG ?arg ;
+            ont:occursIn ?bacteria .
+  ?bacteria foaf:name ?bacteriaName .
+  ?arg foaf:name ?argName .
+
+  VALUES ?argName { "VanR" "OpmB" }  
+}
+
+# Query 3
+
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT ?arg_name ?antibiotic_name
+WHERE {
+    ?arg foaf:name ?arg_name ;
+         ont:resistanceTo ?antibiotic.
+    ?antibiotic foaf:name ?antibiotic_name.
+VALUES ?arg_name {"MdtB" "TolC" "YajC"}  
+}
+
+# Query 4
+
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT ?argName ?antibioticName
+WHERE {
+  ?bacteria a ont:Bacteria ;
+            foaf:name "Salmonella enterica" ;
+            ont:hasMutation ?mutation .
+  
+  ?mutation ont:linkedToARG ?arg .
+  ?arg foaf:name ?argName ;
+       ont:resistantTo ?antibiotic .
+
+VALUES ?argName { "QnrB10" "MphA" "Sul1" "SHV-12" } 
+
+  ?antibiotic foaf:name ?antibioticName .
+}
+
+
+# Query 5.1
+
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT ?name ?Sign
+WHERE {
+  ?bacteria a ont:Bacteria ;
+            ont:hasSign 'fever' ,'abortion' .
+  ?bacteria foaf:name ?name.
+  ?bacteria ont:hasSign ?sign
+}
+LIMIT 100
+
+
+# Query 5.2
+
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX ont:<https://junjingw.github.io/bacteria-ontologia//ontology#>
+
+SELECT 
+	?name
+	?arg_name
+	?freq
+	?ant_name
+WHERE{
+    ?bacteria a ont:Bacteria ;
+    	ont:hasSign 'fever', 'abortion' .
+    ?bacteria foaf:name ?name .
+	?bacteria ont:hasMutation ?mut .
+    ?mut ont:linkedToARG ?arg .
+    ?arg foaf:name ?arg_name .
+    ?mut ont:frequency ?freq .
+    ?arg ont:resistantTo ?ant .
+    ?ant foaf:name ?ant_name
+}
+ORDER BY ASC(?freq)
+LIMIT 100
+
+
+#  Query 6
+
+PREFIX ont:<https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+    SELECT 
+        ?bacName
+        ?freq
+    WHERE{
+        ?arg foaf:name 'Tet(O)' .
+        ?mut ont:linkedToARG ?arg .
+        ?mut ont:frequency ?freq .
+        ?bac ont:hasMutation ?mut .
+        ?bac foaf:name ?bacName
+    }
+    ORDER BY ASC(?freq)
+
+
+# Query 7 
+
+PREFIX ont:<https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+    SELECT 
+        DISTINCT ?ant_name 
+        (1 - ?avg_freq AS ?probability_to_work)
+    WHERE{
+        SELECT 
+            ?ant_name
+            (AVG(?freq) AS ?avg_freq)
+        WHERE{
+            ?bacteria a ont:Bacteria ;
+            ont:hasSign 'fever', 'abortion' .
+            ?bacteria foaf:name ?name .
+            ?bacteria ont:hasMutation ?mut .
+            ?mut ont:linkedToARG ?arg .
+            ?arg foaf:name ?arg_name .
+            ?mut ont:frequency ?freq .
+            ?arg ont:resistantTo ?ant .
+            ?ant foaf:name ?ant_name
+        }
+        GROUP BY ?ant_name
+    }
+    ORDER BY DESC(?probability_to_work)
