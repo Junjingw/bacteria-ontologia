@@ -1,7 +1,7 @@
 
 # Query 1
 
-PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia/ontology#>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
 SELECT ?bacteria_name ?arg_max_name ?freq_max ?arg_min_name ?freq_min WHERE {
@@ -41,7 +41,7 @@ LIMIT 100
 
 # Query 2
 
-PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia/ontology#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
@@ -57,7 +57,7 @@ WHERE {
 
 # Query 3
 
-PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia/ontology#>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
 SELECT ?arg_name ?antibiotic_name
@@ -70,7 +70,7 @@ VALUES ?arg_name {"MdtB" "TolC" "YajC"}
 
 # Query 4
 
-PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia/ontology#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
@@ -92,7 +92,7 @@ VALUES ?argName { "QnrB10" "MphA" "Sul1" "SHV-12" }
 
 # Query 5.1
 
-PREFIX ont: <https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX ont: <https://junjingw.github.io/bacteria-ontologia/ontology#>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
 SELECT DISTINCT ?name ?Sign
@@ -108,7 +108,7 @@ LIMIT 100
 # Query 5.2
 
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-PREFIX ont:<https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX ont:<https://junjingw.github.io/bacteria-ontologia/ontology#>
 
 SELECT 
 	?name
@@ -132,7 +132,7 @@ LIMIT 100
 
 #  Query 6
 
-PREFIX ont:<https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX ont:<https://junjingw.github.io/bacteria-ontologia/ontology#>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
     SELECT 
@@ -150,7 +150,7 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
 # Query 7 
 
-PREFIX ont:<https://junjingw.github.io/bacteria-ontologia//ontology#>
+PREFIX ont:<https://junjingw.github.io/bacteria-ontologia/ontology#>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
     SELECT 
