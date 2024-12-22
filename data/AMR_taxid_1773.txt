@@ -1,0 +1,133 @@
+pathogen_name	taxonid	ARG_name	aro_id	frequency	antibiotic_name	drugclass	associated_MGE_type	associated_MGE_element
+Mycobacterium tuberculosis	1773	Tetracycline-resistant ribosomal protection protein	0000002	0.000138		Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	ATP-binding cassette (ABC) antibiotic efflux pump	0010001	0.99931				
+Mycobacterium tuberculosis	1773	Major facilitator superfamily (MFS) antibiotic efflux pump	0010002	0.99931				
+Mycobacterium tuberculosis	1773	Resistance-nodulation-cell division (RND) antibiotic efflux pump	0010004	0.000138				
+Mycobacterium tuberculosis	1773	Determinant of antibiotic resistance	3000000	0.999448				
+Mycobacterium tuberculosis	1773	Beta-lactamase	3000001	0.999448				
+Mycobacterium tuberculosis	1773	Class B (metallo-) beta-lactamase	3000004	0.998896				
+Mycobacterium tuberculosis	1773	VanA	3000010	0.000138		glycoPeptide antibiotic		
+Mycobacterium tuberculosis	1773	VanX	3000011	0.989238		glycoPeptide antibiotic		
+Mycobacterium tuberculosis	1773	TEM beta-lactamase	3000014	0.00138	Ampicillin	Penam		
+Mycobacterium tuberculosis	1773	OXA beta-lactamase	3000017	0.002897	Cefalotin,ClOxacillin,Oxacillin	Cephalosporin,Penam		
+Mycobacterium tuberculosis	1773	PatA	3000024	0.000276		Fluoroquinolone antibiotic		
+Mycobacterium tuberculosis	1773	MIR beta-lactamase	3000058	0.000138		Cephalosporin,Monobactam		
+Mycobacterium tuberculosis	1773	FOX beta-lactamase	3000067	0.000138		Cephalosporin,Cephamycin		
+Mycobacterium tuberculosis	1773	DHA beta-lactamase	3000068	0.000138		Cephalosporin,Cephamycin		
+Mycobacterium tuberculosis	1773	CMY beta-lactamase	3000069	0.000138		Cephamycin		
+Mycobacterium tuberculosis	1773	VanS	3000071	0.000138		glycoPeptide antibiotic		
+Mycobacterium tuberculosis	1773	ACT beta-lactamase	3000072	0.000138		CarbaPenem,Cephalosporin,Cephamycin,Penam		
+Mycobacterium tuberculosis	1773	EmrB	3000074	0.998206		Fluoroquinolone antibiotic		
+Mycobacterium tuberculosis	1773	Class D beta-lactamase	3000075	0.002897				
+Mycobacterium tuberculosis	1773	Class C beta-lactamase	3000076	0.000138				
+Mycobacterium tuberculosis	1773	Class A beta-lactamase	3000078	0.996275				
+Mycobacterium tuberculosis	1773	MOX beta-lactamase	3000083	0.000138		Cephalosporin,Cephamycin,Penam		
+Mycobacterium tuberculosis	1773	Multidrug and toxic compound extrusion (MATE) transporter	3000112	0.005381				
+Mycobacterium tuberculosis	1773	Aminoglycoside acetyltransferase (AAC)	3000121	0.000138				
+Mycobacterium tuberculosis	1773	Chloramphenicol acetyltransferase (CAT)	3000122	0.000552		Phenicol antibiotic		
+Mycobacterium tuberculosis	1773	APH(3')	3000126	0.996689		Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	APH(6)	3000151	0.000138		Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	Tet(A)	3000165	0.000276	Tetracycline	Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	Tet(B)	3000166	0.000138	Tetracycline	Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	Tet(C)	3000167	0.000552	Tetracycline	Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	Tet(M)	3000186	0.000138	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	Tet(O)	3000190	0.000138	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	Tet(S)	3000192	0.000138	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	Tet(W)	3000194	0.000138	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	AcrB	3000216	0.974614		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	ANT(9)	3000228	0.000276		Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	ANT(3'')-Ia	3000232	0.000138		Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	RbpA	3000245	0.995723	Rifabutin,Rifampin,Rifapentine,Rifaximin	Rifamycin antibiotic		
+Mycobacterium tuberculosis	1773	Chloramphenicol phosphotransferase	3000249	0.996413		Phenicol antibiotic		
+Mycobacterium tuberculosis	1773	EmrE	3000264	0.99324				
+Mycobacterium tuberculosis	1773	MphA	3000316	0.000552	Azithromycin,Clarithromycin,Dirithromycin,Erythromycin,Oleandomycin,Roxithromycin,Telithromycin	Macrolide antibiotic		
+Mycobacterium tuberculosis	1773	AAC(3)	3000322	0.000138		Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	ErmB	3000375	0.000138	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Mycobacterium tuberculosis	1773	Erm(37)	3000392	0.99324	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Mycobacterium tuberculosis	1773	Sul1	3000410	0.000138	Mafenide,Sulfacetamide,Sulfadiazine,Sulfadimidine,Sulfadoxine,Sulfamethizole,Sulfamethoxazole,Sulfasalazine,Sulfisoxazole	Sulfonamide antibiotic		
+Mycobacterium tuberculosis	1773	Sul2	3000412	0.000138	Mafenide,Sulfacetamide,Sulfadiazine,Sulfadimidine,Sulfadoxine,Sulfamethizole,Sulfamethoxazole,Sulfasalazine,Sulfisoxazole	Sulfonamide antibiotic		
+Mycobacterium tuberculosis	1773	AcrD	3000491	0.974614		Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	RpoB2	3000501	0.000276	Rifabutin,Rifampin,Rifapentine,Rifaximin	Rifamycin antibiotic		
+Mycobacterium tuberculosis	1773	AcrF	3000502	0.974614		Cephalosporin,Cephamycin,Fluoroquinolone antibiotic,Penam		
+Mycobacterium tuberculosis	1773	CRP	3000518	0.000414		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam		
+Mycobacterium tuberculosis	1773	MacB	3000535	0.000138		Macrolide antibiotic		
+Mycobacterium tuberculosis	1773	Erm 23S ribosomal RNA methyltransferase	3000560	0.000138		Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Mycobacterium tuberculosis	1773	Subclass B1 (metallo-) beta-lactamase	3000568	0.993515				
+Mycobacterium tuberculosis	1773	Subclass B2 (metallo-) beta-lactamase	3000570	0.000138				
+Mycobacterium tuberculosis	1773	VanR	3000574	0.000138		glycoPeptide antibiotic		
+Mycobacterium tuberculosis	1773	MarR	3000718	0.999034		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	Antibiotic sensitive dihydrofolate reductase	3000745	0.992412	Brodimoprim,Iclaprim,Tetroxoprim,Trimethoprim	Diaminopyrimidine antibiotic		
+Mycobacterium tuberculosis	1773	MexE	3000803	0.000138		Diaminopyrimidine antibiotic,Fluoroquinolone antibiotic,Phenicol antibiotic		
+Mycobacterium tuberculosis	1773	RamA	3000823	0.000138		CarbaPenem,Cephalosporin,Cephamycin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Monobactam,Penam,Penem,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	BaeR	3000828	0.000138		Aminocoumarin antibiotic,Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	SoxR	3000836	0.000138		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	TEM-1	3000873	0.000138	Amoxicillin,Ampicillin,Cefalotin,Cefazolin	Cephalosporin,Penam		
+Mycobacterium tuberculosis	1773	TEM-116	3000979	0.001104		Cephalosporin,Monobactam,Penam,Penem		
+Mycobacterium tuberculosis	1773	TEM-171	3001037	0.000138		Cephalosporin,Monobactam,Penam,Penem		
+Mycobacterium tuberculosis	1773	Gene involved in antibiotic sequestration	3001207	0.000138				
+Mycobacterium tuberculosis	1773	MdtM	3001214	0.000138	Acriflavine,Chloramphenicol,Lincomycin,Norfloxacin,Puromycin	Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Lincosamide antibiotic,Nucleoside antibiotic,Phenicol antibiotic		
+Mycobacterium tuberculosis	1773	Trimethoprim resistant dihydrofolate reductase dfr	3001218	0.99931	Trimethoprim	Diaminopyrimidine antibiotic		
+Mycobacterium tuberculosis	1773	RlmA(II)	3001301	0.000276	Mycinamicin,Tylosin	Macrolide antibiotic		
+Mycobacterium tuberculosis	1773	OXA-232	3001778	0.003449		CarbaPenem,Cephalosporin,Penam		
+Mycobacterium tuberculosis	1773	OXA-181	3001784	0.000414		CarbaPenem,Cephalosporin,Penam		
+Mycobacterium tuberculosis	1773	DHA-14	3002145	0.000138		Cephalosporin,Cephamycin		
+Mycobacterium tuberculosis	1773	AAC(2')-Ic	3002525	0.996827	6'-N-ethylNetilmicin,Dibekacin,Netilmicin,Tobramycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	AadA2	3002602	0.000138	Spectinomycin,Streptomycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	Aad(6)	3002628	0.000138	Streptomycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	APH(3'')-Ib	3002639	0.000414	Streptomycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	APH(3')-Ia	3002641	0.000552	Gentamicin B,Kanamycin A,Neomycin,Paromomycin,Ribostamycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	APH(3')-Va	3002649	0.000138	Neomycin,Paromomycin,Ribostamycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	APH(4)-Ia	3002655	0.000138	Hygromycin B	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	APH(6)-Id	3002660	0.000276	Streptomycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	APH(7'')-Ia	3002661	0.00138	Hygromycin B	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	CatI	3002683	0.000138	Azidamfenicol,Chloramphenicol,Thiamphenicol	Phenicol antibiotic		
+Mycobacterium tuberculosis	1773	Plasmid-encoded cat (pp-cat)	3002689	0.000138	Azidamfenicol,Chloramphenicol,Thiamphenicol	Phenicol antibiotic		
+Mycobacterium tuberculosis	1773	DfrA12	3002858	0.000138	Trimethoprim	Diaminopyrimidine antibiotic		
+Mycobacterium tuberculosis	1773	MfpA	3003035	0.993515	CiprOfloxacin,Sparfloxacin	Fluoroquinolone antibiotic		
+Mycobacterium tuberculosis	1773	SmeE	3003056	0.000138		Fluoroquinolone antibiotic,Macrolide antibiotic,Phenicol antibiotic,Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	FosA5	3003209	0.000138	CiprOfloxacin	Fluoroquinolone antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis rpoB mutants conferring resistance to rifampicin	3003283	0.992274	Rifabutin,Rifampin,Rifapentine,Rifaximin	Rifamycin antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis gyrA conferring resistance to fluoroquinolones	3003295	0.160044	CiprOfloxacin,Enoxacin,Gatifloxacin,Grepafloxacin,LevOfloxacin,Lomefloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Ofloxacin,Pefloxacin,Sparfloxacin,Trovafloxacin	Fluoroquinolone antibiotic		
+Mycobacterium tuberculosis	1773	Morganella morganii gyrB conferring resistance to fluoroquinolones	3003306	0.000138	CiprOfloxacin,Enoxacin,Gatifloxacin,Grepafloxacin,LevOfloxacin,Lomefloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Ofloxacin,Pefloxacin,Sparfloxacin,Trovafloxacin	Fluoroquinolone antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis embB mutant conferring resistance to ethambutol	3003326	0.429222	Ethambutol	Polyamine antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis embC mutant conferring resistance to ethambutol	3003327	0.296496	Ethambutol	Polyamine antibiotic		
+Mycobacterium tuberculosis	1773	Escherichia coli soxR with mutation conferring antibiotic resistance	3003381	0.000138	Chloramphenicol,CiprOfloxacin,Nalidixic acid	Fluoroquinolone antibiotic,Phenicol antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid	3003392	0.949365	Isoniazid	Isoniazid-like antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis inhA mutations conferring resistance to isoniazid	3003393	0.039183	Isoniazid	Isoniazid-like antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis pncA mutations conferring resistance to pyrazinamide	3003394	0.12431	Pyrazinamide	Pyrazine antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	3003395	0.156733	Streptomycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis tlyA mutations conferring resistance to aminoglycosides	3003445	0.000414	Capreomycin,Streptomycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis iniA mutant conferring resistance to ethambutol	3003448	0.019868	Ethambutol	Polyamine antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis iniC mutant conferring resistance to ethambutol	3003451	0.001518	Ethambutol	Polyamine antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis embA mutant conferring resistance to ethambutol	3003453	0.050911	Ethambutol	Polyamine antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis embR mutant conferring resistance to ethambutol	3003455	0.049531	Ethambutol	Polyamine antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis ethA with mutation conferring resistance to ethionamide	3003458	0.020419	Ethionamide	Thioamide antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis gyrB mutant conferring resistance to fluoroquinolones	3003459	0.015315	Enoxacin,Gatifloxacin,Grepafloxacin,LevOfloxacin,Lomefloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Ofloxacin,Pefloxacin,Sparfloxacin,Trovafloxacin	Fluoroquinolone antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis ndh with mutation conferring resistance to isoniazid	3003461	0.036976	Isoniazid	Isoniazid-like antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis kasA mutant conferring resistance to isoniazid	3003463	0.183775	Isoniazid	Isoniazid-like antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis gidB mutation conferring resistance to streptomycin	3003470	0.041667	Streptomycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	TetR	3003479	0.000552		Tetracycline antibiotic		
+Mycobacterium tuberculosis	1773	PmrF	3003578	0.000138		Peptide antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis intrinsic murA conferring resistance to fosfomycin	3003784	0.993102	Fosfomycin	Phosphonic acid antibiotic		
+Mycobacterium tuberculosis	1773	Mrx	3003839	0.000138		Macrolide antibiotic		
+Mycobacterium tuberculosis	1773	KdpE	3003841	0.000138		Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	EfpA	3003955	0.997655	Isoniazid,Rifampin	Isoniazid-like antibiotic,Rifamycin antibiotic		
+Mycobacterium tuberculosis	1773	LfrA	3003967	0.000138		Fluoroquinolone antibiotic		
+Mycobacterium tuberculosis	1773	Klebsiella pneumoniae OmpK37	3004122	0.000138	Cefotaxime,Cefoxitin	Cephalosporin,Cephamycin		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis thyA with mutation conferring resistance to para-aminosalicylic acid	3004153	0.260762	Para-aminosalicylic acid	Salicylic acid antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis folC with mutation conferring resistance to para-aminosalicylic acid	3004157	0.032147	Para-aminosalicylic acid	Salicylic acid antibiotic		
+Mycobacterium tuberculosis	1773	Enterococcus faecalis chloramphenicol acetyltransferase	3004458	0.000138	Chloramphenicol	Phenicol antibiotic	plasmid	pGB354(rep7a)
+Mycobacterium tuberculosis	1773	Klebsiella pneumoniae KpnG	3004588	0.000414		Aminoglycoside antibiotic,CarbaPenem,Cephalosporin,Fluoroquinolone antibiotic,Macrolide antibiotic,Penam,Penem,Peptide antibiotic		
+Mycobacterium tuberculosis	1773	AAC(3)-IId	3004623	0.000276	2'-N-ethylNetilmicin,6'-N-ethylNetilmicin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis rpsA mutations conferring resistance to pyrazinamide	3004721	0.007174	Pyrazinamide	Pyrazine antibiotic		
+Mycobacterium tuberculosis	1773	QacEdelta1	3005010	0.000138		Disinfecting agents and antiseptics		
+Mycobacterium tuberculosis	1773	EptB	3005047	0.000276	Colistin A,Colistin B	Peptide antibiotic		
+Mycobacterium tuberculosis	1773	ArnT	3005053	0.000138	Colistin A,Colistin B	Peptide antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis ethA mutations conferring resistance to isoniazid	3005105	0.011865	Isoniazid	Isoniazid-like antibiotic		
+Mycobacterium tuberculosis	1773	CTX-M-226	3005649	0.000138		Cephalosporin		
+Mycobacterium tuberculosis	1773	OXA-833	3006030	0.000138		CarbaPenem,Cephalosporin,Penam		
+Mycobacterium tuberculosis	1773	OXA-923	3006109	0.000138		CarbaPenem,Cephalosporin,Penam		
+Mycobacterium tuberculosis	1773	BlaC	3007182	0.996413	Amoxicillin,Cefalotin,Cefoxitin,Temocillin,Ticarcillin	Cephalosporin,Cephamycin,Penam,Penem		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis Rv1258c mutations confer resistance to ethambutol and capreomycin	3007185	0.001656	Capreomycin,Ethambutol	Aminoglycoside antibiotic,Polyamine antibiotic		
+Mycobacterium tuberculosis	1773	Mycobacterium tuberculosis Rv1258c mutations confer resistance to pyrazinamide, isoniazid, and streptomycin	3007186	0.002621	Isoniazid,Pyrazinamide,Streptomycin	Aminoglycoside antibiotic,Isoniazid-like antibiotic,Pyrazine antibiotic		
+Mycobacterium tuberculosis	1773	ANT(9)-Ib	3007401	0.000276	Spectinomycin	Aminoglycoside antibiotic		

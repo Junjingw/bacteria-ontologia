@@ -1,0 +1,110 @@
+pathogen_name	taxonid	ARG_name	aro_id	frequency	antibiotic_name	drugclass	associated_MGE_type	associated_MGE_element
+Listeria monocytogenes	1639	Tetracycline-resistant ribosomal protection protein	0000002	0.019664		Tetracycline antibiotic		
+Listeria monocytogenes	1639	ATP-binding cassette (ABC) antibiotic efflux pump	0010001	0.999846				
+Listeria monocytogenes	1639	Major facilitator superfamily (MFS) antibiotic efflux pump	0010002	0.999846				
+Listeria monocytogenes	1639	Resistance-nodulation-cell division (RND) antibiotic efflux pump	0010004	0.000019				
+Listeria monocytogenes	1639	Determinant of antibiotic resistance	3000000	0.999846				
+Listeria monocytogenes	1639	Beta-lactamase	3000001	0.999846				
+Listeria monocytogenes	1639	Class B (metallo-) beta-lactamase	3000004	0.999846				
+Listeria monocytogenes	1639	TEM beta-lactamase	3000014	0.000096	Ampicillin	Penam		
+Listeria monocytogenes	1639	PatA	3000024	0.000019		Fluoroquinolone antibiotic		
+Listeria monocytogenes	1639	VanS	3000071	0.999461		glycoPeptide antibiotic		
+Listeria monocytogenes	1639	EmrB	3000074	0.999846		Fluoroquinolone antibiotic		
+Listeria monocytogenes	1639	VanY	3000077	0.000173		glycoPeptide antibiotic		
+Listeria monocytogenes	1639	Class A beta-lactamase	3000078	0.00204				
+Listeria monocytogenes	1639	Bla1	3000090	0.000038		Penam		
+Listeria monocytogenes	1639	Multidrug and toxic compound extrusion (MATE) transporter	3000112	0.999846				
+Listeria monocytogenes	1639	Aminoglycoside acetyltransferase (AAC)	3000121	0.999577				
+Listeria monocytogenes	1639	Chloramphenicol acetyltransferase (CAT)	3000122	0.001828		Phenicol antibiotic		
+Listeria monocytogenes	1639	APH(3')	3000126	0.001712		Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	Tet(C)	3000167	0.000019	Tetracycline	Tetracycline antibiotic		
+Listeria monocytogenes	1639	Tet(K)	3000178	0.000058	Tetracycline	Tetracycline antibiotic	plasmid	pS0385p1(rep7a)
+Listeria monocytogenes	1639	Tet(M)	3000186	0.019799	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic	plasmid,transposon,ICE	DOp1(repUS43),ICE_COH1_guaA,Tn5801(B6),ICESpnDCC1738,ICESauST398-1,Tn6198,Tn925,ICESga43143-1,ICESauMu3-1,Tn5801-like,Tn5251
+Listeria monocytogenes	1639	Tet(O)	3000190	0.019818	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Listeria monocytogenes	1639	Tet(S)	3000192	0.019799	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Listeria monocytogenes	1639	Tet(W)	3000194	0.019799	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Listeria monocytogenes	1639	FosX	3000198	0.99517	Fosfomycin	Phosphonic acid antibiotic	plasmid	DOp1(repUS43)
+Listeria monocytogenes	1639	AcrB	3000216	0.000135		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Listeria monocytogenes	1639	BlaR1	3000217	0.000038		Penam		
+Listeria monocytogenes	1639	ANT(6)	3000225	0.000308		Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	ANT(9)	3000228	0.000385		Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	ANT(3'')-Ia	3000232	0.000019		Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	Chloramphenicol phosphotransferase	3000249	0.000096		Phenicol antibiotic		
+Listeria monocytogenes	1639	ErmC	3000250	0.000269	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic	plasmid	pDLK1(rep10)
+Listeria monocytogenes	1639	MsrA	3000251	0.000135	Erythromycin,Quinupristin	Macrolide antibiotic,Streptogramin antibiotic	plasmid	pCSF41498_1
+Listeria monocytogenes	1639	EmrE	3000264	0.000038				
+Listeria monocytogenes	1639	LsaA	3000300	0.000058	Clindamycin,Dalfopristin,Pleuromutilin,Quinupristin	Lincosamide antibiotic,Pleuromutilin antibiotic,Streptogramin antibiotic		
+Listeria monocytogenes	1639	MphA	3000316	0.000019	Azithromycin,Clarithromycin,Dirithromycin,Erythromycin,Oleandomycin,Roxithromycin,Telithromycin	Macrolide antibiotic		
+Listeria monocytogenes	1639	MphC	3000319	0.000173	Azithromycin,Clarithromycin,Dirithromycin,Erythromycin,Oleandomycin,Roxithromycin,Spiramycin,Telithromycin,Tylosin	Macrolide antibiotic	plasmid	pCSF41498_1
+Listeria monocytogenes	1639	AAC(3)	3000322	0.999461		Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	VanC	3000368	0.000654		glycoPeptide antibiotic		
+Listeria monocytogenes	1639	VanT	3000372	0.000404		glycoPeptide antibiotic		
+Listeria monocytogenes	1639	ErmB	3000375	0.000404	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Listeria monocytogenes	1639	Sul1	3000410	0.000019	Mafenide,Sulfacetamide,Sulfadiazine,Sulfadimidine,Sulfadoxine,Sulfamethizole,Sulfamethoxazole,Sulfasalazine,Sulfisoxazole	Sulfonamide antibiotic		
+Listeria monocytogenes	1639	Quinolone resistance protein (qnr)	3000419	0.000038	CiprOfloxacin,Gatifloxacin,LevOfloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Sparfloxacin	Fluoroquinolone antibiotic		
+Listeria monocytogenes	1639	NorB	3000421	0.999327	CiprOfloxacin,Moxifloxacin,Norfloxacin,Sparfloxacin	Fluoroquinolone antibiotic	plasmid	DOp1(repUS43),N1011Aplasmid(rep26)
+Listeria monocytogenes	1639	AcrD	3000491	0.000135		Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	AcrF	3000502	0.000135		Cephalosporin,Cephamycin,Fluoroquinolone antibiotic,Penam		
+Listeria monocytogenes	1639	ErmG	3000522	0.000115	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Listeria monocytogenes	1639	Erm 23S ribosomal RNA methyltransferase	3000560	0.000731		Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Listeria monocytogenes	1639	VanR	3000574	0.000962		glycoPeptide antibiotic		
+Listeria monocytogenes	1639	ErmT	3000595	0.000019	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Listeria monocytogenes	1639	Mel	3000616	0.000019	Erythromycin,Telithromycin	Macrolide antibiotic		
+Listeria monocytogenes	1639	PC1 beta-lactamase (blaZ)	3000621	0.000058		Penam		
+Listeria monocytogenes	1639	MarR	3000718	0.999846		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Listeria monocytogenes	1639	Antibiotic sensitive dihydrofolate reductase	3000745	0.999788	Brodimoprim,Iclaprim,Tetroxoprim,Trimethoprim	Diaminopyrimidine antibiotic		
+Listeria monocytogenes	1639	MdtF	3000796	0.000038		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam		
+Listeria monocytogenes	1639	TEM-116	3000979	0.000096		Cephalosporin,Monobactam,Penam,Penem		
+Listeria monocytogenes	1639	TEM-162	3001028	0.000019		Cephalosporin,Monobactam,Penam,Penem		
+Listeria monocytogenes	1639	Gene involved in antibiotic sequestration	3001207	0.000019				
+Listeria monocytogenes	1639	TEM-208	3001385	0.000019		Cephalosporin,Monobactam,Penam,Penem		
+Listeria monocytogenes	1639	AAC(6')-Ii	3002556	0.000019	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	AadA5	3002605	0.000019	Spectinomycin,Streptomycin	Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	ANT(6)-Ia	3002626	0.000289	Streptomycin	Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	Aad(6)	3002628	0.000019	Streptomycin	Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	ANT(9)-Ia	3002630	0.000019	Spectinomycin	Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	Spd	3002631	0.000019	Spectinomycin	Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	APH(3')-IIa	3002644	0.000038	Butirosin,Gentamicin B,Kanamycin A,Neomycin,Paromomycin,Ribostamycin	Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	APH(3')-IIIa	3002647	0.000366	Amikacin,Butirosin,Gentamicin B,Isepamicin,Kanamycin A,Neomycin,Paromomycin,Ribostamycin	Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	CatI	3002683	0.001539	Azidamfenicol,Chloramphenicol,Thiamphenicol	Phenicol antibiotic		
+Listeria monocytogenes	1639	FexA	3002704	0.000539	Chloramphenicol,Florfenicol	Phenicol antibiotic	transposon	Tn558
+Listeria monocytogenes	1639	QnrB19	3002734	0.000058	CiprOfloxacin	Fluoroquinolone antibiotic		
+Listeria monocytogenes	1639	MsrC	3002819	0.000038	Erythromycin,Quinupristin	Macrolide antibiotic,Streptogramin antibiotic		
+Listeria monocytogenes	1639	ErmY	3002825	0.000019	Azithromycin,Erythromycin,Oleandomycin	Macrolide antibiotic		
+Listeria monocytogenes	1639	VgaA	3002829	0.000077	Clindamycin,Virginiamycin M1	Lincosamide antibiotic,Streptogramin antibiotic		
+Listeria monocytogenes	1639	VgaALC	3002830	0.000038	Clindamycin,Lincomycin,Virginiamycin M1	Lincosamide antibiotic,Streptogramin antibiotic	plasmid	pAMT3
+Listeria monocytogenes	1639	LnuA	3002835	0.000077	Lincomycin,Pirlimycin	Lincosamide antibiotic	plasmid	pLNU4(rep21),pLNU7(rep21)
+Listeria monocytogenes	1639	LnuB	3002836	0.000481	Clindamycin,Lincomycin	Lincosamide antibiotic		
+Listeria monocytogenes	1639	DfrA17	3002860	0.000019	Trimethoprim	Diaminopyrimidine antibiotic		
+Listeria monocytogenes	1639	DfrC	3002865	0.000077	Trimethoprim	Diaminopyrimidine antibiotic		
+Listeria monocytogenes	1639	DfrD	3002866	0.000115	Trimethoprim	Diaminopyrimidine antibiotic		
+Listeria monocytogenes	1639	DfrG	3002868	0.001097	Trimethoprim	Diaminopyrimidine antibiotic		
+Listeria monocytogenes	1639	DfrE	3002875	0.000231	Trimethoprim	Diaminopyrimidine antibiotic		
+Listeria monocytogenes	1639	SAT-4	3002897	0.000019	Streptothricin	Nucleoside antibiotic		
+Listeria monocytogenes	1639	VanR gene in vanC cluster	3002922	0.000269		glycoPeptide antibiotic		
+Listeria monocytogenes	1639	QacA	3003046	0.000173		Fluoroquinolone antibiotic	plasmid	pCSF41498_1
+Listeria monocytogenes	1639	LsaE	3003206	0.000462	Lincomycin,Pleuromutilin	Lincosamide antibiotic,Pleuromutilin antibiotic		
+Listeria monocytogenes	1639	Staphylococcus aureus gyrB conferring resistance to aminocoumarin	3003301	0.000038	Clorobiocin,Coumermycin A1,Novobiocin	Aminocoumarin antibiotic		
+Listeria monocytogenes	1639	OptrA	3003746	0.000058	Chloramphenicol,Florfenicol,Linezolid,Tedizolid	Oxazolidinone antibiotic,Phenicol antibiotic		
+Listeria monocytogenes	1639	Listeria monocytogenes mprF	3003770	0.999557	Defensin	Peptide antibiotic	plasmid	DOp1(repUS43)
+Listeria monocytogenes	1639	QacH	3003836	0.00025		Disinfecting agents and antiseptics		
+Listeria monocytogenes	1639	Mrx	3003839	0.000019		Macrolide antibiotic		
+Listeria monocytogenes	1639	LeuO	3003843	0.000019		Disinfecting agents and antiseptics,Nucleoside antibiotic		
+Listeria monocytogenes	1639	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	3003889	0.000019	Fosfomycin	Phosphonic acid antibiotic		
+Listeria monocytogenes	1639	ANT(4')-Ib	3003905	0.000038	Amikacin,Dibekacin,Isepamicin,Tobramycin	Aminoglycoside antibiotic		
+Listeria monocytogenes	1639	EfrA	3003948	0.000058		Fluoroquinolone antibiotic,Macrolide antibiotic,Rifamycin antibiotic		
+Listeria monocytogenes	1639	EfrB	3003949	0.000096		Fluoroquinolone antibiotic,Macrolide antibiotic,Rifamycin antibiotic		
+Listeria monocytogenes	1639	TetA(46)	3004032	0.000019		Tetracycline antibiotic		
+Listeria monocytogenes	1639	TetB(46)	3004033	0.000019		Tetracycline antibiotic		
+Listeria monocytogenes	1639	LnuG	3004085	0.000231	Lincomycin	Lincosamide antibiotic	plasmid	pLM33(rep25)
+Listeria monocytogenes	1639	Streptococcus suis chloramphenicol acetyltransferase	3004455	0.001482	Chloramphenicol	Phenicol antibiotic		
+Listeria monocytogenes	1639	Lin	3004651	0.997095	Lincomycin	Lincosamide antibiotic	plasmid,IS	IS1182,DOp1(repUS43)
+Listeria monocytogenes	1639	CatA8	3004658	0.000269	Chloramphenicol	Phenicol antibiotic		
+Listeria monocytogenes	1639	FosD	3004674	0.000019	Fosfomycin	Phosphonic acid antibiotic		
+Listeria monocytogenes	1639	QacEdelta1	3005010	0.000019		Disinfecting agents and antiseptics		
+Listeria monocytogenes	1639	Cfr(D)	3005021	0.000019	Linezolid,Teicoplanin,Vancomycin	glycoPeptide antibiotic,Oxazolidinone antibiotic		
+Listeria monocytogenes	1639	BLMT	3005036	0.000019		glycoPeptide antibiotic		
+Listeria monocytogenes	1639	NorC	3007010	0.000019		Disinfecting agents and antiseptics,Fluoroquinolone antibiotic		
+Listeria monocytogenes	1639	QacG	3007015	0.000077	Benzalkonium chloride	Disinfecting agents and antiseptics		
+Listeria monocytogenes	1639	Msr(G)	3007042	0.000077	Azithromycin,Erythromycin	Macrolide antibiotic		
+Listeria monocytogenes	1639	MefF	3007044	0.000077		Macrolide antibiotic		

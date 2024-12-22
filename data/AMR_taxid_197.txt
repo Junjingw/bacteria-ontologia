@@ -1,0 +1,182 @@
+pathogen_name	taxonid	ARG_name	aro_id	frequency	antibiotic_name	drugclass	associated_MGE_type	associated_MGE_element
+Campylobacter jejuni	197	Tetracycline-resistant ribosomal protection protein	0000002	0.433963		Tetracycline antibiotic		
+Campylobacter jejuni	197	ATP-binding cassette (ABC) antibiotic efflux pump	0010001	0.999982				
+Campylobacter jejuni	197	Major facilitator superfamily (MFS) antibiotic efflux pump	0010002	0.999982				
+Campylobacter jejuni	197	Resistance-nodulation-cell division (RND) antibiotic efflux pump	0010004	0.997338				
+Campylobacter jejuni	197	Determinant of antibiotic resistance	3000000	1				
+Campylobacter jejuni	197	Beta-lactamase	3000001	0.999947				
+Campylobacter jejuni	197	Class B (metallo-) beta-lactamase	3000004	0.999947				
+Campylobacter jejuni	197	VanX	3000011	0.000018		glycoPeptide antibiotic		
+Campylobacter jejuni	197	TEM beta-lactamase	3000014	0.000018	Ampicillin	Penam		
+Campylobacter jejuni	197	CTX-M beta-lactamase	3000016	0.000018		Cephalosporin		
+Campylobacter jejuni	197	OXA beta-lactamase	3000017	0.749599	Cefalotin,ClOxacillin,Oxacillin	Cephalosporin,Penam		
+Campylobacter jejuni	197	VanS	3000071	0.000071		glycoPeptide antibiotic		
+Campylobacter jejuni	197	EmrB	3000074	0.000564		Fluoroquinolone antibiotic		
+Campylobacter jejuni	197	Class D beta-lactamase	3000075	0.749599				
+Campylobacter jejuni	197	VanY	3000077	0.000018		glycoPeptide antibiotic		
+Campylobacter jejuni	197	Class A beta-lactamase	3000078	0.000088				
+Campylobacter jejuni	197	Multidrug and toxic compound extrusion (MATE) transporter	3000112	0.997162				
+Campylobacter jejuni	197	Aminoglycoside acetyltransferase (AAC)	3000121	0.976486				
+Campylobacter jejuni	197	Chloramphenicol acetyltransferase (CAT)	3000122	0.006804		Phenicol antibiotic		
+Campylobacter jejuni	197	APH(3')	3000126	0.078949		Aminoglycoside antibiotic		
+Campylobacter jejuni	197	APH(6)	3000151	0.000035		Aminoglycoside antibiotic		
+Campylobacter jejuni	197	Tet(A)	3000165	0.000035	Tetracycline	Tetracycline antibiotic		
+Campylobacter jejuni	197	Tet(M)	3000186	0.435514	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Campylobacter jejuni	197	Tet(O)	3000190	0.437223	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic	plasmid	pCFSAN032806,pCJDM67 L,pFORC46.1,p20827L,pGMI16-002,pCJDM210L,pBfR-CA-14430,pCJ14980A,pCJP002,pCJDM202,pCJDM204L,pRM5611_48kb,pCC14983A-1,pAR-0415,pccdm3,pRM1246_ERRC,pccdm2,pAR-0413-1,pTet-M129,pRM4661_48kbp,pFB1TET,pTet,pCJDM218,pCJFEX
+Campylobacter jejuni	197	Tet(S)	3000192	0.435514	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Campylobacter jejuni	197	Tet(W)	3000194	0.435514	Chlortetracycline,Demeclocycline,Doxycycline,Minocycline,Oxytetracycline,Tetracycline	Tetracycline antibiotic		
+Campylobacter jejuni	197	AcrB	3000216	0.999982		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Campylobacter jejuni	197	ANT(6)	3000225	0.011863		Aminoglycoside antibiotic		
+Campylobacter jejuni	197	ANT(9)	3000228	0.008055		Aminoglycoside antibiotic		
+Campylobacter jejuni	197	TolC	3000237	0.000018		Aminocoumarin antibiotic,Aminoglycoside antibiotic,CarbaPenem,Cephalosporin,Cephamycin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Macrolide antibiotic,Penam,Penem,Peptide antibiotic,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Campylobacter jejuni	197	Chloramphenicol phosphotransferase	3000249	0.062732		Phenicol antibiotic		
+Campylobacter jejuni	197	ErmC	3000250	0.000053	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Campylobacter jejuni	197	EmrE	3000264	0.000018				
+Campylobacter jejuni	197	AAC(3)	3000322	0.623993		Aminoglycoside antibiotic		
+Campylobacter jejuni	197	VanT	3000372	0.000018		glycoPeptide antibiotic		
+Campylobacter jejuni	197	ErmB	3000375	0.000317	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Campylobacter jejuni	197	Sul2	3000412	0.000053	Mafenide,Sulfacetamide,Sulfadiazine,Sulfadimidine,Sulfadoxine,Sulfamethizole,Sulfamethoxazole,Sulfasalazine,Sulfisoxazole	Sulfonamide antibiotic		
+Campylobacter jejuni	197	Quinolone resistance protein (qnr)	3000419	0.000053	CiprOfloxacin,Gatifloxacin,LevOfloxacin,Moxifloxacin,Nalidixic acid,Norfloxacin,Sparfloxacin	Fluoroquinolone antibiotic		
+Campylobacter jejuni	197	AcrD	3000491	0.999982		Aminoglycoside antibiotic		
+Campylobacter jejuni	197	ErmF	3000498	0.000018	Azithromycin,Clarithromycin,Clindamycin,Dalfopristin,Dirithromycin,Erythromycin,Griseoviridin,Lincomycin,Madumycin II,Oleandomycin,Ostreogrycin B3,Patricin A,Patricin B,Pristinamycin IA,Pristinamycin IB,Pristinamycin IC,Quinupristin,Roxithromycin,Spiramycin,Telithromycin,Tylosin,Vernamycin C,Virginiamycin M1,Virginiamycin S2	Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Campylobacter jejuni	197	AcrF	3000502	0.999982		Cephalosporin,Cephamycin,Fluoroquinolone antibiotic,Penam		
+Campylobacter jejuni	197	CRP	3000518	0.000018		Fluoroquinolone antibiotic,Macrolide antibiotic,Penam		
+Campylobacter jejuni	197	CmeR	3000526	0.984436		Cephalosporin,Fluoroquinolone antibiotic,Fusidane antibiotic,Macrolide antibiotic		
+Campylobacter jejuni	197	MacB	3000535	0.996686		Macrolide antibiotic		
+Campylobacter jejuni	197	Erm 23S ribosomal RNA methyltransferase	3000560	0.00037		Lincosamide antibiotic,Macrolide antibiotic,Streptogramin antibiotic		
+Campylobacter jejuni	197	Subclass B1 (metallo-) beta-lactamase	3000568	0.000018				
+Campylobacter jejuni	197	Subclass B2 (metallo-) beta-lactamase	3000570	0.000018				
+Campylobacter jejuni	197	VanR	3000574	0.000123		glycoPeptide antibiotic		
+Campylobacter jejuni	197	MarR	3000718	0.002186		Cephalosporin,Disinfecting agents and antiseptics,Fluoroquinolone antibiotic,Penam,Phenicol antibiotic,Rifamycin antibiotic,Tetracycline antibiotic		
+Campylobacter jejuni	197	Antibiotic sensitive dihydrofolate reductase	3000745	0.000141	Brodimoprim,Iclaprim,Tetroxoprim,Trimethoprim	Diaminopyrimidine antibiotic		
+Campylobacter jejuni	197	CmeA	3000783	0.995523		Cephalosporin,Fluoroquinolone antibiotic,Fusidane antibiotic,Macrolide antibiotic		
+Campylobacter jejuni	197	CmeB	3000784	0.972256		Cephalosporin,Fluoroquinolone antibiotic,Fusidane antibiotic,Macrolide antibiotic		
+Campylobacter jejuni	197	CmeC	3000785	0.994941		Cephalosporin,Fluoroquinolone antibiotic,Fusidane antibiotic,Macrolide antibiotic		
+Campylobacter jejuni	197	MexE	3000803	0.000018		Diaminopyrimidine antibiotic,Fluoroquinolone antibiotic,Phenicol antibiotic		
+Campylobacter jejuni	197	TEM-1	3000873	0.000018	Amoxicillin,Ampicillin,Cefalotin,Cefazolin	Cephalosporin,Penam		
+Campylobacter jejuni	197	MecC	3001209	0.000018	Methicillin	Penam		
+Campylobacter jejuni	197	TEM-205	3001382	0.000018		Cephalosporin,Monobactam,Penam,Penem		
+Campylobacter jejuni	197	OXA-184	3001476	0.063314		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-185	3001477	0.000441		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-193	3001478	0.476654		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-61	3001773	0.060106		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	CTX-M-1	3001864	0.000018		Cephalosporin		
+Campylobacter jejuni	197	AAC(6')-Ie-APH(2'')-Ia bifunctional protein	3002597	0.000123	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Gentamicin A,Kanamycin A,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	AadA5	3002605	0.000018	Spectinomycin,Streptomycin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	ANT(6)-Ia	3002626	0.000353	Streptomycin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	Aad(6)	3002628	0.015793	Streptomycin	Aminoglycoside antibiotic	plasmid	pGMI16-002,pRM4661_48kbp,pCFSAN032806
+Campylobacter jejuni	197	APH(2'')-IIa	3002635	0.000106	Plazomicin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	APH(2'')-IIIa	3002636	0.000053	Amikacin,Gentamicin A,Kanamycin A,Tobramycin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	APH(3'')-Ib	3002639	0.000035	Streptomycin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	APH(3')-IIIa	3002647	0.078085	Amikacin,Butirosin,Gentamicin B,Isepamicin,Kanamycin A,Neomycin,Paromomycin,Ribostamycin	Aminoglycoside antibiotic	plasmid,IS	pCJ14980A,pCFSAN032806,ISMMS_VRE10_p3,pAR-0413-1,IS200/IS605,pCJP002,pGMI16-002,pRM4661_48kbp,pAR-0415,pcjDM,p1CFSAN032805
+Campylobacter jejuni	197	APH(3')-VIIa	3002654	0.000194	Kanamycin A,Neomycin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	APH(6)-Id	3002660	0.000035	Streptomycin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	APH(2'')-Ig	3002669	0.000511	Amikacin,Gentamicin A,Kanamycin A,Tobramycin	Aminoglycoside antibiotic	plasmid	pCFSAN032806
+Campylobacter jejuni	197	FexA	3002704	0.000458	Chloramphenicol,Florfenicol	Phenicol antibiotic	plasmid,IS	pCJFEX,IS6
+Campylobacter jejuni	197	QnrB19	3002734	0.000053	CiprOfloxacin	Fluoroquinolone antibiotic		
+Campylobacter jejuni	197	QnrD1	3002788	0.000018	CiprOfloxacin	Fluoroquinolone antibiotic		
+Campylobacter jejuni	197	LnuB	3002836	0.000053	Clindamycin,Lincomycin	Lincosamide antibiotic		
+Campylobacter jejuni	197	LnuC	3002837	0.001163	Lincomycin	Lincosamide antibiotic		
+Campylobacter jejuni	197	DfrA17	3002860	0.000018	Trimethoprim	Diaminopyrimidine antibiotic		
+Campylobacter jejuni	197	DfrA8	3002863	0.000018	Trimethoprim	Diaminopyrimidine antibiotic		
+Campylobacter jejuni	197	DfrC	3002865	0.000018	Trimethoprim	Diaminopyrimidine antibiotic		
+Campylobacter jejuni	197	SAT-4	3002897	0.027832	Streptothricin	Nucleoside antibiotic	plasmid,transposon	Tn5405,pCFSAN032806,pAR-0413-1,pGMI16-002,pRM4661_48kbp,p1CFSAN032805
+Campylobacter jejuni	197	CblA-1	3002999	0.000018	Cephaloridine	Cephalosporin		
+Campylobacter jejuni	197	LsaE	3003206	0.000053	Lincomycin,Pleuromutilin	Lincosamide antibiotic,Pleuromutilin antibiotic		
+Campylobacter jejuni	197	Staphylococcus aureus gyrB conferring resistance to aminocoumarin	3003301	0.000018	Clorobiocin,Coumermycin A1,Novobiocin	Aminocoumarin antibiotic		
+Campylobacter jejuni	197	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	3003369	0.000018	Pulvomycin	Elfamycin antibiotic		
+Campylobacter jejuni	197	OXA-446	3003602	0.00134		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-447	3003603	0.010417		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-448	3003604	0.001498		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-449	3003605	0.010558		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-450	3003606	0.000423		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-451	3003607	0.000758		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-452	3003608	0.001058		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-453	3003609	0.000247		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-460	3003616	0.026704		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-461	3003617	0.027303		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-465	3003621	0.004371		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-466	3003622	0.003754		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OptrA	3003746	0.000088	Chloramphenicol,Florfenicol,Linezolid,Tedizolid	Oxazolidinone antibiotic,Phenicol antibiotic	IS	IS6
+Campylobacter jejuni	197	Campylobacter jejuni gyrA conferring resistance to fluoroquinolones	3003789	0.267693	CiprOfloxacin	Fluoroquinolone antibiotic		
+Campylobacter jejuni	197	ANT(4')-Ib	3003905	0.000018	Amikacin,Dibekacin,Isepamicin,Tobramycin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	APH(2'')-If	3004191	0.006628	Dibekacin,Gentamicin A,Kanamycin A,Sisomicin,Tobramycin	Aminoglycoside antibiotic	plasmid,IS	pAR-0415,pGMI16-002,pAR-0413-1,IS200/IS605
+Campylobacter jejuni	197	Campylobacter coli chloramphenicol acetyltransferase	3004454	0.000335	Chloramphenicol	Phenicol antibiotic		
+Campylobacter jejuni	197	Streptococcus suis chloramphenicol acetyltransferase	3004455	0.0003	Chloramphenicol	Phenicol antibiotic	plasmid	pCJFEX
+Campylobacter jejuni	197	LnuP	3004601	0.000018	Lincomycin	Lincosamide antibiotic		
+Campylobacter jejuni	197	AAC(6')-Im	3004629	0.000106	2'-N-ethylNetilmicin,5-epiSisomicin,Amikacin,Dibekacin,Netilmicin,Sisomicin,Tobramycin	Aminoglycoside antibiotic		
+Campylobacter jejuni	197	OXA-489	3005724	0.001763		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-493	3005726	0.000053		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-576	3005797	0.00074		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-577	3005798	0.000423		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-578	3005799	0.000353		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-579	3005800	0.000441		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-580	3005801	0.004248		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-581	3005802	0.000141		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-582	3005803	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-583	3005804	0.000564		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-584	3005805	0.002785		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-585	3005806	0.001428		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-586	3005807	0.000353		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-587	3005808	0.000053		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-588	3005809	0.000071		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-589	3005810	0.000035		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-590	3005811	0.000123		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-591	3005812	0.004072		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-592	3005813	0.001251		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-594	3005815	0.00342		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-595	3005816	0.002344		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-596	3005817	0.000106		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-597	3005818	0.000405		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-598	3005819	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-599	3005820	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-600	3005821	0.000141		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-601	3005822	0.000247		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-602	3005823	0.000088		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-603	3005824	0.017856		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-604	3005825	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-605	3005826	0.0003		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-606	3005827	0.000088		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-607	3005828	0.000106		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-608	3005829	0.00037		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-609	3005830	0.004072		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-610	3005831	0.000264		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-611	3005832	0.008214		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-612	3005833	0.001022		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-613	3005834	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-614	3005835	0.000405		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-615	3005836	0.000088		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-616	3005837	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-617	3005838	0.000423		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-619	3005840	0.000141		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-620	3005841	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-621	3005842	0.000071		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-622	3005843	0.000441		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-623	3005844	0.010911		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-624	3005845	0.000317		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-625	3005846	0.000723		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-626	3005847	0.000159		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-627	3005848	0.000088		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-628	3005849	0.000035		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-629	3005850	0.000529		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-630	3005851	0.000176		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-631	3005852	0.001199		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-632	3005853	0.000159		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-633	3005854	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-634	3005855	0.00171		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-635	3005856	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-636	3005857	0.000123		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-637	3005858	0.000282		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-638	3005859	0.000881		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-639	3005860	0.000212		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-658	3005873	0.000441		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-659	3005874	0.008091		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-660	3005875	0.000071		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-783	3005986	0.001428		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-784	3005987	0.000018		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-785	3005988	0.000828		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	OXA-786	3005989	0.000264		CarbaPenem,Cephalosporin,Penam		
+Campylobacter jejuni	197	RAHN-2	3006980	0.000018		Cephalosporin		
+Campylobacter jejuni	197	QacG	3007015	0.000018	Benzalkonium chloride	Disinfecting agents and antiseptics		
+Campylobacter jejuni	197	Tet(O/M/O)	3007120	0.005482	Tetracycline	Tetracycline antibiotic	plasmid	pGMI16-002,pRM1246_ERRC,pCCDM224L
+Campylobacter jejuni	197	Tet(O/W/32/O)	3007122	0.001128	Tetracycline	Tetracycline antibiotic		
